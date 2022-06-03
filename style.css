@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    /* Cor de Fundo */
+    max-width: 800px;
+    /* Largura do Corpo */
+    margin: auto;
+    font-family: 'Times New Roman';
+  }
+  
