@@ -33,6 +33,20 @@ p {
   text-align-last: left;
   text-indent: 10%;
 }
+a{
+  text-decoration: none;
+}
+.imgBack {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  transition: 0.5s;
+}
+
+.imgBack:hover {
+  transform: scale(1.2);
+}
 
 /* Menu */
 
