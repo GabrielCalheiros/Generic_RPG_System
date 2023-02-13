@@ -9,96 +9,102 @@ body {
 }
 
 /* Texto */
-a{
-  color: blanchedalmond;
+h1, h3, h4, a, ul, p, h2, .rightSpam, .leftSpam {
+  color: white;
 }
+
+a {
+  text-decoration: none;
+}
+
+a:hover, a h3:hover, .cardBiblioteca:hover h1 {
+  color: goldenrod;
+}
+
 h1 {
   font-size: 20px;
-  color: white;
   text-align: center;
-  transition: 0.5s;
 }
 
 h2 {
   margin-top: 5%;
   font-size: 40px;
-  color: white;
   text-align: center;
   margin-bottom: 10px;
 }
-h3, h4{
-  color: white;
-}
-ul{
-  color: white;
-}
-table{
+
+table {
   margin-left: auto;
   margin-right: auto;
 }
 
 p {
-  color: white;
   text-align: justify;
   font-size: smaller;
   text-decoration: solid;
   text-align-last: left;
   text-indent: 10%;
 }
-a{
-  text-decoration: none;
-}
-.imgBack {
-  width: 25%;
+
+li, a, .imgBack, .imgCenter, .seta_some, h1, a h3:hover {
   transition: 0.5s;
 }
-.imgBack, .imgCenter {
+
+li:hover, a h3:hover, .cardBiblioteca:hover h1 {
+  transform: scale(1.1);
+}
+
+.imgBack {
+  width: 25%;
+}
+
+.imgBack,
+.imgCenter {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  transition: 0.5s;
 }
 
 .imgBack:hover {
   transform: scale(1.2);
 }
 
-.lineTable{
-  height:2.2vh;
+.lineTable {
+  height: 2.2vh;
   transition: 2s;
 }
 
-.rightcell{
-  width:30%;
-  text-align:right;
-}
-.leftCell{
-  width:70%;
-  text-align:left;
+.rightcell {
+  width: 30%;
+  text-align: right;
 }
 
-.rightSpam, .leftSpam{
-  color:rgb(255,255,255);
-  vertical-align:baseline;
-  font-family:Times New Roman;
+.leftCell {
+  width: 70%;
+  text-align: left;
 }
 
-.rightSpam{
-  font-weight:bold;
+.rightSpam,
+.leftSpam {
+  vertical-align: baseline;
+  font-family: Times New Roman;
+}
+
+.rightSpam {
+  font-weight: bold;
   margin-right: 0.5vw;
 }
-.leftSpam{
+
+.leftSpam {
   margin-left: 0.5vw;
   font-style: italic;
 }
-
 
 /* Menu */
 
 .seta_some {
   display: none;
   width: 100%;
-  transition: 0.5s;
 }
 
 .seta_virada {
@@ -141,13 +147,11 @@ a{
 }
 
 .cardBiblioteca:hover .seta_some {
+  transition: 0.5s;
   display: block;
 }
 
-.cardBiblioteca:hover h1 {
-  transform: scale(1.1);
-  color: gold;
-}
+
 
 .Titulo {
   grid-area: Titulo;
@@ -173,7 +177,8 @@ a{
   width: 50%;
 }
 
-.two_sided_table {  display: grid;
+.two_sided_table {
+  display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr;
   gap: 0% 0%;
@@ -182,6 +187,10 @@ a{
     "right_side left_side";
 }
 
-.right_side { grid-area: right_side; }
+.right_side {
+  grid-area: right_side;
+}
 
-.left_side { grid-area: left_side; }
+.left_side {
+  grid-area: left_side;
+}
