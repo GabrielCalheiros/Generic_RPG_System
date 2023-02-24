@@ -1,11 +1,8 @@
 body {
-  /* Cor de Fundo */
   background-color: black;
-  /* Largura do Corpo */
   max-width: 800px;
   margin: auto;
   font-family: 'Times New Roman';
-
 }
 
 /* Texto */
@@ -13,7 +10,7 @@ h1, h3, h4, a, ul, p, h2, .rightSpam, .leftSpam {
   color: white;
 }
 
-a {
+a, .texto {
   text-decoration: none;
 }
 
@@ -50,7 +47,7 @@ li, a, .imgBack, .imgCenter, .seta_some, h1, a h3:hover {
   transition: 0.5s;
 }
 
-li:hover, a h3:hover, .cardBiblioteca:hover h1 {
+li:hover, a h3:hover, .cardBiblioteca:hover h1, .imgBack:hover{
   transform: scale(1.1);
 }
 
@@ -63,10 +60,6 @@ li:hover, a h3:hover, .cardBiblioteca:hover h1 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-}
-
-.imgBack:hover {
-  transform: scale(1.2);
 }
 
 .lineTable {
@@ -131,26 +124,29 @@ li:hover, a h3:hover, .cardBiblioteca:hover h1 {
   grid-area: texto;
   text-align: center;
   align-self: center;
-  text-decoration: none;
 }
+
 
 .seta-direita {
   grid-area: seta-direita;
   align-self: center;
   text-align: -webkit-right;
+  filter: invert(100%);
+  transition: 0.5s;
 }
 
 .seta-esquerda {
   grid-area: seta-esquerda;
   align-self: center;
   text-align: -webkit-left;
-}
-
-.cardBiblioteca:hover .seta_some {
+  filter: invert(100%);
   transition: 0.5s;
-  display: block;
 }
 
+.cardBiblioteca:hover .seta_some, .cardBiblioteca:hover .seta-esquerda, .cardBiblioteca:hover .seta-direita {
+  display: block;
+  filter: invert(0%);
+}
 
 
 .Titulo {
