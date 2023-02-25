@@ -1,0 +1,129 @@
+:root{
+transition: 1s;
+}
+/* Formarting */
+body {
+  width: 21cm;
+  margin: auto;
+  font-family: 'Times New Roman';
+  font-size: 12;
+  margin-bottom: 0.5cm;
+  box-shadow: 0 0 0.5cm rgba(var(--ink-color),0.5);
+  min-height: 100vh;
+  background: var(--page-color);
+  color: var(--ink-color);
+
+}
+a{
+  text-decoration: none; 
+  color: var(--ink-color);}
+
+h1{
+  text-align: center; 
+}
+p{
+  text-align: justify;
+  text-decoration: solid;
+  text-align-last: left;
+  text-indent: 1.5cm;
+}
+
+hr{
+  border-color: var(--ink-color);
+}
+button, select, input{
+  border-style: none;
+  width: 8vw;
+  height: 3vh;
+  font-weight: bolder;
+  text-align: center;
+  background-color: var(--ink-color);
+  color: var(--page-color);
+}
+
+.svgChange{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  fill: var(--ink-color);
+}
+.divHolder svg{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/*  
+margem esquerda e direita: 2 cm;
+superior e inferior: 3 cm
+espaçamento 1,5 entre linhas.
+
+Exceções: usar tamanho 10 nas seguintes situações:
+notas de rodapé;
+paginação;
+legendas e fontes das figuras e tabelas.
+
+Insira a paginação no canto superior direito, em algarismos arábicos, em fonte 10. A primeira página é contada mas não numerada.
+
+texto: justificado, abrindo os parágrafos com recuso de 1,5cm
+*/
+.lang_button_pt, .lang_button_eng{
+  background-color: var(--page-color);
+  background-repeat:no-repeat;
+  width: 4vh;
+  height: 4vh;
+  border: none;
+  background-size: cover;
+  color: var(--ink-color);}
+
+.selected_button{
+  filter: brightness(0.5);
+}
+
+
+/* Duas Colunas */
+
+.two_divisions {  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  gap: 0% 0%;
+  grid-auto-flow: row;
+  grid-template-areas:
+    "two_divisions_left two_divisions_right";
+}
+
+.two_divisions_left { grid-area: two_divisions_left; margin-left: 2cm; }
+
+.two_divisions_right { grid-area: two_divisions_right; margin-right: 2cm; }
+
+
+
+/*               ------------------------------------------- */
+.MainMenu {  display: grid;
+  grid-template-columns: 30% 40% 30%;
+  grid-template-rows: 1fr;
+  gap: 0% 0%;
+  grid-auto-flow: row;
+  grid-template-areas:
+    "left_arrow middle right_arrow";
+    width: 80%;
+    margin-left: 10%;
+}
+
+.left_arrow { grid-area: left_arrow; }
+
+.right_arrow { grid-area: right_arrow; }
+
+.middle { grid-area: middle; }
+
+.MainMenu .svgChange{
+  fill: var(--page-color);
+}
+.MainMenu:hover .svgChange{
+  fill: var(--ink-color);
+}
+.MainMenu:hover h1{
+  transform: scale(1.1);
+}

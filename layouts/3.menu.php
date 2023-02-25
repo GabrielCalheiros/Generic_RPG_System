@@ -1,89 +1,130 @@
 <?php
 
-
-
-function print_menu_card($nome,$links){
-    echo'
-    <a href="./'.$links.'">
-    <div class="cardBiblioteca">
-    <div class="texto">
-    <h1>'.$nome.'</h1></div>
-    <div class="seta-direita"><img src="./images/seta.svg" class="seta_some"></div>
-    <div class="seta-esquerda"><img src="./images/seta.svg" class="seta_some
-            seta_virada"></div>
-    </div></a>
-    ';
-}
-
 function listMenu(array $nomes): array{
-    echo'
-    <style>
-	.cardBiblioteca {
-  display: grid;
-  grid-template-columns: 30% 40% 30%;
-  grid-template-rows: 100%;
-  gap: 5px 8px;
-  /*grid-auto-flow: row;*/
-  grid-template-areas:
-    "seta-esquerda texto seta-direita";
-  width: 100%;
-  height: 10%;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 500px;
-}
-
-.cardBiblioteca:hover .seta_some, .cardBiblioteca:hover .seta-esquerda, .cardBiblioteca:hover .seta-direita {
-    display: block;
-    filter: invert(0%);
-  }
-
-  .cardBiblioteca:hover h1 {
-    color: goldenrod;
-  }
-
-  .texto {
-    grid-area: texto;
-    text-align: center;
-    align-self: center;
-    text-decoration: none;
-
-  }
-
-
-.seta-direita {
-    grid-area: seta-direita;
+  $svg = '<div class="divHolder"><svg
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+  version="1.1"
+  id="svg2"
+  xml:space="preserve"
+  width="117.37025"
+  height="23.18601"
+  viewBox="0 0 117.37026 23.18601"
+  sodipodi:docname="seta.svg"
+  inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)" class="svgChange"
+  style="
+  width: -webkit-fill-available;
+    rotate: 180deg;
+"
+"><metadata
+    id="metadata8"><rdf:RDF><cc:Work
+        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+    id="defs6" /><sodipodi:namedview
+    pagecolor="#ffffff"
+    bordercolor="#666666"
+    borderopacity="1"
+    objecttolerance="10"
+    gridtolerance="10"
+    guidetolerance="10"
+    inkscape:pageopacity="0"
+    inkscape:pageshadow="2"
+    inkscape:window-width="1306"
+    inkscape:window-height="704"
+    id="namedview4"
+    showgrid="false"
+    inkscape:zoom="3.2777778"
+    inkscape:cx="36.21945"
+    inkscape:cy="11.676517"
+    inkscape:window-x="60"
+    inkscape:window-y="27"
+    inkscape:window-maximized="1"
+    inkscape:current-layer="g10" /><g
+    id="g10"
+    inkscape:groupmode="layer"
+    inkscape:label="ink_ext_XXXXXX"
+    transform="matrix(1.3333333,0,0,-1.3333333,-0.74947865,36.961105)"><path
+      inkscape:connector-curvature="0"
+      id="path26"
+      style="fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1" class="svgChange"
+      d="m 11.3359,14.723 c -0.7621,0.734 -3.77379,3.4102 -7.91793,4.304 4.14414,0.8949 7.15583,3.571 7.91793,4.3011 0.7692,-0.7301 3.7813,-3.4062 7.9262,-4.3011 -4.1449,-0.8938 -7.157,-3.57 -7.9262,-4.304 z m 73.0661,7.2379 c 0,0 -0.675,-1.3238 -2.7649,-2.2187 h -59.934 c -1.2422,0.793 -2.4922,1.7457 -3,2.9609 -0.523,1.2739 -0.4922,2.7617 0.6758,3.6559 2.8359,2.1449 5.2731,-0.7461 3.6801,-2.336 -0.3442,-0.3351 -1.2738,-0.3281 -0.8641,0.2391 0.5242,0.7149 -0.1988,1.832 -1.2929,1.4719 -0.718,-0.2301 -0.9329,-1.0192 -0.6641,-1.652 0.098,-0.2379 0.2461,-0.4371 0.4141,-0.598 0.625,-0.5578 1.5902,-0.625 2.3441,-0.2461 1.1988,0.6062 1.3629,1.7621 1.0117,2.7351 l -0.0199,0.0622 c -0.1949,0.516 -0.543,0.9687 -0.9609,1.2347 -1.2258,0.7891 -3.1129,0.4723 -4.136,-0.407 -1.3359,-1.1481 -1.4769,-2.902 -0.848,-4.4289 0.5308,-1.282 1.805,-2.2891 3.0859,-3.0711 -5.309,0.3793 -9.1328,4.1332 -9.5738,4.5863 l -0.211,0.2387 -0.223,-0.2387 C 10.941,23.7621 6.63711,19.3242 0.671875,19.3242 H 0.562109 v -0.5941 h 0.109766 c 0.585935,0 1.151955,-0.0422 1.766015,-0.1281 5.06992,-0.7348 8.64801,-4.4649 8.68321,-4.4969 l 0.223,-0.2379 0.211,0.2379 c 0.3789,0.3828 3.8,3.7929 8.6871,4.4969 0.2848,0.039 0.5668,0.039 0.8476,0.0582 -1.2699,-0.7813 -2.516,-1.7731 -3.0468,-3.0391 -0.6289,-1.5313 -0.4879,-3.2891 0.848,-4.4301 1.0231,-0.8789 2.9102,-1.19881 4.136,-0.4101 0.4109,0.2582 0.7429,0.7031 0.946,1.207 l 0.0661,0.157 c 0.316,0.9449 0.125,2.0699 -1.043,2.6641 -0.7539,0.382 -1.7191,0.3121 -2.3441,-0.2391 -0.168,-0.164 -0.3161,-0.359 -0.4141,-0.5929 -0.2688,-0.6411 -0.0539,-1.4301 0.6641,-1.6649 1.0941,-0.359 1.8171,0.7578 1.2929,1.4809 -0.4097,0.5699 0.5199,0.5742 0.8641,0.23 1.593,-1.582 -0.8442,-4.47612 -3.6801,-2.332 -1.168,0.8949 -1.1988,2.3789 -0.6758,3.657 0.5078,1.218 1.7578,2.1641 3,2.961 h 59.8867 c 2.1332,-0.891 2.8122,-2.2391 2.8122,-2.2391 0,0 0.989,2.95 4.1878,2.95 -3.1988,0 -4.1878,2.941 -4.1878,2.941" /><path
+      inkscape:connector-curvature="0"
+      id="path34"
+      style="fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1" class="svgChange"
+      d="m 7.46094,19.027 c 2.59026,-0.386 3.87496,-2.125 3.87496,-2.125 0,0 1.5469,1.8171 3.8789,2.125 -2.332,0.305 -3.8789,2.125 -3.8789,2.125 0,0 -1.2847,-1.7379 -3.87496,-2.125" /></g></svg></div>';
+    echo'';
+    $svg2 = '<div class="divHolder"><svg
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+  version="1.1"
+  id="svg2"
+  xml:space="preserve"
+  width="117.37025"
+  height="23.18601"
+  viewBox="0 0 117.37026 23.18601"
+  sodipodi:docname="seta.svg"
+  inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)" class="svgChange"
+  style="
+    width: -webkit-fill-available;
     align-self: center;
     text-align: -webkit-right;
-    filter: invert(100%);
-    transition: 0.5s;
-  }
-  
-  .seta-esquerda {
-    grid-area: seta-esquerda;
-    align-self: center;
-    text-align: -webkit-left;
-    filter: invert(100%);
-    transition: 0.5s;
-  }
-
-  .seta_some {
-    display: none;
-    width: 100%;
-  }
-
-  .seta_virada {
-    transform: rotate(180deg);
-    width: 100%;
-  }
-  
-
-</style>
-';
-    foreach($nomes as $items => $links){
-        print_menu_card($item,$link);
+"><metadata
+    id="metadata8"><rdf:RDF><cc:Work
+        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+    id="defs6" /><sodipodi:namedview
+    pagecolor="#ffffff"
+    bordercolor="#666666"
+    borderopacity="1"
+    objecttolerance="10"
+    gridtolerance="10"
+    guidetolerance="10"
+    inkscape:pageopacity="0"
+    inkscape:pageshadow="2"
+    inkscape:window-width="1306"
+    inkscape:window-height="704"
+    id="namedview4"
+    showgrid="false"
+    inkscape:zoom="3.2777778"
+    inkscape:cx="36.21945"
+    inkscape:cy="11.676517"
+    inkscape:window-x="60"
+    inkscape:window-y="27"
+    inkscape:window-maximized="1"
+    inkscape:current-layer="g10" /><g
+    id="g10"
+    inkscape:groupmode="layer"
+    inkscape:label="ink_ext_XXXXXX"
+    transform="matrix(1.3333333,0,0,-1.3333333,-0.74947865,36.961105)"><path
+      inkscape:connector-curvature="0"
+      id="path26"
+      style="fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1" class="svgChange"
+      d="m 11.3359,14.723 c -0.7621,0.734 -3.77379,3.4102 -7.91793,4.304 4.14414,0.8949 7.15583,3.571 7.91793,4.3011 0.7692,-0.7301 3.7813,-3.4062 7.9262,-4.3011 -4.1449,-0.8938 -7.157,-3.57 -7.9262,-4.304 z m 73.0661,7.2379 c 0,0 -0.675,-1.3238 -2.7649,-2.2187 h -59.934 c -1.2422,0.793 -2.4922,1.7457 -3,2.9609 -0.523,1.2739 -0.4922,2.7617 0.6758,3.6559 2.8359,2.1449 5.2731,-0.7461 3.6801,-2.336 -0.3442,-0.3351 -1.2738,-0.3281 -0.8641,0.2391 0.5242,0.7149 -0.1988,1.832 -1.2929,1.4719 -0.718,-0.2301 -0.9329,-1.0192 -0.6641,-1.652 0.098,-0.2379 0.2461,-0.4371 0.4141,-0.598 0.625,-0.5578 1.5902,-0.625 2.3441,-0.2461 1.1988,0.6062 1.3629,1.7621 1.0117,2.7351 l -0.0199,0.0622 c -0.1949,0.516 -0.543,0.9687 -0.9609,1.2347 -1.2258,0.7891 -3.1129,0.4723 -4.136,-0.407 -1.3359,-1.1481 -1.4769,-2.902 -0.848,-4.4289 0.5308,-1.282 1.805,-2.2891 3.0859,-3.0711 -5.309,0.3793 -9.1328,4.1332 -9.5738,4.5863 l -0.211,0.2387 -0.223,-0.2387 C 10.941,23.7621 6.63711,19.3242 0.671875,19.3242 H 0.562109 v -0.5941 h 0.109766 c 0.585935,0 1.151955,-0.0422 1.766015,-0.1281 5.06992,-0.7348 8.64801,-4.4649 8.68321,-4.4969 l 0.223,-0.2379 0.211,0.2379 c 0.3789,0.3828 3.8,3.7929 8.6871,4.4969 0.2848,0.039 0.5668,0.039 0.8476,0.0582 -1.2699,-0.7813 -2.516,-1.7731 -3.0468,-3.0391 -0.6289,-1.5313 -0.4879,-3.2891 0.848,-4.4301 1.0231,-0.8789 2.9102,-1.19881 4.136,-0.4101 0.4109,0.2582 0.7429,0.7031 0.946,1.207 l 0.0661,0.157 c 0.316,0.9449 0.125,2.0699 -1.043,2.6641 -0.7539,0.382 -1.7191,0.3121 -2.3441,-0.2391 -0.168,-0.164 -0.3161,-0.359 -0.4141,-0.5929 -0.2688,-0.6411 -0.0539,-1.4301 0.6641,-1.6649 1.0941,-0.359 1.8171,0.7578 1.2929,1.4809 -0.4097,0.5699 0.5199,0.5742 0.8641,0.23 1.593,-1.582 -0.8442,-4.47612 -3.6801,-2.332 -1.168,0.8949 -1.1988,2.3789 -0.6758,3.657 0.5078,1.218 1.7578,2.1641 3,2.961 h 59.8867 c 2.1332,-0.891 2.8122,-2.2391 2.8122,-2.2391 0,0 0.989,2.95 4.1878,2.95 -3.1988,0 -4.1878,2.941 -4.1878,2.941" /><path
+      inkscape:connector-curvature="0"
+      id="path34"
+      style="fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1" class="svgChange"
+      d="m 7.46094,19.027 c 2.59026,-0.386 3.87496,-2.125 3.87496,-2.125 0,0 1.5469,1.8171 3.8789,2.125 -2.332,0.305 -3.8789,2.125 -3.8789,2.125 0,0 -1.2847,-1.7379 -3.87496,-2.125" /></g></svg></div>';
+    foreach($nomes as $nome => $links){
+      echo'
+      <a href="./'.$links.'">
+      <div class="MainMenu">
+      <div class="left_arrow" style="display: flex;align-items: center;margin-left: auto;">'.$svg.'</div>
+      <div class="right_arrow" style="display: flex;align-items: center;margin-right: auto;">'.$svg2.'</div>
+      <div class="middle"><h1 style="font-size: 0.5cm;">'.$nome.'</h1></div>
+      </div></a>
+      ';
     }
-    return nomes;
+    return $nomes;
 }
 
 

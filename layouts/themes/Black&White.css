@@ -1,0 +1,7 @@
+@import url(./layout.css);
+:root{
+    --page-color: black;
+    --ink-color: white;
+    --detail-color: goldenrod;
+  }
+  @import url(./style.css);

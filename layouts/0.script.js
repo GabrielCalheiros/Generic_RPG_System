@@ -1,4 +1,6 @@
-function toggleDarkLight() {
-var body = document.getElementById("body");
-var currentClass = body.className;
-body.className = currentClass == "dark-mode" ? "light-mode" : "dark-mode";}
+const themeSelect = document.getElementById("themeSelect");
+const themeStylesheet = document.getElementById("themeStylesheet");
+
+themeSelect.addEventListener("change", function(){
+themeStylesheet.setAttribute("href","layouts/themes/"+this.value+".css");
+});
