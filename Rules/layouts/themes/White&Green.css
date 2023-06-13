@@ -1,7 +1,0 @@
-@import url(./layout.css);
-:root{
-    --page-color: rgb(255, 255, 255);
-    --ink-color: rgb(37, 80, 40);
-    --detail-color: rgb(82, 145, 87);
-  }
-  @import url(./style.css);
