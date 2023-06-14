@@ -1,5 +1,8 @@
 # Spirituality and Religion
 
+![Image1](./img/religion01.svg)
+
+
 In the world of role-playing games, it's important to consider the spirituality and religious beliefs of a character. The Spirituality Sheet is an integral part of character creation and is designed to help players define their character's connection to the spiritual and religious aspects of the game world. This chapter will detail the mechanics behind the Spirituality Sheet, including the options available for defining the strength of a character's belief or association with a religious system, as well as any relevant traits and skills that may impact the character's spirituality and religious beliefs. Whether playing as a devout follower of a particular faith or a non-believer, the Spirituality Sheet will help players bring their character to life and create a more immersive role-playing experience.
 
 ## Adherence
@@ -18,6 +21,8 @@ This field reflects the character's willingness to accept differences of belief 
 1.	Inclusive
 2.	Tolerant
 3.	Intolerant
+
+![Image1](./img/religion03.svg)
 
 ## Religious Demeanor
 
@@ -51,6 +56,8 @@ Having an understanding of a character's religious association can provide insig
 | Temple         | A place of worship associated with a specific religion or spiritual tradition.                                                                     |
 | Monastery      | A religious community, often associated with a specific order or denomination, known for their dedication to a life of contemplation and devotion. |
 | Mystic Order   | A secret society or organization dedicated to the study and practice of spiritual and esoteric knowledge.                                          |
+
+![Image1](./img/religion04.svg)
 
 ## Religious Roles
 
@@ -103,6 +110,8 @@ The "Religious Roles" field represents the various positions and titles within a
 | Apostle           | A messenger or disciple of a religious teacher or leader.                                           |
 | Recluse           | One who lives in solitude for spiritual or religious reasons.                                       |
 | Necromancer       | A person who communicates with the dead for the purpose of gaining knowledge or guidance.           |
+
+![Image1](./img/religion02.svg)
 
 ## Practices/Rituals:
 

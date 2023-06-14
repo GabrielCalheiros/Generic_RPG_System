@@ -1,3 +1,5 @@
+# ![Image1](./img/index01.svg)
+
 # Presentation
 
 In the realm of tabletop role-playing games, Eidos stands as a unique and innovative addition to the genre. Rooted in the principles of open source development, this game is designed to be both immersive and accessible, offering a deep and rich narrative experience that is driven by player choice. The game's mechanics are based on a six-sided die, making it accessible to players of all skill levels, and its GPLv3 license ensures that the game remains open and freely available to all who wish to play it.

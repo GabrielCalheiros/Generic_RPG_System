@@ -36,7 +36,9 @@ p a, a:hover{
 h1, h2, a, body{
     color: var(--text-color);
 }
-
+h1{
+  text-align: center;
+}
 .card, .card:hover{
     background-color: var(--blade-color) !important;
 }
@@ -63,6 +65,14 @@ th {
   
   table thead th {
     border-bottom: none;
+  }
+
+  .col-md-9 img{
+    display: block;
+    background-color: #0f0f0f00 !important;
+    border: none;
+    width: 100%;
+    filter: opacity(0.8);
   }
 
 

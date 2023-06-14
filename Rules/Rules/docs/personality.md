@@ -310,7 +310,7 @@ In this RPG system, we aim to provide an accurate representation of human mental
   * A group of mental illnesses characterized by distorted thinking, perceptions, emotions, and behaviors.
 
 
-## Favorite Topics of Conversation
+## Topics of Conversation
 
 One helpful way to bring depth to your character is to determine what they like to talk about in casual social situations. People are naturally inclined to talk about things they are skilled in or have a personal interest in, and this is an easy way to help flesh out your character. By examining your character's skills, hobbies, training, and background, you can start to determine what topics they might be passionate about. This information can be used to create a more complete picture of who your character is and how they interact with others in social situations. By giving your character a few key topics they like to discuss, you can help bring them to life and make them more memorable to other players.
 
