@@ -96,6 +96,8 @@ Integrity refers to the values that guide a character's behavior in work and soc
 | Conscientious | Industrious, honest, responsible, meticulous, pragmatic          |
 | Unscrupulous  | Lazy, deceitful, unreliable, manipulative, slipshod, impractical |
 
+![Image1](./img/personality04.svg)
+
 ## Impulsiveness
 
 The next aspect of character creation to consider is impulsiveness. This trait refers to a character's ability to regulate their thoughts and actions. Players must choose between two options: controlled or spontaneous. A controlled character is deliberate, focused, steady, and thoughtful. They carefully consider their decisions and think before they act. On the other hand, a spontaneous character is capricious, flighty, hyperactive, and rash. They are quick to act without thinking through the consequences of their actions. It's important to consider impulsiveness as it can greatly impact the way a character approaches situations and reacts to stimuli. A controlled character may be more reliable and level-headed, while a spontaneous character may be more unpredictable and exciting. Ultimately, the choice of impulsiveness helps to round out a character's personality and inform their behavior.
