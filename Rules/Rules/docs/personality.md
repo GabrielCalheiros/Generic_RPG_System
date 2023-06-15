@@ -1,5 +1,7 @@
 # Personality
 
+![Image1](./img/personality01.svg)
+
 
 Most of this part will be based in the [Ash’s Guide to RPG Personality & Background](https://www.ashami.com/rpg/). Of course it its not a carbon copie, some modifications will be needed to fit his tables in the system. Anyway, credits must be given and you should check out his guide.
 
@@ -45,6 +47,8 @@ When choosing these motivations, it's important to consider what your character 
 | 32  | Understanding        | To seek knowledge or wisdom (spiritual, scientific, magical, etc) |
 | 33  | Vice                 | To enable or engage in self-destructive behavior        |
 
+![Image1](./img/personality02.svg)
+
 ## Dispositions
 Disposition is an important aspect of character creation that provides depth and dimension to your character's personality. It allows you to understand how your character is likely to react emotionally to different situations, as well as how they appear to others. This trait helps you create a believable and relatable character, giving them an emotional landscape that makes sense within the context of the story.
 
@@ -73,6 +77,8 @@ Ultimately, the key to making a character's moodiness work for them is understan
 1.	Labile
 2.	Even-tempered
 3.	Phlegmatic
+
+![Image1](./img/personality03.svg)
 
 ## Outlook
 The concept of outlook is an important aspect of character creation as it defines the basic worldview of a character and helps determine their overall view of the world around them. This trait can greatly influence the choices that a character makes and the way they interact with others. A character with a positive outlook is likely to see the good in people and situations, while a character with a negative outlook is likely to be more skeptical and pessimistic. Understanding a character's outlook is key to understanding their motivations and how they may react in different situations. It is important to note that a character's outlook does not dictate their alignment, as a character can have a positive outlook but still make morally questionable decisions. This trait helps to add depth and complexity to a character, making them feel more real and unique.
