@@ -1,0 +1,912 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        <link rel="canonical" href="https://example.com/personality/">
+        <link rel="shortcut icon" href="../img/favicon.ico">
+        <title>Personality - Eidos - Rules</title>
+        <link href="../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../css/font-awesome.min.css" rel="stylesheet">
+        <link href="../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css">
+        <link href="../extra.css" rel="stylesheet">
+
+        <script src="../js/jquery-1.10.2.min.js" defer></script>
+        <script src="../js/bootstrap.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
+    </head>
+
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="..">Eidos - Rules</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="navitem">
+                                <a href=".." class="nav-link">Presentation</a>
+                            </li>
+                            <li class="dropdown active">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Character Creation <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="./" class="dropdown-item active">Personality</a>
+</li>
+                                    
+<li>
+    <a href="../religion/" class="dropdown-item">Religion and Spirituality</a>
+</li>
+                                    
+<li>
+    <a href="../physical/" class="dropdown-item">Physical Description</a>
+</li>
+                                    
+<li>
+    <a href="../background/" class="dropdown-item">Background</a>
+</li>
+                                    
+<li>
+    <a href="../clothing/" class="dropdown-item">Clothing</a>
+</li>
+                                    
+<li>
+    <a href="../equipment/" class="dropdown-item">Equipment and Possessions</a>
+</li>
+                                    
+<li>
+    <a href="../skills/" class="dropdown-item">Skills</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="navitem">
+                                <a href="../combat/" class="nav-link">Combat</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="../health/" class="nav-link">Health & Survival</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="../dm/" class="nav-link">DM Tools</a>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                            <li class="nav-item">
+                                <a rel="prev" href=".." class="nav-link">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a rel="next" href="../religion/" class="nav-link">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-light navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-level="1"><a href="#personality" class="nav-link">Personality</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#primary-motivators" class="nav-link">Primary Motivators</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#dispositions" class="nav-link">Dispositions</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#moodiness" class="nav-link">Moodiness</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#outlook" class="nav-link">Outlook</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#integrity" class="nav-link">Integrity</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#impulsiveness" class="nav-link">Impulsiveness</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#boldness" class="nav-link">Boldness</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#agreeableness" class="nav-link">Agreeableness</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#interactivity" class="nav-link">Interactivity</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#conformity" class="nav-link">Conformity</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#quirks-habits-and-oddities" class="nav-link">Quirks, Habits, and Oddities</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#sense-of-humor" class="nav-link">Sense of Humor</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#mental-disorders" class="nav-link">Mental Disorders</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#topics-of-conversation" class="nav-link">Topics of Conversation</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#conclusion" class="nav-link">Conclusion</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<h1 id="personality">Personality</h1>
+<p><img alt="Image1" src="../img/personality01.svg" /></p>
+<p>Most of this part will be based in the <a href="https://www.ashami.com/rpg/">Ash’s Guide to RPG Personality &amp; Background</a>. Of course it its not a carbon copie, some modifications will be needed to fit his tables in the system. Anyway, credits must be given and you should check out his guide.</p>
+<h2 id="primary-motivators">Primary Motivators</h2>
+<p>The first step in crafting a character's personality is selecting their primary and secondary motivators. These motivations serve as the driving force behind a character's actions and decisions, shaping the narrative of their journey. The primary motivator is particularly important, as it acts as the primary catalyst for a character's backstory and personality. It is the underlying theme of a character's motivations, guiding their behavior and propelling them forward.</p>
+<p>When choosing these motivations, it's important to consider what your character wants most in the world. Is it wealth, power, love, revenge, or something else? By focusing on these motivations, players can ensure that their character's actions feel authentic and grounded in their personal desires. Whether facing challenges in combat or navigating complex social situations, characters driven by strong motivators will always have a clear direction and purpose.</p>
+<table>
+<thead>
+<tr>
+<th>No.</th>
+<th>Theme</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Achievement</td>
+<td>To overcome obstacles and succeed; to become the best</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Acquisition</td>
+<td>To obtain possessions/wealth</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Adoration</td>
+<td>To be cherished, admired, and wanted by others</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Balance/Peace</td>
+<td>To bring all things into harmony and equilibrium</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Beneficence</td>
+<td>To protect the helpless, heal the sick, feed the hungry, etc.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Chaos</td>
+<td>To disrupt, to cause confusion and discord</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Competition</td>
+<td>To seek out or create rule-based win/lose scenarios; to defeat others in contests</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Conflict</td>
+<td>To seek out or create rivalry, fighting, or animosity</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Conquest</td>
+<td>To conquer other peoples, to bring them into one’s own culture/rule</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Corruption</td>
+<td>To despoil, ruin, humiliate, or make depraved</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Creation</td>
+<td>To build or make new, such as art, culture, invention, design, etc.</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Destruction</td>
+<td>To annihilate, exterminate, and unmake</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Discovery/Adventure</td>
+<td>To explore, uncover mysteries, and pioneer</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Domesticity</td>
+<td>To get married, have children, and live a family life</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Education</td>
+<td>To provide information, teach, enlighten, or train</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Entertainment</td>
+<td>To entertain, amuse, and delight others</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Enslavement</td>
+<td>To force others into servitude</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Hedonism</td>
+<td>To enjoy all things sensuous</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Heroism</td>
+<td>To find valor and honor through battle or self-sacrifice</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Liberation</td>
+<td>To free the self and/or others from perceived captivity or enslavement</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Love</td>
+<td>To experience/share affection and emotional commitment, romantic or platonic</td>
+</tr>
+<tr>
+<td>22</td>
+<td>Nobility/Honor</td>
+<td>To exalt ideals such as generosity, honesty, bravery, and courtliness</td>
+</tr>
+<tr>
+<td>23</td>
+<td>Order</td>
+<td>To arrange, organize, and reduce chaos</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Play</td>
+<td>To have fun, to enjoy life</td>
+</tr>
+<tr>
+<td>25</td>
+<td>Power</td>
+<td>To control and lead others</td>
+</tr>
+<tr>
+<td>26</td>
+<td>Proselytization</td>
+<td>To spread a belief system; indoctrinate others</td>
+</tr>
+<tr>
+<td>27</td>
+<td>Purity</td>
+<td>To achieve a state of moral or spiritual perfection, of self and/or others</td>
+</tr>
+<tr>
+<td>28</td>
+<td>Rebellion</td>
+<td>To fight against power structures; to undermine authority</td>
+</tr>
+<tr>
+<td>29</td>
+<td>Recognition</td>
+<td>To gain approval, social status, or fame</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Service</td>
+<td>To follow a person, government, order, religion, etc.</td>
+</tr>
+<tr>
+<td>31</td>
+<td>Torment</td>
+<td>To inflict pain and suffering, on others and/or the self</td>
+</tr>
+<tr>
+<td>32</td>
+<td>Understanding</td>
+<td>To seek knowledge or wisdom (spiritual, scientific, magical, etc)</td>
+</tr>
+<tr>
+<td>33</td>
+<td>Vice</td>
+<td>To enable or engage in self-destructive behavior</td>
+</tr>
+</tbody>
+</table>
+<p><img alt="Image1" src="../img/personality02.svg" /></p>
+<h2 id="dispositions">Dispositions</h2>
+<p>Disposition is an important aspect of character creation that provides depth and dimension to your character's personality. It allows you to understand how your character is likely to react emotionally to different situations, as well as how they appear to others. This trait helps you create a believable and relatable character, giving them an emotional landscape that makes sense within the context of the story.</p>
+<p>When determining your character's emotional disposition, it is important to keep in mind that it is not necessarily limiting. It simply provides a baseline for how your character is likely to feel at any given moment. A character with a predominantly cheerful disposition may still experience moments of sadness, anger, or anxiety, but they will be more likely to return to their cheerful state after those moments have passed.</p>
+<p>It is also important to note that emotional disposition should not be equated with alignment. A character's disposition can exist independently of their moral or ethical alignment, and it is possible for a character to be joyfully evil or angrily good. Understanding your character's disposition will help you make decisions about their emotional reactions, but it is just one aspect of the complex and multifaceted personality that you are creating.</p>
+<ol>
+<li>Joyful</li>
+<li>Anxious</li>
+<li>Melancholy</li>
+<li>Curious</li>
+<li>Calm</li>
+<li>Angry</li>
+<li>Contemptuous</li>
+<li>Excited</li>
+<li>Apathetic</li>
+<li>Ashamed</li>
+</ol>
+<h2 id="moodiness">Moodiness</h2>
+<p>Moodiness is an important aspect of a character's personality and can greatly impact their behavior in different situations. A character who is labile, or quick to experience intense emotions, is likely to react strongly to the events happening around them. This can make them appear impulsive and prone to outbursts, but it can also add a level of excitement and unpredictability to their actions. On the other hand, a phlegmatic character, who is psychologically consistent and moderate, is likely to maintain their composure in even the most trying of situations. This calm demeanor can give them a sense of stability and reliability, but it can also make them appear uninterested or indifferent to the world around them.</p>
+<p>It is important to note that both moodiness traits have their own strengths and weaknesses, and they can greatly impact a character's relationships with other characters. For example, a labile character may be prone to jealousy or resentment, while a phlegmatic character may struggle with expressing their emotions effectively. Choosing the right moodiness trait for your character can help you build a more complete and well-rounded personality.</p>
+<p>Ultimately, the key to making a character's moodiness work for them is understanding the underlying motivations and dispositions that drive their behavior. Whether your character is quick to experience intense emotions or stays calm and collected in the face of adversity, the key is to make sure that their moodiness feels true to who they are as a character. By incorporating moodiness into your character's personality, you can add depth and richness to your role-playing experience and help bring your character to life on the tabletop.</p>
+<ol>
+<li>Labile</li>
+<li>Even-tempered</li>
+<li>Phlegmatic</li>
+</ol>
+<p><img alt="Image1" src="../img/personality03.svg" /></p>
+<h2 id="outlook">Outlook</h2>
+<p>The concept of outlook is an important aspect of character creation as it defines the basic worldview of a character and helps determine their overall view of the world around them. This trait can greatly influence the choices that a character makes and the way they interact with others. A character with a positive outlook is likely to see the good in people and situations, while a character with a negative outlook is likely to be more skeptical and pessimistic. Understanding a character's outlook is key to understanding their motivations and how they may react in different situations. It is important to note that a character's outlook does not dictate their alignment, as a character can have a positive outlook but still make morally questionable decisions. This trait helps to add depth and complexity to a character, making them feel more real and unique.</p>
+<table>
+<thead>
+<tr>
+<th>Outlook</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Optimistic</td>
+<td>Idealistic, confident, trusting, hopeful, upbeat</td>
+</tr>
+<tr>
+<td>Pessimistic</td>
+<td>Cynical, bleak, distrustful, foreboding, resigned</td>
+</tr>
+</tbody>
+</table>
+<h2 id="integrity">Integrity</h2>
+<p>Integrity refers to the values that guide a character's behavior in work and social interactions. When creating a character, players can choose between two options that embody different qualities and tendencies. The first option is "Conscientious", which represents being industrious, honest, responsible, meticulous, and pragmatic. On the other hand, the second option is "Unscrupulous", which embodies being lazy, deceitful, unreliable, manipulative, slipshod, and impractical. These two options serve as a starting point for players to develop their character's personality and decision-making. The choice of integrity will play a crucial role in determining a character's motivations and actions, influencing the character's interactions with others and the events of the story.</p>
+<table>
+<thead>
+<tr>
+<th>Integrity</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Conscientious</td>
+<td>Industrious, honest, responsible, meticulous, pragmatic</td>
+</tr>
+<tr>
+<td>Unscrupulous</td>
+<td>Lazy, deceitful, unreliable, manipulative, slipshod, impractical</td>
+</tr>
+</tbody>
+</table>
+<p><img alt="Image1" src="../img/personality04.svg" /></p>
+<h2 id="impulsiveness">Impulsiveness</h2>
+<p>The next aspect of character creation to consider is impulsiveness. This trait refers to a character's ability to regulate their thoughts and actions. Players must choose between two options: controlled or spontaneous. A controlled character is deliberate, focused, steady, and thoughtful. They carefully consider their decisions and think before they act. On the other hand, a spontaneous character is capricious, flighty, hyperactive, and rash. They are quick to act without thinking through the consequences of their actions. It's important to consider impulsiveness as it can greatly impact the way a character approaches situations and reacts to stimuli. A controlled character may be more reliable and level-headed, while a spontaneous character may be more unpredictable and exciting. Ultimately, the choice of impulsiveness helps to round out a character's personality and inform their behavior.</p>
+<table>
+<thead>
+<tr>
+<th>Impulsiveness</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Controlled</td>
+<td>Deliberate, focused, steady, thoughtful</td>
+</tr>
+<tr>
+<td>Spontaneous</td>
+<td>Capricious, flighty, hyperactive, rash</td>
+</tr>
+</tbody>
+</table>
+<h2 id="boldness">Boldness</h2>
+<p>When it comes to creating a character's personality, it is important to consider their boldness, or willingness to face danger and enter into battle. This trait can greatly impact how a character approaches conflict and adversity, and can inform their actions and decisions in high-pressure situations. There are two main options for this characteristic: intrepid and cautious.</p>
+<p>Intrepid characters are daring, reckless, and valorous. They have a confident demeanor and are not easily intimidated by danger. They are known for their bravery and audacity in the face of adversity, and are often seen as leaders in combat situations. On the other hand, cautious characters are timid, paranoid, and vigilant. They are nervous and tentative in the face of danger, preferring to assess the situation before making a move. They are not as quick to jump into action, but their carefulness can often lead to a more strategic approach to conflict.</p>
+<table>
+<thead>
+<tr>
+<th>Boldness</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Intrepid</td>
+<td>Daring, reckless, valorous, dauntless, audacious, confident</td>
+</tr>
+<tr>
+<td>Cautious</td>
+<td>Timid, paranoid, vigilant, nervous, tentative</td>
+</tr>
+</tbody>
+</table>
+<p><img alt="Image1" src="../img/personality05.svg" /></p>
+<h2 id="agreeableness">Agreeableness</h2>
+<p>The sub-topic of "Agreeableness" deals with a character's overall attitude towards others and their ability to handle interpersonal conflicts and new situations. This trait is particularly important in shaping a character's behavior in social interactions and their ability to navigate challenging circumstances. A character who is described as "Agreeable" is warm, empathetic, and open-minded, possessing qualities such as tolerance, forgiveness, and adaptability. On the other hand, a character who is described as "Disagreeable" is cold and rigid, possessing traits such as tension, intractability, and narrow-mindedness. Understanding a character's level of agreeableness can give insight into how they are likely to respond in social and interpersonal situations.</p>
+<table>
+<thead>
+<tr>
+<th>Agreeableness</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Agreeable</td>
+<td>Warm, empathic, tolerant, forgiving, open-minded, adaptable, altruistic</td>
+</tr>
+<tr>
+<td>Disagreeable</td>
+<td>Cold, rigid, tense, intractable, narrow-minded, cantankerous, stingy</td>
+</tr>
+</tbody>
+</table>
+<h2 id="interactivity">Interactivity</h2>
+<p>The next sub-topic in character creation is Interactivity, which deals with the way your character interacts with others. This aspect of personality is crucial in shaping the character's social relationships and determining how they engage with the world around them. The table of choices in Interactivity includes two options: Engaging and Reserved. An Engaging character is often talkative, candid, and touchy, while a Reserved character is usually shy, preferring to keep to themselves and be more reserved in their interactions. Understanding this aspect of your character will greatly enhance the depth of your role-playing experience and allow you to build compelling, engaging stories.</p>
+<table>
+<thead>
+<tr>
+<th>Interactivity</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Engaging</td>
+<td>Talkative, candid, entertaining, touchy</td>
+</tr>
+<tr>
+<td>Reserved</td>
+<td>Shy, loner, taciturn, evasive, cryptic</td>
+</tr>
+</tbody>
+</table>
+<h2 id="conformity">Conformity</h2>
+<p>Conformity is an important aspect of a character's personality, determining their relationship with cultural norms and societal expectations. A character who is conventional is likely to follow orthodox beliefs and practices, be formal in their demeanor, and adhere to mainstream customs. On the other hand, a character who is heterodox may be rebellious in nature, have a creative and artistic streak, and may be known for their freethinking and exotic choices. Understanding a character's conformity can give insight into how they view and interact with the world around them.</p>
+<table>
+<thead>
+<tr>
+<th>Conformity</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Conventional</td>
+<td>Orthodox, formal, down-to-earth, mainstream, traditional</td>
+</tr>
+<tr>
+<td>Heterodox</td>
+<td>Rebellious, arty, shocking, freethinking, exotic</td>
+</tr>
+</tbody>
+</table>
+<h2 id="quirks-habits-and-oddities">Quirks, Habits, and Oddities</h2>
+<p>To help bring your character to life and add depth to gameplay, consider incorporating small quirks, habits, and oddities into their personality. These unique behavioral characteristics can range from relatively harmless habits, such as humming or lip biting, to more engaging and potentially entertaining quirks such as exhibitionism or sleepwalking. By adding these small but meaningful details to your character, you can bring them to life in a way that sets them apart from the rest of the party.</p>
+<p>These quirks, habits, and oddities can offer a multitude of role-playing opportunities. They can help flesh out a character's backstory, provide unique challenges or benefits during gameplay, and even influence the way they interact with other characters. For example, a character who is a compulsive liar may struggle with building trust with others, while a character who is an animal hater may have trouble working with characters who have animal companions. Whether you choose to focus on the more harmless or more engaging quirks, incorporating these small behaviors into your character can greatly enhance your role-playing experience.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Humming</td>
+<td>31. Snoring</td>
+<td>61. Clearing throat repeatedly</td>
+</tr>
+<tr>
+<td>2. Dancing</td>
+<td>32. Walking backwards</td>
+<td>62. Covering mouth while speaking</td>
+</tr>
+<tr>
+<td>3. Sleepwalking</td>
+<td>33. Teeth sucking</td>
+<td>63. Fidgeting with hands</td>
+</tr>
+<tr>
+<td>4. Facial tics</td>
+<td>34. Excessively touching others</td>
+<td>64. Whispering to self</td>
+</tr>
+<tr>
+<td>5. Exhibitionism</td>
+<td>35. Substance use (non-addicted)</td>
+<td>65. Nervous nail biting</td>
+</tr>
+<tr>
+<td>6. Fingernail biting</td>
+<td>36. Animal hater</td>
+<td>66. Licking/smacking lips</td>
+</tr>
+<tr>
+<td>7. Eavesdropping</td>
+<td>37. Insomnia</td>
+<td>67. Staring blankly</td>
+</tr>
+<tr>
+<td>8. Daydreaming</td>
+<td>38. Beard/hair stroking</td>
+<td>68. Chewing gum</td>
+</tr>
+<tr>
+<td>9. Talking in sleep</td>
+<td>39. Nose picking</td>
+<td>69. Sighing heavily</td>
+</tr>
+<tr>
+<td>10. Stuttering</td>
+<td>40. Needless apologizing</td>
+<td>70. Breathing heavily</td>
+</tr>
+<tr>
+<td>11. Compulsive lying</td>
+<td>41. Exaggeration</td>
+<td>71. Scratching self</td>
+</tr>
+<tr>
+<td>12. Whistling</td>
+<td>42. Superstitious (omens, luck, etc.)</td>
+<td>72. Clicking pen/tapping fingers</td>
+</tr>
+<tr>
+<td>13. Name dropping</td>
+<td>43. Belching</td>
+<td>73. Swallowing hard</td>
+</tr>
+<tr>
+<td>14. Self-inflict pain/injury</td>
+<td>44. Sleeping in odd places</td>
+<td>74. Clearing throat loudly</td>
+</tr>
+<tr>
+<td>15. Mumbling</td>
+<td>45. Repeating others</td>
+<td>75. Tapping feet</td>
+</tr>
+<tr>
+<td>16. Constant grooming</td>
+<td>46. Smelling things</td>
+<td>76. Fidgeting with clothing</td>
+</tr>
+<tr>
+<td>17. Foot tapping</td>
+<td>47. Teeth picking</td>
+<td>77. Avoiding eye contact</td>
+</tr>
+<tr>
+<td>18. Lip biting/licking</td>
+<td>48. Stealing</td>
+<td>78. Glancing around nervously</td>
+</tr>
+<tr>
+<td>19. Coin flipping</td>
+<td>49. Tree climbing</td>
+<td>79. Talking too fast/slow</td>
+</tr>
+<tr>
+<td>20. Chewing (e.g. sticks, small bones)</td>
+<td>50. Excessive sweating</td>
+<td>80. Stuttering words</td>
+</tr>
+<tr>
+<td>21. Knuckle cracking</td>
+<td>51. Nervous laughter</td>
+<td>81. Twitching facial muscles</td>
+</tr>
+<tr>
+<td>22. Collects odd things</td>
+<td>52. Touching/tugging earlobes</td>
+<td>82. Rubbing hands together</td>
+</tr>
+<tr>
+<td>23. Singing</td>
+<td>53. Twirling hair/beard</td>
+<td>83. Biting cheek/tongue</td>
+</tr>
+<tr>
+<td>24. Snacking (nuts, seeds, etc.)</td>
+<td>54. Playing with objects</td>
+<td>84. Staring off into space</td>
+</tr>
+<tr>
+<td>25. Reciting poetry</td>
+<td>55. Biting tongue/lips</td>
+<td>85. Nodding/shaking head excessively</td>
+</tr>
+<tr>
+<td>26. Constant eating</td>
+<td>56. Nail tapping</td>
+<td>86. Interrupting others</td>
+</tr>
+<tr>
+<td>27. Pacing</td>
+<td>57. Constant yawning</td>
+<td>87. Leaning in too close</td>
+</tr>
+<tr>
+<td>28. Blade sharpening</td>
+<td>58. Blinking excessively</td>
+<td>88. Speaking loudly</td>
+</tr>
+<tr>
+<td>29. Counting</td>
+<td>59. Bouncing legs</td>
+<td>89. Repeating words/phrases</td>
+</tr>
+<tr>
+<td>30. Hair pulling</td>
+<td>60. Skipping/hopping</td>
+<td>90. Rocking back and forth.</td>
+</tr>
+</tbody>
+</table>
+<p><img alt="Image1" src="../img/personality06.svg" /></p>
+<h2 id="sense-of-humor">Sense of Humor</h2>
+<p>Sense of Humor is an important aspect of a character's personality and can be used to show their humor preferences and how they might react in different situations. It ranges from crude humor to dry wit and includes various styles such as slapstick, jokey, cynical, prankster, mean-spirited, gleeful, and surreal. By selecting one of these options, you can help to define your character's sense of humor and how they might react in different situations. Having a strong sense of humor can also be a way for your character to diffuse tense situations, and can be used to show their lighter side. Ultimately, your character's sense of humor is a tool that you can use to further develop their personality and bring them to life in your storytelling.</p>
+<ol>
+<li>Crude</li>
+<li>Dry</li>
+<li>Slapstick</li>
+<li>Jokey</li>
+<li>Cynical</li>
+<li>Prankster</li>
+<li>Mean-spirited</li>
+<li>Gleeful</li>
+<li>Surreal</li>
+</ol>
+<h2 id="mental-disorders">Mental Disorders</h2>
+<p>In this RPG system, we aim to provide an accurate representation of human mental and emotional disorders. While we understand that not all players may want their character to struggle with such issues, it does present an opportunity for unique and interesting role-play. For this reason, we suggest that players consider assigning these disorders to non-player characters, adding depth and complexity to the game world. It's important to note that the list provided is not exhaustive and only offers brief descriptions. Nevertheless, these disorders can also serve as inspiration for creating realistic and terrifying curses or divine punishments.</p>
+<p><strong>Addiction</strong></p>
+<ul>
+<li>Chronic, compulsive drug/activity indulgence, despite harmful consequences. Can decide if it is mild, moderate, or severe.</li>
+</ul>
+<p><strong>Amnesia</strong></p>
+<ul>
+<li>Severe memory loss; can be loss before a certain point (retrograde) or after (anterograde).</li>
+</ul>
+<p><strong>Bipolar Disorder</strong></p>
+<ul>
+<li>Erratic swings from periods of mania to major depression.</li>
+</ul>
+<p><strong>PTSD</strong></p>
+<ul>
+<li>Anxiety disorder developed after exposure to a terrifying event or ordeal resulting in potential re-experiencing of the ordeal, nightmares, hypervigilance, trouble sleeping, being easily startled, and avoidance of anything that is a reminder of the event.</li>
+</ul>
+<p><strong>Major Depression</strong></p>
+<ul>
+<li>Impaired physical functions (e.g., sleep, appetite); loss of interest and pleasure; low energy &amp; motivation; possibly accompanied by severe pessimism, hopelessness, guilt, and suicidal thoughts/intent.</li>
+</ul>
+<p><strong>Fugue</strong></p>
+<ul>
+<li>Abrupt travel away from home, an inability to remember important aspects of one’s life, and the partial or complete adoption of a new identity.</li>
+</ul>
+<p><strong>Hypochondria</strong></p>
+<ul>
+<li>Preoccupation with fears of having a serious disease or physical problem based on little or no real evidence.</li>
+</ul>
+<p><strong>Schizophrenia</strong></p>
+<ul>
+<li>Delusions (unreal beliefs, e.g., savior complex or assigning unusual significance or meaning to normal events); hallucinations (unreal sensations, usually auditory, i.e., “voices”); disorganized speech; grossly disorganized or catatonic behavior; paranoia.</li>
+</ul>
+<p><strong>OCD</strong></p>
+<ul>
+<li>Obsessive-Compulsive Disorder described the existence of both regular compulsions (overwhelming need to engage in a ritualized behavior) and obsessions (persistent, often irrational, and seemingly uncontrollable thoughts).</li>
+</ul>
+<p><strong>Phobia</strong></p>
+<ul>
+<li>Extreme anxiety and fear associated with an object or situation. Can include anything, for instance: specific monsters/animals, fire/water, heights, magic, open/enclosed spaces, heights, or darkness.</li>
+</ul>
+<p><strong>Agoraphobia</strong></p>
+<ul>
+<li>Fear of being in a situation where escape is difficult or where help might not be available in the event of a panic attack or other medical emergency.</li>
+</ul>
+<p><strong>Social Anxiety Disorder</strong></p>
+<ul>
+<li>Extreme fear of embarrassment or criticism in social situations.</li>
+</ul>
+<p><strong>Body Dysmorphic Disorder</strong></p>
+<ul>
+<li>Preoccupation with an imagined or minor defect in one’s appearance.</li>
+</ul>
+<p><strong>Generalized Anxiety Disorder</strong></p>
+<ul>
+<li>Chronic, excessive worry about multiple life events and activities.</li>
+</ul>
+<p><strong>Obsessive Love Disorder</strong></p>
+<ul>
+<li>Intrusive thoughts about an individual and an overwhelming need to be with them.</li>
+</ul>
+<p><strong>Delusional Disorder</strong></p>
+<ul>
+<li>A condition in which an individual experiences non-bizarre delusions, meaning the delusions are not implausible and could happen in reality.</li>
+</ul>
+<p><strong>Adjustment Disorder</strong></p>
+<ul>
+<li>Disturbance caused by a specific stressful life event, such as a loss, change in lifestyle, or change in health status.</li>
+</ul>
+<p><strong>Narcissistic Personality Disorder</strong></p>
+<ul>
+<li>Excessive self-love, entitlement, and a lack of empathy for others.</li>
+</ul>
+<p><strong>Borderline Personality Disorder</strong></p>
+<ul>
+<li>A pattern of instability in relationships, moods, self-image, and behavior.</li>
+</ul>
+<p><strong>Antisocial Personality Disorder</strong></p>
+<ul>
+<li>A disregard for laws and the rights of others.</li>
+</ul>
+<p><strong>Anxiety Disorder</strong></p>
+<ul>
+<li>A general term for excessive fear or worry about everyday events and activities.</li>
+</ul>
+<p><strong>Dissociative Identity Disorder</strong></p>
+<ul>
+<li>A pattern of unstable emotions, relationships, and sense of self.</li>
+</ul>
+<p><strong>Histrionic Personality Disorder</strong></p>
+<ul>
+<li>A condition in which a person's sense of identity is fragmented and they experience two or more distinct and alternating personalities.</li>
+</ul>
+<p><strong>Obsessive-Compulsive Personality Disorder</strong></p>
+<ul>
+<li>A pattern of excessive emotionality and attention-seeking behavior.</li>
+</ul>
+<p><strong>Paranoia</strong></p>
+<ul>
+<li>A pattern of preoccupation with orderliness, perfectionism, and control.</li>
+</ul>
+<p><strong>Psychotic Disorder</strong></p>
+<ul>
+<li>A pattern of grandiosity, need for admiration, and lack of empathy.</li>
+</ul>
+<p><strong>Eating Disorder</strong></p>
+<ul>
+<li>An unreasonable distrust or suspicion of others, often accompanied by delusions.</li>
+</ul>
+<p><strong>Trichotillomania</strong></p>
+<ul>
+<li>A group of mental illnesses characterized by distorted thinking, perceptions, emotions, and behaviors.</li>
+</ul>
+<h2 id="topics-of-conversation">Topics of Conversation</h2>
+<p>One helpful way to bring depth to your character is to determine what they like to talk about in casual social situations. People are naturally inclined to talk about things they are skilled in or have a personal interest in, and this is an easy way to help flesh out your character. By examining your character's skills, hobbies, training, and background, you can start to determine what topics they might be passionate about. This information can be used to create a more complete picture of who your character is and how they interact with others in social situations. By giving your character a few key topics they like to discuss, you can help bring them to life and make them more memorable to other players.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>In conclusion, the character's personality is a crucial aspect in role-playing games and helps to bring the character to life. This chapter has covered a range of fields that allow players to flesh out their characters, including alignment, morality, values, beliefs, religion and spirituality, and quirks. These fields provide a comprehensive and nuanced view of the character's personality, allowing players to bring depth and dimension to their characters. By taking the time to fill out these fields, players can create truly unique and engaging characters that will bring their stories to life. Whether playing a heroic warrior or a cunning rogue, these fields help players to truly embody their characters and bring the world of the game to life.</p></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+    <!-- <p>Rules for the <a href="https://www.mkdocs.org/">Eidos RPG System</a>.</p>
+    -->
+    <p style="text-align: center; width: 100vw;">An Open Source Role Playing Game System</p>
+        </footer>
+        <script>
+            var base_url = "..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../js/base.js" defer></script>
+        <script src="../search/main.js" defer></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>

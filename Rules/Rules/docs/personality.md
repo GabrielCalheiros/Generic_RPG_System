@@ -119,6 +119,8 @@ Intrepid characters are daring, reckless, and valorous. They have a confident de
 | Intrepid      | Daring, reckless, valorous, dauntless, audacious, confident |
 | Cautious      | Timid, paranoid, vigilant, nervous, tentative               |
 
+![Image1](./img/personality05.svg)
+
 ## Agreeableness
 
 The sub-topic of "Agreeableness" deals with a character's overall attitude towards others and their ability to handle interpersonal conflicts and new situations. This trait is particularly important in shaping a character's behavior in social interactions and their ability to navigate challenging circumstances. A character who is described as "Agreeable" is warm, empathetic, and open-minded, possessing qualities such as tolerance, forgiveness, and adaptability. On the other hand, a character who is described as "Disagreeable" is cold and rigid, possessing traits such as tension, intractability, and narrow-mindedness. Understanding a character's level of agreeableness can give insight into how they are likely to respond in social and interpersonal situations.
@@ -145,20 +147,6 @@ Conformity is an important aspect of a character's personality, determining thei
 |---------------|-------------------------------------------------------------|
 | Conventional  | Orthodox, formal, down-to-earth, mainstream, traditional    |
 | Heterodox     | Rebellious, arty, shocking, freethinking, exotic            |
-
-## Sense of Humor
-
-Sense of Humor is an important aspect of a character's personality and can be used to show their humor preferences and how they might react in different situations. It ranges from crude humor to dry wit and includes various styles such as slapstick, jokey, cynical, prankster, mean-spirited, gleeful, and surreal. By selecting one of these options, you can help to define your character's sense of humor and how they might react in different situations. Having a strong sense of humor can also be a way for your character to diffuse tense situations, and can be used to show their lighter side. Ultimately, your character's sense of humor is a tool that you can use to further develop their personality and bring them to life in your storytelling.
-
-1.	Crude
-2.	Dry
-3.	Slapstick
-4.	Jokey
-5.	Cynical
-6.	Prankster
-7.	Mean-spirited
-8.	Gleeful
-9.	Surreal
 
 ## Quirks, Habits, and Oddities
 
@@ -199,11 +187,25 @@ These quirks, habits, and oddities can offer a multitude of role-playing opportu
 | 29. Counting                           | 59. Bouncing legs                     | 89. Repeating words/phrases          |
 | 30. Hair pulling                       | 60. Skipping/hopping                  | 90. Rocking back and forth.          |
 
+![Image1](./img/personality06.svg)
+
+## Sense of Humor
+
+Sense of Humor is an important aspect of a character's personality and can be used to show their humor preferences and how they might react in different situations. It ranges from crude humor to dry wit and includes various styles such as slapstick, jokey, cynical, prankster, mean-spirited, gleeful, and surreal. By selecting one of these options, you can help to define your character's sense of humor and how they might react in different situations. Having a strong sense of humor can also be a way for your character to diffuse tense situations, and can be used to show their lighter side. Ultimately, your character's sense of humor is a tool that you can use to further develop their personality and bring them to life in your storytelling.
+
+1.	Crude
+2.	Dry
+3.	Slapstick
+4.	Jokey
+5.	Cynical
+6.	Prankster
+7.	Mean-spirited
+8.	Gleeful
+9.	Surreal
 
 ## Mental Disorders
 
 In this RPG system, we aim to provide an accurate representation of human mental and emotional disorders. While we understand that not all players may want their character to struggle with such issues, it does present an opportunity for unique and interesting role-play. For this reason, we suggest that players consider assigning these disorders to non-player characters, adding depth and complexity to the game world. It's important to note that the list provided is not exhaustive and only offers brief descriptions. Nevertheless, these disorders can also serve as inspiration for creating realistic and terrifying curses or divine punishments.
-
 
 **Addiction**
 
