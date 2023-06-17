@@ -22,20 +22,66 @@ In conclusion, Eidos is an open source tabletop RPG system that offers a unique 
 
 # Table of Contents
 
-
-    
-
-
 ## Character Creation
-[Personality](./personality.md)    
-[Religion and Spirituality](./religion.md)      
-[Physical Description](./physical.md) 
-[Background](./background.md)
-[Clothing](./clothing.md)  
-[Equipment and Possessions](./equipment.md)      
-[Skills](./skills.md)
 
-    - Combat: combat.md
-    - Health & Survival: health.md
-    - DM Tools: dm.md
+- [Personality](./personality.md)
+- [Religion and Spirituality](./religion.md)      
+- [Physical Description](./physical.md) 
+- [Background](./background.md)
+- [Clothing](./clothing.md)  
+- [Equipment and Possessions](./equipment.md)      
+- [Skills](./skills.md)
+
+## Combat
+
+- [Basic Combat Mechanics](./combat.md#basic-combat-mechanics)
+- Ability Checks and Skills
+- Experience and Leveling
+- Tactical Maneuvers and Formation Tactics
+- Environmental Interaction and Terrain Effects
+- Morale and Panic Mechanics
+- Reinforcements and Retreat Mechanics
+- Archery and Ranged Combat Mechanics
+- Throwing Weapons and Grenades
+- Ballistics and Cover Mechanics
+- Ammunition and Reloading Mechanics
+- Unarmed Combat Mechanics
+- Light and Heavy Weapon Mechanics
+- Dual Wielding Mechanics
+- Grappling and Pinning Mechanics
+- Status Effects and Conditions
+- Critical Hits and Critical Fails Mechanics
+- Healing and Regeneration Mechanics
+- Shield and Armor Mechanics
+- Mounted Combat Mechanics
+- Naval Combat Mechanics
+- Aerial Combat Mechanics
+- Siege Weapons Mechanics
+- Traps and Ambush Mechanics
+- Stealth Mechanics
+- Mass Combat Mechanics
+- Death and Dying Mechanics
+
+## [Health & Survival](health.md)
+
+- Food and Water Requirements
+- Shelter and Environmental Hazards
+- Scavenging and Resource Management
+- Travel and Exploration Mechanics
+- Damage and Wound Mechanics
+- Healing and Recovery Mechanics
+- Status Effects and Debuffs
+- Advanced Injuries and Trauma
+
+
+## [DM Tools](dm.md)
+
+- World Building and Setting Creation
+- Non-Player Character Generation
+- Encounters and Adventures
+- Group Dynamics and Leadership in Party Movement
+- Movement and Travel Mechanics
+- Encounter Generation and Management
+- Resource Management and Resting Mechanics
+- Campaign Management
 

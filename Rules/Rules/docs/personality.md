@@ -47,7 +47,7 @@ When choosing these motivations, it's important to consider what your character 
 | 32  | Understanding        | To seek knowledge or wisdom (spiritual, scientific, magical, etc) |
 | 33  | Vice                 | To enable or engage in self-destructive behavior        |
 
-![Image1](./img/personality02.svg)
+![Image](./img/personality02.svg)
 
 ## Dispositions
 Disposition is an important aspect of character creation that provides depth and dimension to your character's personality. It allows you to understand how your character is likely to react emotionally to different situations, as well as how they appear to others. This trait helps you create a believable and relatable character, giving them an emotional landscape that makes sense within the context of the story.
@@ -326,3 +326,4 @@ One helpful way to bring depth to your character is to determine what they like 
 
 ## Conclusion
 In conclusion, the character's personality is a crucial aspect in role-playing games and helps to bring the character to life. This chapter has covered a range of fields that allow players to flesh out their characters, including alignment, morality, values, beliefs, religion and spirituality, and quirks. These fields provide a comprehensive and nuanced view of the character's personality, allowing players to bring depth and dimension to their characters. By taking the time to fill out these fields, players can create truly unique and engaging characters that will bring their stories to life. Whether playing a heroic warrior or a cunning rogue, these fields help players to truly embody their characters and bring the world of the game to life.
+
