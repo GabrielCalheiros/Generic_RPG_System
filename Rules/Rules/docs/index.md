@@ -85,3 +85,4 @@ In conclusion, Eidos is an open source tabletop RPG system that offers a unique 
 - Resource Management and Resting Mechanics
 - Campaign Management
 
+[Get an PDF Version](./print_page)
