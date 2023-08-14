@@ -22,4 +22,3 @@ extra_css: [extra.css]
 
 plugins:
   - search
-  - print-site
