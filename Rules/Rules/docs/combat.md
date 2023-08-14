@@ -46,13 +46,9 @@ Within the fluid tapestry of combat, each engagement initiates a cascade of acti
 
 7. **Continued Sequences:** Within the ebb and flow of combat, a sequence of cascading actions unfolds. Each successful attack and resilient defense becomes a thread woven into the ongoing tapestry of battle. The dice roll, your chosen skill guides the path, and the rhythm of engagement persists—a true reflection of the fluid, dynamic nature of combat.
 
-8. **Critical Juncture:** Amidst the fluid exchanges, moments of critical import emerge—exceptional instances that transcend the ordinary. A critical hit or a fumble—these crossroads possess the power to steer the course of combat. A roll of the dice steers your action towards the realm of the Critical Hit or Fumble Table, revealing the unforeseen consequences that these pivotal instances usher in.
+9. **Reckoning and Culmination:** With the interplay of attack, defense, and counterattack progressing, the narrative inches ever closer to its zenith. Wounds accumulate, strategies unfurl, and choices accrue momentum. Dice and destiny unite in a crescendo, marking a reckoning where the culmination of actions echoes through the clash, shaping the climax of battle.
 
-9. **Foes' Turn:** The adversaries, far from being mere spectators, seize their moment to wield chosen skills and execute determined actions. Their turn plays out, a mirror image of your actions from the opposing perspective. The dice tumble, skills manifest, and outcomes blossom, as the narrative extends its embrace to encompass the opposing forces.
-
-10. **Reckoning and Culmination:** With the interplay of attack, defense, and counterattack progressing, the narrative inches ever closer to its zenith. Wounds accumulate, strategies unfurl, and choices accrue momentum. Dice and destiny unite in a crescendo, marking a reckoning where the culmination of actions echoes through the clash, shaping the climax of battle.
-
-11. **Post-Combat Reflection:** As the final dice tumble and the echoes of combat fade, the aftermath of battle assumes the spotlight. Wounds endured, tactics employed, choices etched—the ripples of combat extend beyond its cessation. Characters emerge from the fray transformed, their narratives further woven into the expansive fabric of the overarching story.
+10. **Post-Combat Reflection:** As the final dice tumble and the echoes of combat fade, the aftermath of battle assumes the spotlight. Wounds endured, tactics employed, choices etched—the ripples of combat extend beyond its cessation. Characters emerge from the fray transformed, their narratives further woven into the expansive fabric of the overarching story.
 
 In Eidos, combat unfurls as a symphony of choices and dice, a dynamic ballet of strategy and fate. These chained events mirror the ebb and flow of battle, where every decision, every dice roll, and every interaction layers depth into your character's journey and the grand tapestry of the overarching narrative. Now, let us step onto the battlefield, where every footfall, every choice, reverberates through the continuum of conflict.
 
@@ -63,7 +59,7 @@ Eidos introduces a realistic and detailed approach to injury, ensuring that ever
 
 ### Injury Tables
 
-Each attack's success prompts a roll on a corresponding injury table. For example, if an attacker aims for a specific body part like the neck and successfully hits, the player rolls the "Cutting in Neck Damage Table" to determine the outcome. These tables define the consequences, ranging from minor wounds to severe trauma.
+Each attack's success prompts a roll on a corresponding injury table. For example, an attacker aims for a specific body part like the neck and successfully hits, the player rolls the "Cutting in Neck Damage Table" to determine the outcome. These tables define the consequences, ranging from minor wounds to severe trauma.
 
 ### Instant Death and Recovery
 
