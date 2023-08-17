@@ -61,6 +61,166 @@ Eidos introduces a realistic and detailed approach to injury, ensuring that ever
 
 Each attack's success prompts a roll on a corresponding injury table. For example, an attacker aims for a specific body part like the neck and successfully hits, the player rolls the "Cutting in Neck Damage Table" to determine the outcome. These tables define the consequences, ranging from minor wounds to severe trauma.
 
+| Type of Damage | Description                                   |
+|----------------|-----------------------------------------------|
+| Cutting        | Damage caused by sharp-edged weapons         |
+| Stabbing       | Damage caused by piercing weapons            |
+| Impact         | Damage from blunt force or crushing attacks  |
+| Fire           | Damage from burns or heat sources            |
+| Acid           | Damage from corrosive acids or chemicals     |
+
+
+| Body Part      | Description                                   |
+|----------------|-----------------------------------------------|
+| Head           | The uppermost part of the body               |
+| Torso          | The main part of the body, including chest   |
+| Left Arm       | The left arm and hand                        |
+| Right Arm      | The right arm and hand                       |
+| Left Leg       | The left leg and foot                        |
+| Right Leg      | The right leg and foot                       |
+| Abdomen        | The area between the chest and pelvis        |
+| Back           | The rear part of the torso                   |
+| Neck           | The part connecting the head to the body     |
+| Face           | The front of the head, including facial features |
+
+
+### Cutting
+
+Exemple of table: 
+
+| Roll | Injury Description                                  | Recovery Time   | Scars               |
+|------|-----------------------------------------------------|-----------------|---------------------|
+| 1    | Minor scalp laceration, blood trickling            | 1d4 hours       | Light scar          |
+| 2    | Shallow cut on forehead, slight bleeding          | 1d4 hours       | Small scar          |
+| 3    | Ear nicked, minor pain and bleeding               | 1d4 hours       | Tiny scar           |
+| 4    | Cheek grazed, minor discomfort                    | 1d4 hours       | Faint scar          |
+| 5    | Eyebrow cut, minor blood and irritation          | 1d4 hours       | Light scar          |
+| 6    | Nose scratched, slight bleeding                  | 1d4 hours       | Small scar          |
+| 7    | Chin cut, stinging pain and minor blood          | 1d4 hours       | Tiny scar           |
+| 8    | Forehead gash, bleeding and moderate pain        | 1d4 hours       | Faint scar          |
+| 9    | Scalp tear, bleeding and headache                | 1d4 hours       | Light scar          |
+| 10   | Lip cut, bleeding and mild pain                  | 1d4 hours       | Small scar          |
+| 11   | Deep facial wound, potential scarring            | 1d4 days        | Visible scar        |
+| 12   | Eye injured, risk of blindness                   | 1d4 days        | Disfiguring scar    |
+| 13   | Skull fracture, severe headache                  | 1d4 weeks       | Permanent damage    |
+| 14   | Head gash, risk of infection                     | 1d4 weeks       | Deep scar           |
+| 15   | Severed artery, immediate death                  | Instant death   | N/A                 |
+| 16   | Severe brain injury, instant unconsciousness    | Instant death   | N/A                 |
+| 17   | Instant brain death, no chance of revival       | Instant death   | N/A                 |
+| 18   | Severe cranial trauma, instant death            | Instant death   | N/A                 |
+| 19   | Critical hit, catastrophic brain damage          | Instant death   | N/A                 |
+| 20   | Critical hit, brain pierced, instant death       | Instant death   | N/A                 |
+
+Rules for the tables:
+The first two items must be almost inconsequential
+The last two must be intant death
+The table must contain 20 items to use with a d20
+
+table now: Cutting in the Legs
+
+**Cutting in the Head**
+
+| Roll | Injury Description                                  | Recovery Time   | Scars               |
+|------|-----------------------------------------------------|-----------------|---------------------|
+| 1    | Minor scalp laceration, blood trickling            | 1d4 hours       | Light scar          |
+| 2    | Shallow cut on forehead, slight bleeding          | 1d4 hours       | Small scar          |
+| 3    | Ear nicked, minor pain and bleeding               | 1d4 hours       | Tiny scar           |
+| 4    | Cheek grazed, minor discomfort                    | 1d4 hours       | Faint scar          |
+| 5    | Eyebrow cut, minor blood and irritation          | 1d4 hours       | Light scar          |
+| 6    | Nose scratched, slight bleeding                  | 1d4 hours       | Small scar          |
+| 7    | Chin cut, stinging pain and minor blood          | 1d4 hours       | Tiny scar           |
+| 8    | Forehead gash, bleeding and moderate pain        | 1d4 hours       | Faint scar          |
+| 9    | Scalp tear, bleeding and headache                | 1d4 hours       | Light scar          |
+| 10   | Lip cut, bleeding and mild pain                  | 1d4 hours       | Small scar          |
+| 11   | Deep facial wound, potential scarring            | 1d4 days        | Visible scar        |
+| 12   | Eye injured, risk of blindness                   | 1d4 days        | Disfiguring scar    |
+| 13   | Skull fracture, severe headache                  | 1d4 weeks       | Permanent damage    |
+| 14   | Head gash, risk of infection                     | 1d4 weeks       | Deep scar           |
+| 15   | Severed artery, immediate death                  | Instant death   | N/A                 |
+| 16   | Severe brain injury, instant unconsciousness    | Instant death   | N/A                 |
+| 17   | Instant brain death, no chance of revival       | Instant death   | N/A                 |
+| 18   | Severe cranial trauma, instant death            | Instant death   | N/A                 |
+| 19   | Critical hit, catastrophic brain damage          | Instant death   | N/A                 |
+| 20   | Critical hit, brain pierced, instant death       | Instant death   | N/A                 |
+
+**Cutting in the Torso**
+
+| Roll | Injury Description                                      | Recovery Time   | Scars               |
+|------|---------------------------------------------------------|-----------------|---------------------|
+| 1    | Superficial chest graze, minor pain                    | 1d4 hours       | Faint scar          |
+| 2    | Light abdominal scratch, discomfort                   | 1d4 hours       | Small scar          |
+| 3    | Minor rib cut, mild pain and shallow bleeding         | 1d4 hours       | Tiny scar           |
+| 4    | Skin nicked on side, slight irritation                | 1d4 hours       | Faint scar          |
+| 5    | Chest cut, moderate pain and minor bleeding          | 1d4 hours       | Light scar          |
+| 6    | Abdominal laceration, blood trickling                | 1d4 hours       | Small scar          |
+| 7    | Side wound, moderate pain and bleeding               | 1d4 hours       | Tiny scar           |
+| 8    | Deep chest gash, significant bleeding                | 1d4 days        | Faint scar          |
+| 9    | Rib gash, severe pain and bleeding                  | 1d4 days        | Light scar          |
+| 10   | Abdominal cut, potential scarring                    | 1d4 days        | Small scar          |
+| 11   | Organ grazed, risk of infection                      | 1d4 weeks       | Deep scar           |
+| 12   | Punctured lung, difficulty breathing                 | 1d4 weeks       | Permanent damage    |
+| 13   | Severe internal injury, risk of shock                | 1d4 weeks       | Visible scar        |
+| 14   | Aorta nicked, rapid blood loss                       | Instant death   | N/A                 |
+| 15   | Heart pierced, immediate death                       | Instant death   | N/A                 |
+| 16   | Severed spinal cord, instant paralysis              | Instant death   | N/A                 |
+| 17   | Major organ rupture, instant internal bleeding       | Instant death   | N/A                 |
+| 18   | Critical hit, catastrophic internal damage           | Instant death   | N/A                 |
+| 19   | Critical hit, vital organs obliterated              | Instant death   | N/A                 |
+| 20   | Critical hit, torso sliced open, instant death       | Instant death   | N/A                 |
+
+**Cutting in the Arms**
+
+| Roll | Injury Description                                      | Recovery Time   | Scars               |
+|------|---------------------------------------------------------|-----------------|---------------------|
+| 1    | Superficial arm graze, minor discomfort                | 1d4 hours       | Faint scar          |
+| 2    | Light forearm scratch, slight pain                    | 1d4 hours       | Small scar          |
+| 3    | Minor hand cut, mild bleeding                         | 1d4 hours       | Tiny scar           |
+| 4    | Skin nicked on upper arm, slight irritation           | 1d4 hours       | Faint scar          |
+| 5    | Elbow grazed, moderate pain and minor bleeding       | 1d4 hours       | Light scar          |
+| 6    | Wrist scratched, slight bleeding                     | 1d4 hours       | Small scar          |
+| 7    | Finger cut, stinging pain and minor bleeding         | 1d4 hours       | Tiny scar           |
+| 8    | Deep forearm gash, significant bleeding              | 1d4 days        | Faint scar          |
+| 9    | Upper arm cut, severe pain and bleeding              | 1d4 days        | Light scar          |
+| 10   | Hand laceration, potential scarring                  | 1d4 days        | Small scar          |
+| 11   | Tendon nicked, risk of permanent damage              | 1d4 weeks       | Deep scar           |
+| 12   | Arterial wound, rapid blood loss                     | Instant death   | N/A                 |
+| 13   | Hand mutilation, high risk of infection              | Instant death   | N/A                 |
+| 14   | Severe muscle damage, limited use of arm             | 1d4 weeks       | Permanent damage    |
+| 15   | Hand severed, instant death                          | Instant death   | N/A                 |
+| 16   | Critical hit, arm sliced off, instant death          | Instant death   | N/A                 |
+| 17   | Critical hit, arm mutilated, instant death           | Instant death   | N/A                 |
+| 18   | Critical hit, arteries severed, instant death        | Instant death   | N/A                 |
+| 19   | Critical hit, shattered bones, instant death         | Instant death   | N/A                 |
+| 20   | Critical hit, arm disintegrated, instant death       | Instant death   | N/A                 |
+
+**Cutting in the Legs**
+
+| Roll | Injury Description                                       | Recovery Time   | Scars               |
+|------|----------------------------------------------------------|-----------------|---------------------|
+| 1    | Superficial thigh graze, minor discomfort                | 1d4 hours       | Faint scar          |
+| 2    | Light calf scratch, slight pain                        | 1d4 hours       | Small scar          |
+| 3    | Minor ankle cut, mild bleeding                         | 1d4 hours       | Tiny scar           |
+| 4    | Skin nicked on shin, slight irritation                 | 1d4 hours       | Faint scar          |
+| 5    | Knee grazed, moderate pain and minor bleeding         | 1d4 hours       | Light scar          |
+| 6    | Heel scratched, slight bleeding                       | 1d4 hours       | Small scar          |
+| 7    | Toe cut, stinging pain and minor bleeding             | 1d4 hours       | Tiny scar           |
+| 8    | Deep thigh gash, significant bleeding                | 1d4 days        | Faint scar          |
+| 9    | Calf cut, severe pain and bleeding                   | 1d4 days        | Light scar          |
+| 10   | Ankle laceration, potential scarring                 | 1d4 days        | Small scar          |
+| 11   | Tendon severed, risk of permanent damage            | 1d4 weeks       | Deep scar           |
+| 12   | Arterial wound, rapid blood loss                    | Instant death   | N/A                 |
+| 13   | Leg mutilation, high risk of infection              | Instant death   | N/A                 |
+| 14   | Severe muscle damage, limited mobility             | 1d4 weeks       | Permanent damage    |
+| 15   | Leg severed, instant death                         | Instant death   | N/A                 |
+| 16   | Critical hit, leg sliced off, instant death       | Instant death   | N/A                 |
+| 17   | Critical hit, leg mutilated, instant death        | Instant death   | N/A                 |
+| 18   | Critical hit, arteries severed, instant death    | Instant death   | N/A                 |
+| 19   | Critical hit, shattered bones, instant death     | Instant death   | N/A                 |
+| 20   | Critical hit, leg disintegrated, instant death  | Instant death   | N/A                 |
+
+
+These are the tables of types of damage and parts of the body. Now i need help making the proper damage tables that will describe the injury of each type in each part. Imagine that each table needs 20 items, since it will be used with an d20 
+
 ### Instant Death and Recovery
 
 In some instances, the outcome of an attack can lead to instant death if the damage dealt is significant enough. Eidos doesn't shy away from the gravity of battle.
