@@ -286,6 +286,208 @@ Each attack's success prompts a roll on a corresponding injury table. For exampl
 | 20   | Critical hit, head severed, instant death     | Instant death  | N/A                 |
 
 
+### Stabbing
+
+**Stabbing in the Head**
+
+| Roll | Injury Description                                  | Recovery Time   | Scars               |
+|------|-----------------------------------------------------|-----------------|---------------------|
+| 1    | Grazed scalp, minor pain                         | 1d4 hours       | Light scar          |
+| 2    | Superficial forehead stab, slight bleeding       | 1d4 hours       | Small scar          |
+| 3    | Ear nicked, minor pain and bleeding              | 1d4 hours       | Tiny scar           |
+| 4    | Cheek stab, minor discomfort                     | 1d4 hours       | Faint scar          |
+| 5    | Eyebrow pierced, minor blood and irritation     | 1d4 hours       | Light scar          |
+| 6    | Nose scratched, slight bleeding                 | 1d4 hours       | Small scar          |
+| 7    | Jaw hit, stinging pain and minor blood          | 1d4 hours       | Tiny scar           |
+| 8    | Forehead stab, bleeding and moderate pain       | 1d4 hours       | Faint scar          |
+| 9    | Scalp puncture, bleeding and headache           | 1d4 hours       | Light scar          |
+| 10   | Lip puncture, bleeding and mild pain             | 1d4 hours       | Small scar          |
+| 11   | Eye injured, risk of blindness                  | 1d4 days        | Disfiguring scar    |
+| 12   | Critical hit, eye socket impaled, instant death | Instant death   | N/A                 |
+| 13   | Critical hit, brain impaled, instant death      | Instant death   | N/A                 |
+| 14   | Critical hit, cranial fracture, instant death  | Instant death   | N/A                 |
+| 15   | Critical hit, brain penetration, instant death | Instant death   | N/A                 |
+| 16   | Critical hit, catastrophic brain damage         | Instant death   | N/A                 |
+| 17   | Critical hit, skull shattered, instant death   | Instant death   | N/A                 |
+| 18   | Critical hit, brain dissection, instant death  | Instant death   | N/A                 |
+| 19   | Critical hit, cerebral rupture, instant death | Instant death   | N/A                 |
+| 20   | Critical hit, decapitation, instant death     | Instant death   | N/A                 |
+
+**Stabbing in the Torso**
+
+| Roll | Injury Description                                   | Recovery Time    | Scars                |
+|------|------------------------------------------------------|------------------|----------------------|
+| 1    | Superficial abdominal graze, minor discomfort       | 1d4 hours        | Light scar           |
+| 2    | Shallow chest cut, slight bleeding                  | 1d4 hours        | Small scar           |
+| 3    | Rib nicked, minor pain and bleeding                | 1d4 hours        | Tiny scar            |
+| 4    | Belly graze, minor pain and irritation             | 1d4 hours        | Faint scar           |
+| 5    | Abdominal cut, minor bleeding and discomfort      | 1d4 hours        | Light scar           |
+| 6    | Diaphragm scratch, slight bleeding                 | 1d4 hours        | Small scar           |
+| 7    | Lower abdomen stab, stinging pain and blood        | 1d4 hours        | Tiny scar            |
+| 8    | Chest puncture, moderate pain and bleeding         | 1d4 hours        | Faint scar           |
+| 9    | Gut wound, bleeding and abdominal pain            | 1d4 hours        | Light scar           |
+| 10   | Side stab, bleeding and moderate pain             | 1d4 hours        | Small scar           |
+| 11   | Lung punctured, breathing difficulties             | 1d4 days         | Visible scar         |
+| 12   | Liver injury, internal bleeding risk              | 1d4 days         | Disfiguring scar     |
+| 13   | Critical hit, heart pierced, instant death        | Instant death    | N/A                  |
+| 14   | Critical hit, major organ damage, instant death   | Instant death    | N/A                  |
+| 15   | Critical hit, arterial rupture, instant death     | Instant death    | N/A                  |
+| 16   | Critical hit, spine punctured, instant death      | Instant death    | N/A                  |
+| 17   | Critical hit, disembowelment, instant death      | Instant death    | N/A                  |
+| 18   | Critical hit, massive hemorrhage, instant death  | Instant death    | N/A                  |
+| 19   | Critical hit, vital artery sliced, instant death | Instant death    | N/A                  |
+| 20   | Critical hit, impaled through heart, instant death| Instant death    | N/A                  |
+
+**Stabbing in the Arms**
+
+| Roll | Injury Description                                 | Recovery Time   | Scars               |
+|------|----------------------------------------------------|-----------------|---------------------|
+| 1    | Superficial arm graze, minor discomfort           | 1d4 hours       | Light scar          |
+| 2    | Shallow cut on forearm, slight bleeding          | 1d4 hours       | Small scar          |
+| 3    | Arm nicked, minor pain and bleeding             | 1d4 hours       | Tiny scar           |
+| 4    | Elbow grazed, minor pain and irritation        | 1d4 hours       | Faint scar          |
+| 5    | Wrist cut, minor bleeding and discomfort       | 1d4 hours       | Light scar          |
+| 6    | Knuckle scratched, slight bleeding            | 1d4 hours       | Small scar          |
+| 7    | Palm cut, stinging pain and minor blood       | 1d4 hours       | Tiny scar           |
+| 8    | Forearm gash, moderate pain and bleeding     | 1d4 hours       | Faint scar          |
+| 9    | Bicep tear, bleeding and muscle ache        | 1d4 hours       | Light scar          |
+| 10   | Shoulder cut, bleeding and discomfort       | 1d4 hours       | Small scar          |
+| 11   | Major artery nicked, immediate medical aid | 1d4 days        | Visible scar        |
+| 12   | Severe nerve damage, loss of sensation      | 1d4 days        | Disfiguring scar    |
+| 13   | Critical hit, artery severed, instant death| Instant death   | N/A                 |
+| 14   | Critical hit, nerve cluster damaged       | Instant death   | N/A                 |
+| 15   | Critical hit, major blood loss, instant death| Instant death   | N/A                 |
+| 16   | Critical hit, limb paralyzed, instant death | Instant death   | N/A                 |
+| 17   | Critical hit, shattered bone, instant death | Instant death   | N/A                 |
+| 18   | Critical hit, limb dismembered, instant death | Instant death   | N/A                 |
+| 19   | Critical hit, vital artery pierced, instant death| Instant death  | N/A                 |
+| 20   | Critical hit, arm impaled, instant death     | Instant death   | N/A                 |
+
+**Stabbing in the Legs**
+
+| Roll | Injury Description                                 | Recovery Time   | Scars               |
+|------|----------------------------------------------------|-----------------|---------------------|
+| 1    | Leg scratch, minor discomfort                    | 1d4 hours       | Light scar          |
+| 2    | Calf graze, slight bleeding                      | 1d4 hours       | Small scar          |
+| 3    | Ankle nicked, minor pain and bleeding            | 1d4 hours       | Tiny scar           |
+| 4    | Knee scraped, minor pain and irritation         | 1d4 hours       | Faint scar          |
+| 5    | Shin cut, minor bleeding and discomfort        | 1d4 hours       | Light scar          |
+| 6    | Thigh scratched, slight bleeding               | 1d4 hours       | Small scar          |
+| 7    | Foot cut, stinging pain and minor blood        | 1d4 hours       | Tiny scar           |
+| 8    | Upper leg gash, moderate pain and bleeding   | 1d4 hours       | Faint scar          |
+| 9    | Hamstring tear, bleeding and muscle ache      | 1d4 hours       | Light scar          |
+| 10   | Groin cut, bleeding and discomfort           | 1d4 hours       | Small scar          |
+| 11   | Major vein nicked, immediate medical aid    | 1d4 days        | Visible scar        |
+| 12   | Severe nerve damage, impaired mobility     | 1d4 days        | Disfiguring scar    |
+| 13   | Critical hit, artery severed, instant death| Instant death   | N/A                 |
+| 14   | Critical hit, major nerve damaged         | Instant death   | N/A                 |
+| 15   | Critical hit, massive blood loss, instant death| Instant death | N/A                 |
+| 16   | Critical hit, leg paralyzed, instant death | Instant death   | N/A                 |
+| 17   | Critical hit, shattered bone, instant death | Instant death   | N/A                 |
+| 18   | Critical hit, leg dismembered, instant death | Instant death   | N/A                 |
+| 19   | Critical hit, vital artery pierced, instant death| Instant death| N/A                 |
+| 20   | Critical hit, leg impaled, instant death    | Instant death   | N/A                 |
+
+**Stabbing in The Abdomen**
+
+| Roll | Injury Description                                    | Recovery Time   | Scars               |
+|------|-------------------------------------------------------|-----------------|---------------------|
+| 1    | Minor abdominal scratch, slight discomfort          | 1d4 hours       | Light scar          |
+| 2    | Belly skin nicked, mild bleeding                   | 1d4 hours       | Small scar          |
+| 3    | Navel area cut, minor pain and bleeding           | 1d4 hours       | Tiny scar           |
+| 4    | Side grazed, minor pain and discomfort           | 1d4 hours       | Faint scar          |
+| 5    | Lower abdomen cut, minor bleeding and irritation | 1d4 hours       | Light scar          |
+| 6    | Hip scratched, slight bleeding                   | 1d4 hours       | Small scar          |
+| 7    | Waistline cut, stinging pain and minor blood    | 1d4 hours       | Tiny scar           |
+| 8    | Upper abdomen wound, moderate pain and bleeding | 1d4 hours       | Faint scar          |
+| 9    | Deep abdominal laceration, internal discomfort | 1d4 hours       | Light scar          |
+| 10   | Flank cut, bleeding and mild pain              | 1d4 hours       | Small scar          |
+| 11   | Internal bleeding, urgent medical aid needed   | 1d4 days        | Visible scar        |
+| 12   | Peritonitis risk, prolonged medical attention  | 1d4 days        | Disfiguring scar    |
+| 13   | Critical hit, major organ punctured            | Instant death   | N/A                 |
+| 14   | Critical hit, vital artery slashed             | Instant death   | N/A                 |
+| 15   | Critical hit, massive internal bleeding        | Instant death   | N/A                 |
+| 16   | Critical hit, organ rupture, instant death     | Instant death   | N/A                 |
+| 17   | Critical hit, disembowelment, instant death   | Instant death   | N/A                 |
+| 18   | Critical hit, abdominal explosion, instant death| Instant death   | N/A                 |
+| 19   | Critical hit, instant organ failure, instant death| Instant death  | N/A                 |
+| 20   | Critical hit, internal organs impaled, instant death| Instant death| N/A                 |
+
+**Stabbing in the Back**
+
+| Roll | Injury Description                                    | Recovery Time   | Scars               |
+|------|-------------------------------------------------------|-----------------|---------------------|
+| 1    | Superficial back scratch, minor discomfort          | 1d4 hours       | Light scar          |
+| 2    | Back skin nicked, slight bleeding                  | 1d4 hours       | Small scar          |
+| 3    | Shoulder grazed, minor pain and irritation         | 1d4 hours       | Tiny scar           |
+| 4    | Lower back scratch, minor pain and discomfort     | 1d4 hours       | Faint scar          |
+| 5    | Spinal area cut, minor bleeding and irritation   | 1d4 hours       | Light scar          |
+| 6    | Upper back scratch, slight bleeding               | 1d4 hours       | Small scar          |
+| 7    | Mid-back cut, stinging pain and minor blood      | 1d4 hours       | Tiny scar           |
+| 8    | Deep back wound, moderate pain and bleeding     | 1d4 hours       | Faint scar          |
+| 9    | Punctured lung, labored breathing                | 1d4 hours       | Light scar          |
+| 10   | Kidney area cut, bleeding and mild pain         | 1d4 hours       | Small scar          |
+| 11   | Severed spine, instant paralysis                 | Instant death   | N/A                 |
+| 12   | Critical hit, major organ damage                 | Instant death   | N/A                 |
+| 13   | Critical hit, spinal cord severed                | Instant death   | N/A                 |
+| 14   | Critical hit, internal bleeding                 | Instant death   | N/A                 |
+| 15   | Critical hit, vital artery punctured            | Instant death   | N/A                 |
+| 16   | Critical hit, instant organ failure             | Instant death   | N/A                 |
+| 17   | Critical hit, immediate paralysis              | Instant death   | N/A                 |
+| 18   | Critical hit, internal damage, instant death   | Instant death   | N/A                 |
+| 19   | Critical hit, catastrophic spine injury        | Instant death   | N/A                 |
+| 20   | Critical hit, spine shattered, instant death   | Instant death   | N/A                 |
+
+**Stabbing in the Neck**
+
+| Roll | Injury Description                                   | Recovery Time   | Scars               |
+|------|------------------------------------------------------|-----------------|---------------------|
+| 1    | Neck graze, minor pain and discomfort             | 1d4 hours       | Light scar          |
+| 2    | Shallow neck cut, slight bleeding                | 1d4 hours       | Small scar          |
+| 3    | Neck scratch, minor irritation                  | 1d4 hours       | Tiny scar           |
+| 4    | Superficial neck wound, slight pain             | 1d4 hours       | Faint scar          |
+| 5    | Neck nicked, minor blood and discomfort        | 1d4 hours       | Light scar          |
+| 6    | Throat scratched, slight bleeding             | 1d4 hours       | Small scar          |
+| 7    | Neck cut, stinging pain and moderate bleeding  | 1d4 hours       | Tiny scar           |
+| 8    | Severe neck wound, bleeding and pain          | 1d4 hours       | Faint scar          |
+| 9    | Severed artery, immediate death               | Instant death   | N/A                 |
+| 10   | Critical hit, major blood vessel hit          | Instant death   | N/A                 |
+| 11   | Critical hit, spinal cord severed             | Instant death   | N/A                 |
+| 12   | Critical hit, windpipe crushed                | Instant death   | N/A                 |
+| 13   | Critical hit, jugular vein severed           | Instant death   | N/A                 |
+| 14   | Critical hit, instant paralysis              | Instant death   | N/A                 |
+| 15   | Critical hit, catastrophic bleeding         | Instant death   | N/A                 |
+| 16   | Critical hit, severe pain and instant death | Instant death   | N/A                 |
+| 17   | Critical hit, airway blocked                | Instant death   | N/A                 |
+| 18   | Critical hit, massive internal damage       | Instant death   | N/A                 |
+| 19   | Critical hit, neck shattered                | Instant death   | N/A                 |
+| 20   | Critical hit, decapitation                  | Instant death   | N/A                 |
+
+**Stabbing in The Face**
+
+| Roll | Injury Description                                  | Recovery Time   | Scars               |
+|------|-----------------------------------------------------|-----------------|---------------------|
+| 1    | Facial graze, minor pain and discomfort         | 1d4 hours       | Light scar          |
+| 2    | Superficial cheek cut, slight bleeding         | 1d4 hours       | Small scar          |
+| 3    | Lip nicked, minor pain and bleeding           | 1d4 hours       | Tiny scar           |
+| 4    | Nostril scratched, minor irritation           | 1d4 hours       | Faint scar          |
+| 5    | Eyebrow cut, minor blood and discomfort      | 1d4 hours       | Light scar          |
+| 6    | Chin scratched, slight bleeding             | 1d4 hours       | Small scar          |
+| 7    | Jaw cut, stinging pain and minor bleeding   | 1d4 hours       | Tiny scar           |
+| 8    | Forehead gash, bleeding and moderate pain   | 1d4 hours       | Faint scar          |
+| 9    | Eye injured, risk of blindness             | 1d4 days        | Disfiguring scar    |
+| 10   | Deep facial wound, potential scarring       | 1d4 days        | Visible scar        |
+| 11   | Skull fracture, severe headache            | 1d4 weeks       | Permanent damage    |
+| 12   | Head gash, risk of infection               | 1d4 weeks       | Deep scar           |
+| 13   | Critical hit, brain damage                  | Instant death   | N/A                 |
+| 14   | Critical hit, facial disfigurement         | Instant death   | N/A                 |
+| 15   | Critical hit, severed nerve                | Instant death   | N/A                 |
+| 16   | Critical hit, eye punctured               | Instant death   | N/A                 |
+| 17   | Critical hit, shattered jaw              | Instant death   | N/A                 |
+| 18   | Critical hit, facial collapse            | Instant death   | N/A                 |
+| 19   | Critical hit, extreme blood loss        | Instant death   | N/A                 |
+| 20   | Critical hit, facial mutilation         | Instant death   | N/A                 |
+
 
 ### Instant Death and Recovery
 
