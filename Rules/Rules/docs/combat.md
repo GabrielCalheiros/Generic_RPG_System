@@ -488,6 +488,35 @@ Each attack's success prompts a roll on a corresponding injury table. For exampl
 | 19   | Critical hit, extreme blood loss        | Instant death   | N/A                 |
 | 20   | Critical hit, facial mutilation         | Instant death   | N/A                 |
 
+### Blunt Force & Impact
+
+**Impact in the Head**
+
+| Roll | Injury Description                                  | Recovery Time   | Scars               |
+|------|-----------------------------------------------------|-----------------|---------------------|
+| 1    | Light head bump, minor discomfort               | 1d4 hours       | N/A                 |
+| 2    | Forehead knock, slight headache               | 1d4 hours       | N/A                 |
+| 3    | Ear hit, temporary ringing and pain           | 1d4 hours       | N/A                 |
+| 4    | Nose impact, minor bleeding and discomfort  | 1d4 hours       | N/A                 |
+| 5    | Crown hit, momentary dizziness              | 1d4 hours       | N/A                 |
+| 6    | Cheek strike, slight swelling               | 1d4 hours       | N/A                 |
+| 7    | Chin impact, stinging pain                  | 1d4 hours       | N/A                 |
+| 8    | Temple bump, moderate headache             | 1d4 hours       | N/A                 |
+| 9    | Face slam, disoriented and headache        | 1d4 hours       | N/A                 |
+| 10   | Eye socket hit, risk of vision issues      | 1d4 days        | N/A                 |
+| 11   | Skull jolt, potential for migraines       | 1d4 days        | N/A                 |
+| 12   | Facial fracture, severe pain              | 1d4 weeks       | N/A                 |
+| 13   | Head impact, risk of concussion          | 1d4 weeks       | N/A                 |
+| 14   | Severe brain trauma, unconsciousness     | 1d4 weeks       | N/A                 |
+| 15   | Critical hit, cranial collapse           | Instant death   | N/A                 |
+| 16   | Critical hit, brain rupture             | Instant death   | N/A                 |
+| 17   | Critical hit, instant brain death      | Instant death   | N/A                 |
+| 18   | Critical hit, skull shattered         | Instant death   | N/A                 |
+| 19   | Critical hit, massive internal bleeding | Instant death   | N/A                 |
+| 20   | Critical hit, head explosion         | Instant death   | N/A                 |
+
+**Impact in the Torso**
+
 
 ### Instant Death and Recovery
 

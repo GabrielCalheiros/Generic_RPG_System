@@ -5,7 +5,7 @@ Small project with a friend to make our homebrew RPG System with the rules expla
 [Visit The Site](https://gabrielcalheiros.github.io/Generic_RPG_System/Rules/Rules/site/)
 
 
-Impact - Head, Torso, Arms, Legs, Abdomen, Back, Neck, Face
+Impact - , Torso, Arms, Legs, Abdomen, Back, Neck, Face
 Fire - Head, Torso, Arms, Legs, Abdomen, Back, Neck, Face
 Acid - Head, Torso, Arms, Legs, Abdomen, Back, Neck, Face
 
@@ -41,4 +41,4 @@ The first two items must be almost inconsequential
 The last two must be intant death
 The table must contain 20 items to use with a d20
 
-table now: **Stabbing in the Face**
+table now: **Impact in the Torso**
