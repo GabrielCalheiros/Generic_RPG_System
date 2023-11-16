@@ -671,6 +671,12 @@ In some instances, the outcome of an attack can lead to instant death if the dam
 
 For non-fatal injuries, a period of recovery follows. Players who emerge victorious or disengage from the conflict can recuperate over time. The aftermath of combat may leave scars or lingering effects, adding depth to your character's journey.
 
+## Recovery and Lasting Impact
+
+The aftermath of combat extends beyond the battlefield. Players who survive are left to recover from their wounds, with lasting scars as tokens of their trials. The scars serve as reminders of battles fought, adding layers of realism and immersion to the world of Eidos.
+
+As you continue your exploration of this system, embrace the intricate interplay of choice, strategy, and chance that defines Eidos' unique combat and conflict resolution mechanics.
+
 ## Sample Combat Scenario
 
 Let's step into the world of Eidos with a sample combat scenario:
@@ -686,10 +692,3 @@ Let's step into the world of Eidos with a sample combat scenario:
 5. The combat sequence unfolds, each action determining the subsequent move. Alice's choices and dice rolls shape the narrative, leading to either triumph or a strategic retreat.
 
 Eidos embraces the complex web of combat narratives, dice rolls, and consequences. Through your choices and the luck of the dice, battles come alive, showcasing the depth of your character's journey and the ever-shifting outcomes of conflict.
-
-## Recovery and Lasting Impact
-
-The aftermath of combat extends beyond the battlefield. Players who survive are left to recover from their wounds, with lasting scars as tokens of their trials. The scars serve as reminders of battles fought, adding layers of realism and immersion to the world of Eidos.
-
-As you continue your exploration of this system, embrace the intricate interplay of choice, strategy, and chance that defines Eidos' unique combat and conflict resolution mechanics.
-
