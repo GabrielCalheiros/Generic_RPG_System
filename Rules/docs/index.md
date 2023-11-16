@@ -32,7 +32,6 @@ In conclusion, Eidos is an open source tabletop RPG system that offers a unique 
 - [Skills](./skills.md) 
 - [Background](./background.md)
 
-
 ## Combat
 
 - [Basic Combat Mechanics](./combat.md#basic-combat-mechanics)
@@ -73,7 +72,6 @@ In conclusion, Eidos is an open source tabletop RPG system that offers a unique 
 - Healing and Recovery Mechanics
 - Status Effects and Debuffs
 - Advanced Injuries and Trauma
-
 
 ## [DM Tools](dm.md)
 
