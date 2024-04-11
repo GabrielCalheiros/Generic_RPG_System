@@ -1,18 +1,18 @@
 site_name: Eidos - Rules
 site_url: https://example.com/
 nav:
-    - Presentation: index.md
+    - Presentation: 0_index.md
     - 'Character Creation':
-        - 'Personality': 'personality.md'      
-        - 'Religion and Spirituality': 'religion.md'      
-        - 'Physical Description': 'physical.md'      
-        - 'Clothing': 'clothing.md'      
-        - 'Equipment and Possessions': 'equipment.md'      
-        - 'Skills': 'skills.md'
-        - 'Background': 'background.md'            
-    - Combat: combat.md
-    - Health & Survival: health.md
-    - DM Tools: dm.md
+        - 'Personality': '1_personality.md'      
+        - 'Religion and Spirituality': '2_religion.md'      
+        - 'Physical Description': '3_physical.md'      
+        - 'Clothing': '4_clothing.md'      
+        - 'Equipment and Possessions': '5_equipment.md'      
+        - 'Skills': '6_skills.md'
+        - 'Background': '7_background.md'            
+    - Combat: 8_ombat.md
+    - Health & Survival: 9_health.md
+    - DM Tools: 10_dm.md
 
 theme:
     name: mkdocs

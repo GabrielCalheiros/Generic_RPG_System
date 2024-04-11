@@ -20,21 +20,21 @@ The human form is a canvas for storytelling, and body types play a significant r
 
 Next, we examine the concept of **Build**, exploring different body shapes and sizes and their impact on character traits and capabilities.
 
-| Build Options     |
-| ----------------- |
-| Slender and Athletic    |
+| Build Options            |
+| -------------------------|
+| Slender and Athletic     |
 | Robust and Heavily Built |
-| Lean and Muscular |
-| Petite and Delicate |
+| Lean and Muscular        |
+| Petite and Delicate      |
 
 Finally, we discuss the importance of **Proportions**, highlighting how well-balanced proportions contribute to a visually appealing and believable character.
 
 | Proportions Options |
-| ------------------ |
-| Well-Balanced      |
-| Long Limbs         |
-| Short Torso        |
-| Broad Shoulders    |
+| --------------------|
+| Well-Balanced       |
+| Long Limbs          |
+| Short Torso         |
+| Broad Shoulders     |
 | Proportionate Limbs |
 
 Consider the expanded options for each aspect to further customize your character's height, build, and proportions. These choices will help shape your character's physical presence, traits, and visual identity within the game world.
@@ -47,14 +47,14 @@ The skin is the outermost layer of the body, providing protection and serving as
 
 Skin texture refers to the surface quality and appearance of the skin. It can vary from smooth and flawless to rough and weathered, adding depth and realism to your character's visual representation. Consider the following options for skin texture:
 
-| Texture              | Description                                                                                                                                  |
-| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Smooth               | Skin with a smooth and even texture, free from visible blemishes, scars, or imperfections. It appears soft, supple, and well-nourished.        |
+| Texture              | Description                                                                                                                                       |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------|
+| Smooth               | Skin with a smooth and even texture, free from visible blemishes, scars, or imperfections. It appears soft, supple, and well-nourished.           |
 | Freckled             | Skin with scattered freckles across the face and sometimes other areas of the body. Freckles are small, pigmented spots that add charm and youth. |
 | Wrinkled             | Skin with visible wrinkles and fine lines, often associated with aging or exposure to environmental factors. It appears creased or folded.        |
-| Blemished            | Skin with noticeable blemishes such as acne, pimples, or blackheads. It may appear inflamed or uneven in texture.                               |
-| Dimpled              | Skin with small, natural indentations known as dimples, often seen on cheeks or chin. Dimples can add a touch of charm and playfulness.            |
-| Weathered            | Skin that shows signs of exposure to harsh elements, such as wind or sun damage. It may appear rough, dry, or aged.                              |
+| Blemished            | Skin with noticeable blemishes such as acne, pimples, or blackheads. It may appear inflamed or uneven in texture.                                 |
+| Dimpled              | Skin with small, natural indentations known as dimples, often seen on cheeks or chin. Dimples can add a touch of charm and playfulness.           |
+| Weathered            | Skin that shows signs of exposure to harsh elements, such as wind or sun damage. It may appear rough, dry, or aged.                               |
 | Glowing              | Skin that radiates a healthy glow and appears vibrant, often associated with good health and a balanced lifestyle.                                |
 
 

@@ -24,13 +24,13 @@ In conclusion, Eidos is an open source tabletop RPG system that offers a unique 
 
 ## Character Creation
 
-- [Personality](./personality.md)
-- [Religion and Spirituality](./religion.md)      
-- [Physical Description](./physical.md)
-- [Clothing](./clothing.md)  
-- [Equipment and Possessions](./equipment.md)      
-- [Skills](./skills.md) 
-- [Background](./background.md)
+- [Personality](./1_personality.md)
+- [Religion and Spirituality](./2_religion.md)      
+- [Physical Description](./3_physical.md)
+- [Clothing](./4_clothing.md)  
+- [Equipment and Possessions](./5_equipment.md)      
+- [Skills](./6_skills.md) 
+- [Background](./7_background.md)
 
 ## Combat
 
