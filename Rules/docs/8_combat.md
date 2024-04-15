@@ -12,13 +12,9 @@ Before the first clash of weapons, let us set the stage. Imagine a world brimmin
 
 **Unfolding the Duel** - With the dice cast and skills employed, the narrative springs to life. Attack and defense, choice and consequence—all are woven into the ebb and flow of the duel. The outcome of each interaction hinges on the harmony between skill rolls and dice results. The combatants, locked in a dance of fate and strategy, push the narrative forward with every exchange, every calculated move.
 
-**Pivotal Decisions** - Amidst the exchanges of blows and parries, moments of significance emerge like beacons in the night. Critical hits and fumbles introduce unexpected turns, shifting the tide of battle with unforeseen outcomes. A choice to counterattack, a masterful spellcast, or even a momentary vulnerability—the narrative twists and turns with the dice, leaving you on the edge of your seat as the story unfolds.
-
 **Culmination and Aftermath** - As the rhythm of combat reaches its crescendo, the climax draws near. The culmination of decisions and dice rolls casts the die for victory or retreat, triumph or setback. Wounds and triumphs, etched in the fabric of the narrative, linger as tokens of the struggle. Whether emerging victorious or stepping back to reassess, the aftermath of combat is marked by scars, lessons, and the ever-present narrative web.
 
 **Continuing the Journey** - The tale never truly ends, even as the combat concludes. Decisions ripple outward, intertwining with character growth, relationships, and the overarching narrative. Each engagement becomes a brushstroke in the canvas of your character's journey, a testament to the choices you make and the dice you roll. So, let us journey deeper into the mechanisms that shape Eidos' combat, exploring skills, strategy, and the fluid interplay of dice and destiny.
-
-In the pages that follow, we unravel the intricacies of Eidos' combat mechanics, guiding you through the art of engaging foes, mastering skills, and embracing the stories that emerge from the crucible of conflict.
 
 ## Narrative-Based Combat
 
@@ -690,9 +686,41 @@ Each attack's success prompts a roll on a corresponding injury table. For exampl
 | 19   | Critical hit, instant back implosion                    | Instant death   | N/A               |
 | 20   | Critical hit, back annihilation                         | Instant death   | N/A               |
 
-### Damage by Fire and Acid
+### Damage by Fire
+
+Fire is a potent force on the battlefield, capable of causing devastating injuries and leaving lasting scars. Whether from a raging inferno or a targeted spell, fire damage can result in a variety of effects, including:
+
+**Burns**: Characters may suffer from first-degree burns, causing pain and discomfort but relatively minor damage. More severe burns, such as second or third-degree burns, can lead to blistering, tissue damage, and long-term complications.
+
+**Smoke Inhalation**: In addition to direct flame exposure, individuals caught in fires may inhale smoke, leading to respiratory issues, coughing, and reduced lung function.
+
+**Environmental Hazards**: Fires can spread rapidly, creating hazardous conditions such as collapsing structures, intense heat, and limited visibility.
+
+
+### Damage by Acid
+
+Acid poses a different set of challenges, corroding flesh, armor, and equipment with its caustic properties. When subjected to acid attacks, characters must contend with the following hazards:
+
+**Corrosive Burns**: Acid eats away at organic and inorganic materials alike, causing painful burns and potentially permanent damage to skin, clothing, and gear.
+
+**Armor Degradation**: Protective armor may suffer from corrosion, compromising its integrity and reducing its effectiveness in defending against future attacks.
+
+**Environmental Contamination**: Pools of acid or acidic fumes can create hazardous environments, posing risks to both health and equipment.
 
 ### Poison
+
+Poison introduces a stealthy and insidious threat to adventurers, lurking in traps, tainted food, or the fangs of venomous creatures. Unlike conventional damage, poison affects its victims over time, gradually weakening their bodies and impairing their abilities.
+
+**Types of Poison**
+
+Eidos features a variety of poisons, each with its own unique effects and methods of delivery:
+
+- *Contact Poison*: Applied to weapons or surfaces, contact poisons require physical contact to take effect, such as through a poisoned blade or a booby-trapped object.
+
+- *Ingested Poison*: Consumed through food or drink, ingested poisons target the digestive system, leading to nausea, vomiting, and systemic damage.
+
+- *Inhaled Poison*: Released as gas or vapor, inhaled poisons affect the respiratory system, causing coughing, difficulty breathing, and potentially lethal asphyxiation.
+Injected Poison: Delivered via puncture wounds, injected poisons are typically associated with venomous creatures, such as snakes or spiders, and can induce paralysis, organ failure, or death.
 
 ### Instant Death and Recovery
 
