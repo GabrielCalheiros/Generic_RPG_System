@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://example.com/</loc>
-         <lastmod>2023-11-16</lastmod>
+         <loc>https://example.com/0_index/</loc>
+         <lastmod>2024-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/background/</loc>
-         <lastmod>2023-11-16</lastmod>
+         <loc>https://example.com/10_dm/</loc>
+         <lastmod>2024-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/clothing/</loc>
-         <lastmod>2023-11-16</lastmod>
+         <loc>https://example.com/1_personality/</loc>
+         <lastmod>2024-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/combat/</loc>
-         <lastmod>2023-11-16</lastmod>
+         <loc>https://example.com/2_religion/</loc>
+         <lastmod>2024-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/dm/</loc>
-         <lastmod>2023-11-16</lastmod>
+         <loc>https://example.com/3_physical/</loc>
+         <lastmod>2024-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/equipment/</loc>
-         <lastmod>2023-11-16</lastmod>
+         <loc>https://example.com/4_clothing/</loc>
+         <lastmod>2024-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/health/</loc>
-         <lastmod>2023-11-16</lastmod>
+         <loc>https://example.com/5_equipment/</loc>
+         <lastmod>2024-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/personality/</loc>
-         <lastmod>2023-11-16</lastmod>
+         <loc>https://example.com/6_skills/</loc>
+         <lastmod>2024-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/physical/</loc>
-         <lastmod>2023-11-16</lastmod>
+         <loc>https://example.com/7_background/</loc>
+         <lastmod>2024-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/religion/</loc>
-         <lastmod>2023-11-16</lastmod>
+         <loc>https://example.com/8_combat/</loc>
+         <lastmod>2024-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/skills/</loc>
-         <lastmod>2023-11-16</lastmod>
+         <loc>https://example.com/9_health/</loc>
+         <lastmod>2024-04-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

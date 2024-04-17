@@ -1,52 +1,30 @@
 # Combat and Conflict Resolution
 
-In Eidos, combat isn't just a mechanical exchange of blows, but a tapestry woven with your decisions and the roll of dice. In this chapter, we invite you to explore the very essence of conflict resolution, guiding you through the intricate dance of engagements, the strategic crossroads, and the unfolding narratives that arise from your choices.
+![Image](./img/combat01.svg)
 
-## Introduction to Conflict
+In Eidos, combat transcends mere mechanical exchanges—it's a dynamic narrative woven from the decisions of players and the capricious roll of dice. Embracing the ethos of open source development, Eidos presents a combat system that is both immersive and accessible, catering to players of all skill levels.
 
-Before the first clash of weapons, let us set the stage. Imagine a world brimming with anticipation, where the air crackles with tension, and the paths of adversaries converge. An introduction to conflict offers a glimpse into the impending struggle, framing the stakes, motives, and emotions that fuel the impending battle. With each player and foe poised on the precipice, the narrative emerges, waiting for you to seize its threads.
+## Turn Structure
 
-**Igniting Tension** - With an introduction in place, the atmosphere thickens as tension takes root. Feel the electricity in the air as combatants sense the imminent clash. Each decision becomes a brushstroke on the canvas of narrative possibilities. 
+Every turn in Eidos is a symphony of action and consequence, where players and the DM contribute to the unfolding narrative:
 
-**Commencing the Engagement** - As the narrative crescendos, the combatants step onto the stage. Your character, armed with chosen skills, faces adversaries whose intents and actions are equally bound by fate and choice. Here, the flow of conflict hinges on the interplay of the dice—a roll of two six-sided dice (2d6) that will determine the outcome of your endeavors. Each move, a dance between your chosen skill and the roll of dice, shapes the progression of the battle.
+**Player and NPC Actions**: Each player and NPC writes down their intended action for the turn, whether it's a movement, an attack, or a strategic maneuver.
 
-**Unfolding the Duel** - With the dice cast and skills employed, the narrative springs to life. Attack and defense, choice and consequence—all are woven into the ebb and flow of the duel. The outcome of each interaction hinges on the harmony between skill rolls and dice results. The combatants, locked in a dance of fate and strategy, push the narrative forward with every exchange, every calculated move.
+**Randomized Resolution**: These actions are placed into a receptacle—a cup, bowl, or electronic system of randomness. The DM then draws actions at random, mirroring the unpredictability of battle.
 
-**Culmination and Aftermath** - As the rhythm of combat reaches its crescendo, the climax draws near. The culmination of decisions and dice rolls casts the die for victory or retreat, triumph or setback. Wounds and triumphs, etched in the fabric of the narrative, linger as tokens of the struggle. Whether emerging victorious or stepping back to reassess, the aftermath of combat is marked by scars, lessons, and the ever-present narrative web.
+**Dice Rolls and Narration**: As actions are drawn, the DM narrates the turn, rolling dice to determine the success of attacks and resulting injuries. A successful attack hinges on a Skill Roll, its difficulty influenced by factors such as armor, terrain advantage, and environmental conditions.
 
-**Continuing the Journey** - The tale never truly ends, even as the combat concludes. Decisions ripple outward, intertwining with character growth, relationships, and the overarching narrative. Each engagement becomes a brushstroke in the canvas of your character's journey, a testament to the choices you make and the dice you roll. So, let us journey deeper into the mechanisms that shape Eidos' combat, exploring skills, strategy, and the fluid interplay of dice and destiny.
+## Conflic Resolution
 
-## Narrative-Based Combat
+**Skill Roll for the Action**: Each action undertaken by a player or NPC begins with a skill roll. The difficulty of this roll is meticulously weighted by the DM, considering factors such as armor strength, tactical advantage, and environmental conditions. Whether it's a calculated strike or a daring maneuver, success hinges on the mastery of the skill.
 
-In the realm of Eidos, combat takes on a narrative hue, weaving together the art of storytelling and the thrill of dice mechanics. This innovative combat system revolves around the choices you make and the roll of dice, aligning the stars of fate with the threads of your character's journey. Each turn unveils a canvas of possibilities as you select a skill that mirrors your intended action, connecting each move with a distinctive skill. Whether you're grasping the hilt of a blade, conjuring arcane spells, or channeling unique abilities, the skill you choose shapes the unfolding tale of the battle.
+**Resolving Successful Attacks**: Upon achieving success in an attack, the narrative unfolds with the roll of dice. The DM determines the extent of damage inflicted, weaving the outcome seamlessly into the ongoing tale. Every blow struck carries weight, leaving its mark on the combatants and shaping the course of the conflict.
 
-### Engaging Multiple Enemies
+**Responding to Failed Attacks**: In the dance of combat, failure is but a stepping stone to opportunity. Should an attack falter, the defender seizes the moment, retaliating with a counter-attack of their own. The ebb and flow of battle are punctuated by these moments of reversal, where resilience and strategic prowess come to the fore.
 
-The battlefield is not always a solo stage; often, it hosts a symphony of adversaries. When you find yourself ensnared by the presence of multiple foes, the tempo of your strategy changes. Confronting two enemies necessitates an adaptive approach. Your conflict resolution becomes a dance of dice, as you roll two six-sided dice (2d6) for your adversaries and compare their combined roll against your own. The rhythm of battle is further seasoned by the capabilities of diverse non-human adversaries, some bearing more than a single six-sided die, reflecting their potency.
+![Image](./img/combat02.svg)
 
-### Chained Events
-
-Within the fluid tapestry of combat, each engagement initiates a cascade of actions that ripple through the battlefield. This entwined progression persists until one side emerges victorious or the combatants disengage, leaving behind the echoes of their decisions and rolls. Let's dive deeper into the rich dynamics of Eidos' combat by unraveling the chain of events in greater detail:
-
-1. **Initiative Determination:** As the curtain rises on combat's stage, the question of initiative takes center stage. The dice of destiny roll, casting their vote on which side seizes the advantage first. Whether the combatants share an awareness of each other's intent or the shadows of uncertainty loom, the dice arbitrate this pivotal choice. Should both you and your opponent intend to attack, an additional roll of the dice commences, illuminating the starting player.
-
-2. **Defensive Stance:** Amidst the whirlwind of conflict, you may opt to embrace a defensive stance, prioritizing prudence over aggression. This calculated path bestows upon you a defensive bonus of +2 to your roll, at the expense of forgoing an immediate attack. Your readiness to repel your adversary's advances transforms into a stalwart shield, lending you an edge as you confront incoming assaults.
-
-3. **Initial Attack:** With initiative established and defensive strategies weighed, the stage is set for the opening gambit. This attack, a manifestation of your chosen skill bolstered by the roll of a six-sided die (1d6), heralds the prologue of the combat's intricate dance. The dice unfurl their secrets, deciding the fate of your strike—whether it pierces true or meets the staunch resistance of your adversary's defenses.
-
-4. **Defensive Maneuvers:** The recipient of the initial attack, be it a successful hit that lands or a deft defense that parries, steps into the role of the defender. A repertoire of defensive maneuvers—parrying, dodging, strategic bracing—unfurls as tools in their arsenal. The dice once again ascend the stage, adjudicating the efficacy of these agile evasions.
-
-5. **Counterattack and Retaliation:** A successful defense may breathe life into the flames of counterattack. The balance of battle shifts as the defender capitalizes on an opening, seeking to turn the tide with a retaliatory strike. The dice, bearing witness to the ever-shifting tides of fortune, unfurl the outcome—whether this counterattack lands with impactful force or merely grazes its intended mark.
-
-6. **Unforeseen Interruptions:** Amidst the intricate choreography of blows and strategic defensive maneuvers, the stage permits for unexpected disruptions. Special abilities, moments of tactical insight, or the intervention of serendipitous fortune grant you the opportunity to break the rhythm of your opponent's actions. When you opt to interrupt, the impartial dice step forward to declare the verdict on the success of your strategic interference.
-
-7. **Continued Sequences:** Within the ebb and flow of combat, a sequence of cascading actions unfolds. Each successful attack and resilient defense becomes a thread woven into the ongoing tapestry of battle. The dice roll, your chosen skill guides the path, and the rhythm of engagement persists—a true reflection of the fluid, dynamic nature of combat.
-
-9. **Reckoning and Culmination:** With the interplay of attack, defense, and counterattack progressing, the narrative inches ever closer to its zenith. Wounds accumulate, strategies unfurl, and choices accrue momentum. Dice and destiny unite in a crescendo, marking a reckoning where the culmination of actions echoes through the clash, shaping the climax of battle.
-
-10. **Post-Combat Reflection:** As the final dice tumble and the echoes of combat fade, the aftermath of battle assumes the spotlight. Wounds endured, tactics employed, choices etched—the ripples of combat extend beyond its cessation. Characters emerge from the fray transformed, their narratives further woven into the expansive fabric of the overarching story.
-
-In Eidos, combat unfurls as a symphony of choices and dice, a dynamic ballet of strategy and fate. These chained events mirror the ebb and flow of battle, where every decision, every dice roll, and every interaction layers depth into your character's journey and the grand tapestry of the overarching narrative. Now, let us step onto the battlefield, where every footfall, every choice, reverberates through the continuum of conflict.
+**Diverse Actions, Varied Skills**: Beyond the clash of steel , conflict in Eidos encompasses a spectrum of actions. From acrobatic leaps to cunning feints, every move is an opportunity for skill mastery. Each action undertaken—be it jumping, rolling, or throwing—is subject to the same scrutiny, resolved through the lens of skill and chance.
 
 ## Injury and Consequences
 
@@ -78,6 +56,8 @@ Each attack's success prompts a roll on a corresponding injury table. For exampl
 | Back           | The rear part of the torso                       | 
 | Neck           | The part connecting the head to the body         |
 | Face           | The front of the head, including facial features |
+
+![Image](./img/combat03.svg)
 
 ### Cutting
 
@@ -180,6 +160,8 @@ Each attack's success prompts a roll on a corresponding injury table. For exampl
 | 18   | Critical hit, arteries severed, instant death            | Instant death   | N/A                 |
 | 19   | Critical hit, shattered bones, instant death             | Instant death   | N/A                 |
 | 20   | Critical hit, leg disintegrated, instant death           | Instant death   | N/A                 |
+
+![Image](./img/combat04.svg)
 
 **Cutting in the Abdomen**
 
@@ -686,26 +668,23 @@ Each attack's success prompts a roll on a corresponding injury table. For exampl
 | 19   | Critical hit, instant back implosion                    | Instant death   | N/A               |
 | 20   | Critical hit, back annihilation                         | Instant death   | N/A               |
 
-### Damage by Fire
+### Fire
 
 Fire is a potent force on the battlefield, capable of causing devastating injuries and leaving lasting scars. Whether from a raging inferno or a targeted spell, fire damage can result in a variety of effects, including:
 
-**Burns**: Characters may suffer from first-degree burns, causing pain and discomfort but relatively minor damage. More severe burns, such as second or third-degree burns, can lead to blistering, tissue damage, and long-term complications.
+- **Burns**: Characters may suffer from first-degree burns, causing pain and discomfort but relatively minor damage. More severe burns, such as second or third-degree burns, can lead to blistering, tissue damage, and long-term complications.
+- **Smoke Inhalation**: In addition to direct flame exposure, individuals caught in fires may inhale smoke, leading to respiratory issues, coughing, and reduced lung function.
+- **Environmental Hazards**: Fires can spread rapidly, creating hazardous conditions such as collapsing structures, intense heat, and limited visibility.
 
-**Smoke Inhalation**: In addition to direct flame exposure, individuals caught in fires may inhale smoke, leading to respiratory issues, coughing, and reduced lung function.
-
-**Environmental Hazards**: Fires can spread rapidly, creating hazardous conditions such as collapsing structures, intense heat, and limited visibility.
-
-
-### Damage by Acid
+### Acid
 
 Acid poses a different set of challenges, corroding flesh, armor, and equipment with its caustic properties. When subjected to acid attacks, characters must contend with the following hazards:
 
-**Corrosive Burns**: Acid eats away at organic and inorganic materials alike, causing painful burns and potentially permanent damage to skin, clothing, and gear.
+**Types of Acid Damage**
 
-**Armor Degradation**: Protective armor may suffer from corrosion, compromising its integrity and reducing its effectiveness in defending against future attacks.
-
-**Environmental Contamination**: Pools of acid or acidic fumes can create hazardous environments, posing risks to both health and equipment.
+- *Corrosive Burns*: Acid eats away at organic and inorganic materials alike, causing painful burns and potentially permanent damage to skin, clothing, and gear.
+- *Armor Degradation*: Protective armor may suffer from corrosion, compromising its integrity and reducing its effectiveness in defending against future attacks.
+- *Environmental Contamination*: Pools of acid or acidic fumes can create hazardous environments, posing risks to both health and equipment.
 
 ### Poison
 
@@ -713,24 +692,15 @@ Poison introduces a stealthy and insidious threat to adventurers, lurking in tra
 
 **Types of Poison**
 
-Eidos features a variety of poisons, each with its own unique effects and methods of delivery:
-
 - *Contact Poison*: Applied to weapons or surfaces, contact poisons require physical contact to take effect, such as through a poisoned blade or a booby-trapped object.
-
 - *Ingested Poison*: Consumed through food or drink, ingested poisons target the digestive system, leading to nausea, vomiting, and systemic damage.
-
 - *Inhaled Poison*: Released as gas or vapor, inhaled poisons affect the respiratory system, causing coughing, difficulty breathing, and potentially lethal asphyxiation.
-Injected Poison: Delivered via puncture wounds, injected poisons are typically associated with venomous creatures, such as snakes or spiders, and can induce paralysis, organ failure, or death.
+- *Injected Poison*: Delivered via puncture wounds, injected poisons are typically associated with venomous creatures, such as snakes or spiders, and can induce paralysis, organ failure, or death.
 
 ### Instant Death and Recovery
 
 In some instances, the outcome of an attack can lead to instant death if the damage dealt is significant enough. Eidos doesn't shy away from the gravity of battle.
-
 For non-fatal injuries, a period of recovery follows. Players who emerge victorious or disengage from the conflict can recuperate over time. The aftermath of combat may leave scars or lingering effects, adding depth to your character's journey.
 
-## Recovery and Lasting Impact
-
 The aftermath of combat extends beyond the battlefield. Players who survive are left to recover from their wounds, with lasting scars as tokens of their trials. The scars serve as reminders of battles fought, adding layers of realism and immersion to the world of Eidos.
-
 As you continue your exploration of this system, embrace the intricate interplay of choice, strategy, and chance that defines Eidos' unique combat and conflict resolution mechanics.
-

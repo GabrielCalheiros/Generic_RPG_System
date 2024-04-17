@@ -34,8 +34,18 @@ In conclusion, Eidos is an open source tabletop RPG system that offers a unique 
 
 ## Combat
 
-- [Basic Combat Mechanics](./combat.md#basic-combat-mechanics)
-- Ability Checks and Skills
+- [Combat Mechanics](./8_combat.md#basic-combat-mechanics)
+- [Turn Structure](./8_combat.md#turn-structure)
+- [Conflic Resolution](./8_combat.md#conflic-resolution)
+- [Injury and Consequences](./8_combat.md#injury-and-consequences)
+- [Injury Tables](./8_combat.md#injury-tables)
+
+
+
+
+
+<!-- 
+
 - Experience and Leveling
 - Tactical Maneuvers and Formation Tactics
 - Environmental Interaction and Terrain Effects
@@ -60,7 +70,9 @@ In conclusion, Eidos is an open source tabletop RPG system that offers a unique 
 - Traps and Ambush Mechanics
 - Stealth Mechanics
 - Mass Combat Mechanics
-- Death and Dying Mechanics
+- Death and Dying Mechanics 
+
+-->
 
 ## [Health & Survival](health.md)
 
