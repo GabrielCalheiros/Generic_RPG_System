@@ -672,9 +672,9 @@ Each attack's success prompts a roll on a corresponding injury table. For exampl
 
 Fire is a potent force on the battlefield, capable of causing devastating injuries and leaving lasting scars. Whether from a raging inferno or a targeted spell, fire damage can result in a variety of effects, including:
 
-- **Burns**: Characters may suffer from first-degree burns, causing pain and discomfort but relatively minor damage. More severe burns, such as second or third-degree burns, can lead to blistering, tissue damage, and long-term complications.
-- **Smoke Inhalation**: In addition to direct flame exposure, individuals caught in fires may inhale smoke, leading to respiratory issues, coughing, and reduced lung function.
-- **Environmental Hazards**: Fires can spread rapidly, creating hazardous conditions such as collapsing structures, intense heat, and limited visibility.
+- *Burns*: Characters may suffer from first-degree burns, causing pain and discomfort but relatively minor damage. More severe burns, such as second or third-degree burns, can lead to blistering, tissue damage, and long-term complications.
+- *Smoke Inhalation*: In addition to direct flame exposure, individuals caught in fires may inhale smoke, leading to respiratory issues, coughing, and reduced lung function.
+- *Environmental Hazards*: Fires can spread rapidly, creating hazardous conditions such as collapsing structures, intense heat, and limited visibility.
 
 ### Acid
 

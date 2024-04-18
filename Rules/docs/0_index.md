@@ -21,12 +21,45 @@ Chapter 5: Game Master Tools provides a guide to running Eidos games, including 
 In conclusion, Eidos is an open source tabletop RPG system that offers a unique and engaging narrative experience, with mechanics that are designed to create immersive and exciting combat scenes. With its deep character creation process, engaging combat mechanics, and comprehensive survival mechanics, Eidos is a game that offers endless possibilities for players to explore and experience.
 
 # Table of Contents
-
+<hr><br>
 ## Character Creation
 
-- [Personality](./1_personality.md)
-- [Religion and Spirituality](./2_religion.md)      
-- [Physical Description](./3_physical.md)
+- [Personality](./1_personality.md#personality)
+    - [Primary Motivators](./1_personality.md#primary-motivators)
+    - [Dispositions](./1_personality.md#dispositions)
+    - [Moodiness](./1_personality.md#moodiness)
+    - [Outlook](./1_personality.md#outlook)
+    - [Integrity](./1_personality.md#integrity)
+    - [Impulsiveness](./1_personality.md#impulsiveness)
+    - [Boldness](./1_personality.md#boldness)
+    - [Agreeableness](./1_personality.md#agreeableness)
+    - [Interactivity](./1_personality.md#interactivity)
+    - [Conformity](./1_personality.md#conformity)
+    - [Quirks, Habits, and Oddities](./1_personality.md#quirks-habits-and-oddities)
+    - [Sense of Humor](./1_personality.md#sense-of-humor)
+    - [Mental Disorders](./1_personality.md#mental-disorders)
+    - [Topics of Conversation](./1_personality.md#topics-of-conversation)
+    - [Conclusion](./1_personality.md#conclusion)
+- [Spirituality and Religion](./2_religion.md#spirituality-and-religion)
+    - [Adherence](./2_religion.md#adherence)
+    - [Tolerance](./2_religion.md#tolerance)
+    - [Religious Demeanor](./2_religion.md#religious-demeanor)
+    - [Religious association](./2_religion.md#religious-association)
+    - [Religious Roles](./2_religion.md#religious-roles)
+    - [Practices/Rituals:](./2_religion.md#practicesrituals)
+    - [Challenges to Faith](./2_religion.md#challenges-to-faith)
+    - [Conclusion](./2_religion.md#conclusion)
+- [Physical Description](././3_physical.md#physical-description)
+    - [Body](././3_physical.md#body)
+    - [Skin and Skintone](././3_physical.md#skin-and-skintone)
+    - [Eyes](././3_physical.md#eyes)
+    - [Nose](././3_physical.md#nose)
+    - [Mouth](././3_physical.md#mouth)
+    - [Chin](././3_physical.md#chin)
+    - [Hair](././3_physical.md#hair)
+    - [Scars and Tattoos](././3_physical.md#scars-and-tattoos)
+    - [Birthmarks](././3_physical.md#birthmarks)
+    - [Piercings](././3_physical.md#piercings)
 - [Clothing](./4_clothing.md)  
 - [Equipment and Possessions](./5_equipment.md)      
 - [Skills](./6_skills.md) 
@@ -34,13 +67,18 @@ In conclusion, Eidos is an open source tabletop RPG system that offers a unique 
 
 ## Combat
 
-- [Combat Mechanics](./8_combat.md#basic-combat-mechanics)
-- [Turn Structure](./8_combat.md#turn-structure)
-- [Conflic Resolution](./8_combat.md#conflic-resolution)
-- [Injury and Consequences](./8_combat.md#injury-and-consequences)
-- [Injury Tables](./8_combat.md#injury-tables)
-
-
+- [Combat and Conflict Resolution](./8_combat.md#combat-and-conflict-resolution)
+  - [Turn Structure](./8_combat.md#turn-structure)
+  - [Conflic Resolution](./8_combat.md#conflic-resolution)
+  - [Injury and Consequences](./8_combat.md#injury-and-consequences)
+    - [Injury Tables](./8_combat.md#injury-tables)
+        - [Cutting](./8_combat.md#cutting)
+        - [Stabbing](./8_combat.md#stabbing)
+        - [Blunt Force \& Impact](./8_combat.md#blunt-force--impact)
+        - [Fire](./8_combat.md#fire)
+        - [Acid](./8_combat.md#acid)
+        - [Poison](./8_combat.md#poison)
+        - [Instant Death and Recovery](./8_combat.md##instant-death-and-recovery)
 
 
 
@@ -61,7 +99,6 @@ In conclusion, Eidos is an open source tabletop RPG system that offers a unique 
 - Grappling and Pinning Mechanics
 - Status Effects and Conditions
 - Critical Hits and Critical Fails Mechanics
-- Healing and Regeneration Mechanics
 - Shield and Armor Mechanics
 - Mounted Combat Mechanics
 - Naval Combat Mechanics

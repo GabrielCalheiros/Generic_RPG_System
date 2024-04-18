@@ -2,7 +2,6 @@
 
 ![Image1](./img/personality01.svg)
 
-
 Most of this part will be based in the [Ash’s Guide to RPG Personality & Background](https://www.ashami.com/rpg/). Of course it its not a carbon copie, some modifications will be needed to fit his tables in the system. Anyway, credits must be given and you should check out his guide.
 
 ## Primary Motivators
@@ -11,41 +10,41 @@ The first step in crafting a character's personality is selecting their primary 
 
 When choosing these motivations, it's important to consider what your character wants most in the world. Is it wealth, power, love, revenge, or something else? By focusing on these motivations, players can ensure that their character's actions feel authentic and grounded in their personal desires. Whether facing challenges in combat or navigating complex social situations, characters driven by strong motivators will always have a clear direction and purpose.
 
-| No. | Theme                | Description                                            |
-|-----|----------------------|--------------------------------------------------------|
-| 1   | Achievement          | To overcome obstacles and succeed; to become the best  |
-| 2   | Acquisition          | To obtain possessions/wealth                           |
-| 3   | Adoration            | To be cherished, admired, and wanted by others         |
-| 4   | Balance/Peace        | To bring all things into harmony and equilibrium        |
-| 5   | Beneficence          | To protect the helpless, heal the sick, feed the hungry, etc. |
-| 6   | Chaos                | To disrupt, to cause confusion and discord              |
-| 7   | Competition          | To seek out or create rule-based win/lose scenarios; to defeat others in contests |
-| 8   | Conflict             | To seek out or create rivalry, fighting, or animosity   |
-| 9   | Conquest             | To conquer other peoples, to bring them into one’s own culture/rule |
-| 10  | Corruption           | To despoil, ruin, humiliate, or make depraved           |
-| 11  | Creation             | To build or make new, such as art, culture, invention, design, etc. |
-| 12  | Destruction          | To annihilate, exterminate, and unmake                  |
-| 13  | Discovery/Adventure  | To explore, uncover mysteries, and pioneer              |
-| 14  | Domesticity          | To get married, have children, and live a family life   |
-| 15  | Education            | To provide information, teach, enlighten, or train      |
-| 16  | Entertainment        | To entertain, amuse, and delight others                 |
-| 17  | Enslavement          | To force others into servitude                          |
-| 18  | Hedonism             | To enjoy all things sensuous                            |
-| 19  | Heroism              | To find valor and honor through battle or self-sacrifice |
-| 20  | Liberation           | To free the self and/or others from perceived captivity or enslavement |
-| 21  | Love                 | To experience/share affection and emotional commitment, romantic or platonic |
-| 22  | Nobility/Honor       | To exalt ideals such as generosity, honesty, bravery, and courtliness |
-| 23  | Order                | To arrange, organize, and reduce chaos                  |
-| 24  | Play                 | To have fun, to enjoy life                              |
-| 25  | Power                | To control and lead others                              |
-| 26  | Proselytization      | To spread a belief system; indoctrinate others          |
-| 27  | Purity               | To achieve a state of moral or spiritual perfection, of self and/or others |
-| 28  | Rebellion            | To fight against power structures; to undermine authority |
-| 29  | Recognition          | To gain approval, social status, or fame                |
-| 30  | Service              | To follow a person, government, order, religion, etc.   |
-| 31  | Torment              | To inflict pain and suffering, on others and/or the self |
-| 32  | Understanding        | To seek knowledge or wisdom (spiritual, scientific, magical, etc) |
-| 33  | Vice                 | To enable or engage in self-destructive behavior        |
+| No. | Theme               | Description                                                                       |
+| --- | ------------------- | --------------------------------------------------------------------------------- |
+| 1   | Achievement         | To overcome obstacles and succeed; to become the best                             |
+| 2   | Acquisition         | To obtain possessions/wealth                                                      |
+| 3   | Adoration           | To be cherished, admired, and wanted by others                                    |
+| 4   | Balance/Peace       | To bring all things into harmony and equilibrium                                  |
+| 5   | Beneficence         | To protect the helpless, heal the sick, feed the hungry, etc.                     |
+| 6   | Chaos               | To disrupt, to cause confusion and discord                                        |
+| 7   | Competition         | To seek out or create rule-based win/lose scenarios; to defeat others in contests |
+| 8   | Conflict            | To seek out or create rivalry, fighting, or animosity                             |
+| 9   | Conquest            | To conquer other peoples, to bring them into one’s own culture/rule               |
+| 10  | Corruption          | To despoil, ruin, humiliate, or make depraved                                     |
+| 11  | Creation            | To build or make new, such as art, culture, invention, design, etc.               |
+| 12  | Destruction         | To annihilate, exterminate, and unmake                                            |
+| 13  | Discovery/Adventure | To explore, uncover mysteries, and pioneer                                        |
+| 14  | Domesticity         | To get married, have children, and live a family life                             |
+| 15  | Education           | To provide information, teach, enlighten, or train                                |
+| 16  | Entertainment       | To entertain, amuse, and delight others                                           |
+| 17  | Enslavement         | To force others into servitude                                                    |
+| 18  | Hedonism            | To enjoy all things sensuous                                                      |
+| 19  | Heroism             | To find valor and honor through battle or self-sacrifice                          |
+| 20  | Liberation          | To free the self and/or others from perceived captivity or enslavement            |
+| 21  | Love                | To experience/share affection and emotional commitment, romantic or platonic      |
+| 22  | Nobility/Honor      | To exalt ideals such as generosity, honesty, bravery, and courtliness             |
+| 23  | Order               | To arrange, organize, and reduce chaos                                            |
+| 24  | Play                | To have fun, to enjoy life                                                        |
+| 25  | Power               | To control and lead others                                                        |
+| 26  | Proselytization     | To spread a belief system; indoctrinate others                                    |
+| 27  | Purity              | To achieve a state of moral or spiritual perfection, of self and/or others        |
+| 28  | Rebellion           | To fight against power structures; to undermine authority                         |
+| 29  | Recognition         | To gain approval, social status, or fame                                          |
+| 30  | Service             | To follow a person, government, order, religion, etc.                             |
+| 31  | Torment             | To inflict pain and suffering, on others and/or the self                          |
+| 32  | Understanding       | To seek knowledge or wisdom (spiritual, scientific, magical, etc)                 |
+| 33  | Vice                | To enable or engage in self-destructive behavior                                  |
 
 ![Image](./img/personality02.svg)
 
@@ -83,16 +82,16 @@ Ultimately, the key to making a character's moodiness work for them is understan
 ## Outlook
 The concept of outlook is an important aspect of character creation as it defines the basic worldview of a character and helps determine their overall view of the world around them. This trait can greatly influence the choices that a character makes and the way they interact with others. A character with a positive outlook is likely to see the good in people and situations, while a character with a negative outlook is likely to be more skeptical and pessimistic. Understanding a character's outlook is key to understanding their motivations and how they may react in different situations. It is important to note that a character's outlook does not dictate their alignment, as a character can have a positive outlook but still make morally questionable decisions. This trait helps to add depth and complexity to a character, making them feel more real and unique.
 
-|Outlook     | Description                                        |
-|------------|----------------------------------------------------|
-|Optimistic  | Idealistic, confident, trusting, hopeful, upbeat   |
-|Pessimistic | Cynical, bleak, distrustful, foreboding, resigned  |
+| Outlook     | Description                                       |
+| ----------- | ------------------------------------------------- |
+| Optimistic  | Idealistic, confident, trusting, hopeful, upbeat  |
+| Pessimistic | Cynical, bleak, distrustful, foreboding, resigned |
 
 ## Integrity
 Integrity refers to the values that guide a character's behavior in work and social interactions. When creating a character, players can choose between two options that embody different qualities and tendencies. The first option is "Conscientious", which represents being industrious, honest, responsible, meticulous, and pragmatic. On the other hand, the second option is "Unscrupulous", which embodies being lazy, deceitful, unreliable, manipulative, slipshod, and impractical. These two options serve as a starting point for players to develop their character's personality and decision-making. The choice of integrity will play a crucial role in determining a character's motivations and actions, influencing the character's interactions with others and the events of the story.
 
 | Integrity     | Description                                                      |
-|---------------|------------------------------------------------------------------|
+| ------------- | ---------------------------------------------------------------- |
 | Conscientious | Industrious, honest, responsible, meticulous, pragmatic          |
 | Unscrupulous  | Lazy, deceitful, unreliable, manipulative, slipshod, impractical |
 
@@ -102,10 +101,10 @@ Integrity refers to the values that guide a character's behavior in work and soc
 
 The next aspect of character creation to consider is impulsiveness. This trait refers to a character's ability to regulate their thoughts and actions. Players must choose between two options: controlled or spontaneous. A controlled character is deliberate, focused, steady, and thoughtful. They carefully consider their decisions and think before they act. On the other hand, a spontaneous character is capricious, flighty, hyperactive, and rash. They are quick to act without thinking through the consequences of their actions. It's important to consider impulsiveness as it can greatly impact the way a character approaches situations and reacts to stimuli. A controlled character may be more reliable and level-headed, while a spontaneous character may be more unpredictable and exciting. Ultimately, the choice of impulsiveness helps to round out a character's personality and inform their behavior.
 
-| Impulsiveness      | Description                                  |
-|--------------------|----------------------------------------------|
-| Controlled         | Deliberate, focused, steady, thoughtful      |
-| Spontaneous        |Capricious, flighty, hyperactive, rash        |
+| Impulsiveness | Description                             |
+| ------------- | --------------------------------------- |
+| Controlled    | Deliberate, focused, steady, thoughtful |
+| Spontaneous   | Capricious, flighty, hyperactive, rash  |
 
 
 ## Boldness
@@ -114,10 +113,10 @@ When it comes to creating a character's personality, it is important to consider
 Intrepid characters are daring, reckless, and valorous. They have a confident demeanor and are not easily intimidated by danger. They are known for their bravery and audacity in the face of adversity, and are often seen as leaders in combat situations. On the other hand, cautious characters are timid, paranoid, and vigilant. They are nervous and tentative in the face of danger, preferring to assess the situation before making a move. They are not as quick to jump into action, but their carefulness can often lead to a more strategic approach to conflict.
 
 
-| Boldness      | Description                                                 |
-|---------------|-------------------------------------------------------------|
-| Intrepid      | Daring, reckless, valorous, dauntless, audacious, confident |
-| Cautious      | Timid, paranoid, vigilant, nervous, tentative               |
+| Boldness | Description                                                 |
+| -------- | ----------------------------------------------------------- |
+| Intrepid | Daring, reckless, valorous, dauntless, audacious, confident |
+| Cautious | Timid, paranoid, vigilant, nervous, tentative               |
 
 ![Image1](./img/personality05.svg)
 
@@ -126,7 +125,7 @@ Intrepid characters are daring, reckless, and valorous. They have a confident de
 The sub-topic of "Agreeableness" deals with a character's overall attitude towards others and their ability to handle interpersonal conflicts and new situations. This trait is particularly important in shaping a character's behavior in social interactions and their ability to navigate challenging circumstances. A character who is described as "Agreeable" is warm, empathetic, and open-minded, possessing qualities such as tolerance, forgiveness, and adaptability. On the other hand, a character who is described as "Disagreeable" is cold and rigid, possessing traits such as tension, intractability, and narrow-mindedness. Understanding a character's level of agreeableness can give insight into how they are likely to respond in social and interpersonal situations.
 
 | Agreeableness | Description                                                             |
-|---------------|-------------------------------------------------------------------------|
+| ------------- | ----------------------------------------------------------------------- |
 | Agreeable     | Warm, empathic, tolerant, forgiving, open-minded, adaptable, altruistic |
 | Disagreeable  | Cold, rigid, tense, intractable, narrow-minded, cantankerous, stingy    |
 
@@ -134,19 +133,19 @@ The sub-topic of "Agreeableness" deals with a character's overall attitude towar
 
 The next sub-topic in character creation is Interactivity, which deals with the way your character interacts with others. This aspect of personality is crucial in shaping the character's social relationships and determining how they engage with the world around them. The table of choices in Interactivity includes two options: Engaging and Reserved. An Engaging character is often talkative, candid, and touchy, while a Reserved character is usually shy, preferring to keep to themselves and be more reserved in their interactions. Understanding this aspect of your character will greatly enhance the depth of your role-playing experience and allow you to build compelling, engaging stories.
 
-| Interactivity | Description                                |
-|---------------|--------------------------------------------|
-| Engaging      | Talkative, candid, entertaining, touchy    |
-| Reserved      | Shy, loner, taciturn, evasive, cryptic     |
+| Interactivity | Description                             |
+| ------------- | --------------------------------------- |
+| Engaging      | Talkative, candid, entertaining, touchy |
+| Reserved      | Shy, loner, taciturn, evasive, cryptic  |
 
 ## Conformity
 
 Conformity is an important aspect of a character's personality, determining their relationship with cultural norms and societal expectations. A character who is conventional is likely to follow orthodox beliefs and practices, be formal in their demeanor, and adhere to mainstream customs. On the other hand, a character who is heterodox may be rebellious in nature, have a creative and artistic streak, and may be known for their freethinking and exotic choices. Understanding a character's conformity can give insight into how they view and interact with the world around them.
 
-| Conformity    | Description                                                 |
-|---------------|-------------------------------------------------------------|
-| Conventional  | Orthodox, formal, down-to-earth, mainstream, traditional    |
-| Heterodox     | Rebellious, arty, shocking, freethinking, exotic            |
+| Conformity   | Description                                              |
+| ------------ | -------------------------------------------------------- |
+| Conventional | Orthodox, formal, down-to-earth, mainstream, traditional |
+| Heterodox    | Rebellious, arty, shocking, freethinking, exotic         |
 
 ## Quirks, Habits, and Oddities
 
@@ -155,7 +154,7 @@ To help bring your character to life and add depth to gameplay, consider incorpo
 These quirks, habits, and oddities can offer a multitude of role-playing opportunities. They can help flesh out a character's backstory, provide unique challenges or benefits during gameplay, and even influence the way they interact with other characters. For example, a character who is a compulsive liar may struggle with building trust with others, while a character who is an animal hater may have trouble working with characters who have animal companions. Whether you choose to focus on the more harmless or more engaging quirks, incorporating these small behaviors into your character can greatly enhance your role-playing experience.
 
 |                                        |                                       |                                      |
-|----------------------------------------|---------------------------------------|--------------------------------------|
+| -------------------------------------- | ------------------------------------- | ------------------------------------ |
 | 1. Humming                             | 31. Snoring                           | 61. Clearing throat repeatedly       |
 | 2. Dancing                             | 32. Walking backwards                 | 62. Covering mouth while speaking    |
 | 3. Sleepwalking                        | 33. Teeth sucking                     | 63. Fidgeting with hands             |
