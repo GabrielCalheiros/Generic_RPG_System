@@ -85,6 +85,7 @@ In conclusion, Eidos is an open source tabletop RPG system that offers a unique 
 <!-- 
 
 - Experience and Leveling
+- 
 - Tactical Maneuvers and Formation Tactics
 - Environmental Interaction and Terrain Effects
 - Morale and Panic Mechanics
