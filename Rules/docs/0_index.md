@@ -71,14 +71,13 @@ In conclusion, Eidos is an open source tabletop RPG system that offers a unique 
   - [Turn Structure](./8_combat.md#turn-structure)
   - [Conflic Resolution](./8_combat.md#conflic-resolution)
   - [Injury and Consequences](./8_combat.md#injury-and-consequences)
-    - [Injury Tables](./8_combat.md#injury-tables)
-        - [Cutting](./8_combat.md#cutting)
-        - [Stabbing](./8_combat.md#stabbing)
-        - [Blunt Force \& Impact](./8_combat.md#blunt-force--impact)
-        - [Fire](./8_combat.md#fire)
-        - [Acid](./8_combat.md#acid)
-        - [Poison](./8_combat.md#poison)
-        - [Instant Death and Recovery](./8_combat.md##instant-death-and-recovery)
+      - [Cutting](./8_combat.md#cutting)
+      - [Stabbing](./8_combat.md#stabbing)
+      - [Blunt Force \& Impact](./8_combat.md#blunt-force--impact)
+      - [Fire](./8_combat.md#fire)
+      - [Acid](./8_combat.md#acid)
+      - [Poison](./8_combat.md#poison)
+      - [Instant Death and Recovery](./8_combat.md##instant-death-and-recovery)
 
 
 

@@ -86,6 +86,8 @@ Each attack's success prompts a roll on a corresponding injury table. For exampl
 | 19   | Critical hit, catastrophic brain damage             | Instant death   | N/A                 |
 | 20   | Critical hit, brain pierced, instant death          | Instant death   | N/A                 |
 
+![Image](./img/combat06.svg)
+
 **Cutting in the Torso**
 
 | Roll | Injury Description                                      | Recovery Time   | Scars               |
@@ -135,6 +137,8 @@ Each attack's success prompts a roll on a corresponding injury table. For exampl
 | 18   | Critical hit, arteries severed, instant death           | Instant death   | N/A                 |
 | 19   | Critical hit, shattered bones, instant death            | Instant death   | N/A                 |
 | 20   | Critical hit, arm disintegrated, instant death          | Instant death   | N/A                 |
+
+![Image](./img/combat07.svg)
 
 **Cutting in the Legs**
 
@@ -213,6 +217,8 @@ Each attack's success prompts a roll on a corresponding injury table. For exampl
 | 19   | Critical hit, disembowelment and instant death          | Instant death   | N/A                 |
 | 20   | Critical hit, catastrophic spinal trauma and death      | Instant death   | N/A                 |
 
+![Image](./img/combat08.svg)
+
 **Cutting in the Neck**
 
 | Roll | Injury Description                                | Recovery Time   | Scars               |
@@ -263,6 +269,7 @@ Each attack's success prompts a roll on a corresponding injury table. For exampl
 | 19   | Critical hit, facial dismemberment, instant death  | Instant death   | N/A                 |
 | 20   | Critical hit, head severed, instant death          | Instant death   | N/A                 |
 
+![Image](./img/combat09.svg)
 
 ### Stabbing
 
@@ -316,6 +323,8 @@ Each attack's success prompts a roll on a corresponding injury table. For exampl
 | 19   | Critical hit, vital artery sliced, instant death     | Instant death    | N/A                  |
 | 20   | Critical hit, impaled through heart, instant death   | Instant death    | N/A                  |
 
+![Image](./img/combat10.svg)
+
 **Stabbing in the Arms**
 
 | Roll | Injury Description                                 | Recovery Time   | Scars               |
@@ -365,6 +374,8 @@ Each attack's success prompts a roll on a corresponding injury table. For exampl
 | 18   | Critical hit, leg dismembered, instant death       | Instant death   | N/A                 |
 | 19   | Critical hit, vital artery pierced, instant death  | Instant death   | N/A                 |
 | 20   | Critical hit, leg impaled, instant death           | Instant death   | N/A                 |
+
+![Image](./img/combat11.svg)
 
 **Stabbing in The Abdomen**
 
