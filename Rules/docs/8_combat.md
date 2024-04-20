@@ -375,8 +375,6 @@ Each attack's success prompts a roll on a corresponding injury table. For exampl
 | 19   | Critical hit, vital artery pierced, instant death  | Instant death   | N/A                 |
 | 20   | Critical hit, leg impaled, instant death           | Instant death   | N/A                 |
 
-![Image](./img/combat11.svg)
-
 **Stabbing in The Abdomen**
 
 | Roll | Injury Description                                    | Recovery Time   | Scars               |
