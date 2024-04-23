@@ -2,35 +2,30 @@
 
 ![Image](./img/combat01.svg)
 
-In Eidos, combat transcends mere mechanical exchanges—it's a dynamic narrative woven from the decisions of players and the capricious roll of dice. Embracing the ethos of open source development, Eidos presents a combat system that is both immersive and accessible, catering to players of all skill levels.
+In Eidos, the combat is based on the ideas presented in this [video](https://www.youtube.com/watch?v=0o5vWmoS3KU&ab_channel=SimplyWyvern). Basicly the combat needs to be a part of the narrative, not a mini-game that creates transitions in the game. So there is nothing of  initiative rolls nor anything like that. In the world of Eidos, combat is a dynamic and immersive experience that forms an integral part of the gameplay. Rooted in the principles of open-source development and designed to offer a deep narrative experience driven by player choice, Eidos sets itself apart as a unique addition to the tabletop role-playing genre. The combat system in Eidos is meticulously crafted to simulate realistic combat scenarios, with mechanics that emphasize tactical decision-making and narrative engagement.
 
 ## Turn Structure
 
-Every turn in Eidos is a symphony of action and consequence, where players and the DM contribute to the unfolding narrative:
-
-**Player and NPC Actions**: Each player and NPC writes down their intended action for the turn, whether it's a movement, an attack, or a strategic maneuver.
-
-**Randomized Resolution**: These actions are placed into a receptacle—a cup, bowl, or electronic system of randomness. The DM then draws actions at random, mirroring the unpredictability of battle.
-
-**Dice Rolls and Narration**: As actions are drawn, the DM narrates the turn, rolling dice to determine the success of attacks and resulting injuries. A successful attack hinges on a Skill Roll, its difficulty influenced by factors such as armor, terrain advantage, and environmental conditions.
+Combat in Eidos follows a fluid turn structure, allowing for seamless interaction between players and the game master. Unlike traditional turn-based systems, Eidos prioritizes moment-to-moment decision-making, where players and the GM exchange actions and reactions in real-time. This approach enhances the narrative flow of combat scenes, fostering a sense of urgency and immersion.
 
 ## Conflic Resolution
 
-**Skill Roll for the Action**: Each action undertaken by a player or NPC begins with a skill roll. The difficulty of this roll is meticulously weighted by the DM, considering factors such as armor strength, tactical advantage, and environmental conditions. Whether it's a calculated strike or a daring maneuver, success hinges on the mastery of the skill.
+Conflict resolution in Eidos is resolved through a combination of dice rolls and narrative storytelling. Players utilize a 2 20d roll to determine the outcome of their actions, with results influenced by their character's skills, abilities, and environmental factors. The DM adjudicates conflicts based on the narrative context, ensuring that combat encounters remain dynamic and unpredictable. 
 
-**Resolving Successful Attacks**: Upon achieving success in an attack, the narrative unfolds with the roll of dice. The DM determines the extent of damage inflicted, weaving the outcome seamlessly into the ongoing tale. Every blow struck carries weight, leaving its mark on the combatants and shaping the course of the conflict.
-
-**Responding to Failed Attacks**: In the dance of combat, failure is but a stepping stone to opportunity. Should an attack falter, the defender seizes the moment, retaliating with a counter-attack of their own. The ebb and flow of battle are punctuated by these moments of reversal, where resilience and strategic prowess come to the fore.
+| Difficulty        | Target Number |
+|-------------------|---------------|
+| Very easy         | 05            |
+| Easy              | 10            |
+| Moderate          | 15            |
+| Difficult         | 20            |
+| Hard              | 25            |
+| Very hard         | 30            |
+| Extremely hard    | 35            |
+| Nearly impossible | 39            |
 
 ![Image](./img/combat02.svg)
 
-**Diverse Actions, Varied Skills**: Beyond the clash of steel , conflict in Eidos encompasses a spectrum of actions. From acrobatic leaps to cunning feints, every move is an opportunity for skill mastery. Each action undertaken—be it jumping, rolling, or throwing—is subject to the same scrutiny, resolved through the lens of skill and chance.
-
-## Injury and Consequences
-
-Eidos introduces a realistic and detailed approach to injury, ensuring that every hit carries weight. When an attack lands, it's not merely a matter of dealing damage—it's about determining the specific injury inflicted.
-
-### Injury Tables
+## Injury Tables
 
 Each attack's success prompts a roll on a corresponding injury table. For example, an attacker aims for a specific body part like the neck and successfully hits, the player rolls the "Cutting in Neck Damage Table" to determine the outcome. These tables define the consequences, ranging from minor wounds to severe trauma.
 

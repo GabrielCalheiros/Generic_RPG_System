@@ -2,57 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://example.com/0_index/</loc>
-         <lastmod>2024-04-19</lastmod>
+         <lastmod>2024-04-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/10_dm/</loc>
-         <lastmod>2024-04-19</lastmod>
+         <lastmod>2024-04-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/1_personality/</loc>
-         <lastmod>2024-04-19</lastmod>
+         <lastmod>2024-04-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/2_religion/</loc>
-         <lastmod>2024-04-19</lastmod>
+         <lastmod>2024-04-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/3_physical/</loc>
-         <lastmod>2024-04-19</lastmod>
+         <lastmod>2024-04-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/4_clothing/</loc>
-         <lastmod>2024-04-19</lastmod>
+         <lastmod>2024-04-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/5_equipment/</loc>
-         <lastmod>2024-04-19</lastmod>
+         <lastmod>2024-04-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/6_skills/</loc>
-         <lastmod>2024-04-19</lastmod>
+         <lastmod>2024-04-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/7_background/</loc>
-         <lastmod>2024-04-19</lastmod>
+         <lastmod>2024-04-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/8_combat/</loc>
-         <lastmod>2024-04-19</lastmod>
+         <lastmod>2024-04-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/9_health/</loc>
-         <lastmod>2024-04-19</lastmod>
+         <lastmod>2024-04-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
