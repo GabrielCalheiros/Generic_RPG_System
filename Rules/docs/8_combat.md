@@ -2,7 +2,7 @@
 
 ![Image](./img/combat01.svg)
 
-In Eidos, the combat is based on the ideas presented in this [video](https://www.youtube.com/watch?v=0o5vWmoS3KU&ab_channel=SimplyWyvern). Basicly the combat needs to be a part of the narrative, not a mini-game that creates transitions in the game. So there is nothing of  initiative rolls nor anything like that. In the world of Eidos, combat is a dynamic and immersive experience that forms an integral part of the gameplay. Rooted in the principles of open-source development and designed to offer a deep narrative experience driven by player choice, Eidos sets itself apart as a unique addition to the tabletop role-playing genre. The combat system in Eidos is meticulously crafted to simulate realistic combat scenarios, with mechanics that emphasize tactical decision-making and narrative engagement.
+In Eidos, the combat is based on the ideas presented in this [video](https://www.youtube.com/watch?v=0o5vWmoS3KU&ab_channel=SimplyWyvern). Basicly the combat needs to be a part of the narrative, not a mini-game that creates transitions in the game. So there is nothing of  initiative rolls nor anything like that. In the world of Eidos, combat is a dynamic and immersive experience that forms an integral part of the gameplay. The combat system in Eidos is meticulously crafted to simulate realistic combat scenarios, with mechanics that emphasize tactical decision-making and narrative engagement.
 
 ## Turn Structure
 
