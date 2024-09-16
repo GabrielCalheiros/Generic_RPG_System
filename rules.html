@@ -8,183 +8,8 @@
         <title>Eidos - Rules</title>
         <meta name="description" content="Eidos Rulebook">
         <link rel="icon" type="image/x-icon" href="./images/favicon.svg">
-
         <meta name="apple-mobile-web-app-capable" content="yes">
-        
-        <style>
-
-            body {
-                font-family: "Times New Roman", Times, serif;
-                background-color: black;
-                color: white;
-                width: 800px;
-                margin: auto;
-            }
-
-            /* General styles for unordered lists (ul) */
-            ul {
-                list-style-type: none; /* Remove default bullets */
-                padding-left: 0; /* Remove default padding */
-            }
-
-            /* Nested list items will be indented */
-            ul ul {
-                padding-left: 20px; /* Indent nested lists */
-            }
-
-            li {
-                margin-bottom: 5px; /* Add some space between list items */
-            }
-
-            a {
-                color: white; /* Light yellow for links */
-                text-decoration: none; /* Remove underline */
-            }
-
-            a:hover {
-                text-decoration: underline; /* Add underline on hover */
-            }
-                        
-            p {
-                text-align: justify;
-            }
-
-            img {
-                width: 100%;
-            }
-            
-            table {
-                width: 100%;
-                border-collapse: collapse;
-                margin-bottom: 20px;
-                background-color: #333; /* Dark background for the table */
-                color: white; /* White text for monochrome theme */
-            }
-
-            th, td {
-                padding: 12px;
-                text-align: left;
-                border: 1px solid white; /* White borders for table cells */
-            }
-
-            th {
-                background-color: black; /* Black background for table headers */
-                font-weight: bold;
-            }
-
-            td {
-                background-color: black;
-            }
-            
-            /* Edit OL */
-            ol {
-                list-style-type: square;
-            }
-
-            
-            .toc-list li > a {
-                text-decoration: none;
-                display: grid;
-                grid-template-columns: auto max-content;
-                align-items: end;
-            }
-
-            .toc-list li > a > .page {
-                text-align: right;
-            }
-            
-            .visually-hidden {
-                clip: rect(0 0 0 0);
-                clip-path: inset(100%);
-                height: 1px;
-                overflow: hidden;
-                position: absolute;
-                width: 1px;
-                white-space: nowrap;
-            }
-            
-            .toc-list li > a > .title {
-                position: relative;
-                overflow: hidden;
-            }
-
-            .toc-list li > a .title::after {
-                position: absolute;
-                padding-left: .25ch;
-                content: " . . . . . . . . . . . . . . . . . . . "
-                    ". . . . . . . . . . . . . . . . . . . . . . . "
-                    ". . . . . . . . . . . . . . . . . . . . . . . "
-                    ". . . . . . . . . . . . . . . . . . . . . . . "
-                    ". . . . . . . . . . . . . . . . . . . . . . . "
-                    ". . . . . . . . . . . . . . . . . . . . . . . "
-                    ". . . . . . . . . . . . . . . . . . . . . . . ";
-                text-align: right;
-            }
-            
-            .toc-list > li > a {
-                font-weight: bold;
-                margin-block-start: 1em;
-            }
-            
-
-            @media print {
-                
-                body {
-                    background-color: white;
-                    color: black;
-                }
-                
-                img {
-                    filter: invert(100%);
-                }
-                
-                a {
-                    color: black;
-                }
-                
-                table {
-                    background-color: white; /* Dark background for the table */
-                    color: black; /* White text for monochrome theme */
-                }
-                
-                th, td {
-                    border: 1px solid black; /* White borders for table cells */
-                }
-                
-                td {
-                    background-color: white;
-                }
-                
-                /* Control page breaks */
-                table, img, pre {
-                    page-break-inside: avoid;
-                }
-                
-                .toc-list {
-                    list-style-type: decimal;
-                }
-                
-                /* Page numbers */
-                @page {
-                    margin: 1in;
-                }
-
-                /* Adding a footer with page numbers */
-                @page :right {
-                    @bottom-right {
-                        content: "Page " counter(page);
-                    }
-                }
-
-                @page :left {
-                    @bottom-left {
-                        content: "Page " counter(page);
-                    }
-                }
-
-            }
-
-        </style>
+        <link rel="stylesheet" href="./rules_style.css">
 
     </head>
     
@@ -662,72 +487,6 @@
             </a>
         </li>
         
-<ol class="toc-list" role="list">
-
-        <li>
-            <a href="#food-and-water-requirements">
-                <span class="title">Food and Water Requirements<span class="leaders" aria-hidden="true"></span></span>
-                <span class="page"><span class="visually-hidden">Page</span> 9.1</span>
-            </a>
-        </li>
-        
-
-        <li>
-            <a href="#shelter-and-environmental-hazards">
-                <span class="title">Shelter and Environmental Hazards<span class="leaders" aria-hidden="true"></span></span>
-                <span class="page"><span class="visually-hidden">Page</span> 9.2</span>
-            </a>
-        </li>
-        
-
-        <li>
-            <a href="#scavenging-and-resource-management">
-                <span class="title">Scavenging and Resource Management<span class="leaders" aria-hidden="true"></span></span>
-                <span class="page"><span class="visually-hidden">Page</span> 9.3</span>
-            </a>
-        </li>
-        
-
-        <li>
-            <a href="#travel-and-exploration-mechanics">
-                <span class="title">Travel and Exploration Mechanics<span class="leaders" aria-hidden="true"></span></span>
-                <span class="page"><span class="visually-hidden">Page</span> 9.4</span>
-            </a>
-        </li>
-        
-
-        <li>
-            <a href="#damage-and-wound-mechanics">
-                <span class="title">Damage and Wound Mechanics<span class="leaders" aria-hidden="true"></span></span>
-                <span class="page"><span class="visually-hidden">Page</span> 9.5</span>
-            </a>
-        </li>
-        
-
-        <li>
-            <a href="#healing-and-recovery-mechanics">
-                <span class="title">Healing and Recovery Mechanics<span class="leaders" aria-hidden="true"></span></span>
-                <span class="page"><span class="visually-hidden">Page</span> 9.6</span>
-            </a>
-        </li>
-        
-
-        <li>
-            <a href="#status-effects-and-debuffs">
-                <span class="title">Status Effects and Debuffs<span class="leaders" aria-hidden="true"></span></span>
-                <span class="page"><span class="visually-hidden">Page</span> 9.7</span>
-            </a>
-        </li>
-        
-
-        <li>
-            <a href="#advanced-injuries-and-trauma">
-                <span class="title">Advanced Injuries and Trauma<span class="leaders" aria-hidden="true"></span></span>
-                <span class="page"><span class="visually-hidden">Page</span> 9.8</span>
-            </a>
-        </li>
-        
-</ol>
 
         <li>
             <a href="#game-master-tools">
@@ -736,72 +495,6 @@
             </a>
         </li>
         
-<ol class="toc-list" role="list">
-
-        <li>
-            <a href="#world-building-and-setting-creation">
-                <span class="title">World Building and Setting Creation<span class="leaders" aria-hidden="true"></span></span>
-                <span class="page"><span class="visually-hidden">Page</span> 10.1</span>
-            </a>
-        </li>
-        
-
-        <li>
-            <a href="#non-player-character-generation">
-                <span class="title">Non-Player Character Generation<span class="leaders" aria-hidden="true"></span></span>
-                <span class="page"><span class="visually-hidden">Page</span> 10.2</span>
-            </a>
-        </li>
-        
-
-        <li>
-            <a href="#encounters-and-adventures">
-                <span class="title">Encounters and Adventures<span class="leaders" aria-hidden="true"></span></span>
-                <span class="page"><span class="visually-hidden">Page</span> 10.3</span>
-            </a>
-        </li>
-        
-
-        <li>
-            <a href="#group-dynamics-and-leadership-in-party-movement">
-                <span class="title">Group Dynamics and Leadership in Party Movement<span class="leaders" aria-hidden="true"></span></span>
-                <span class="page"><span class="visually-hidden">Page</span> 10.4</span>
-            </a>
-        </li>
-        
-
-        <li>
-            <a href="#movement-and-travel-mechanics">
-                <span class="title">Movement and Travel Mechanics<span class="leaders" aria-hidden="true"></span></span>
-                <span class="page"><span class="visually-hidden">Page</span> 10.5</span>
-            </a>
-        </li>
-        
-
-        <li>
-            <a href="#encounter-generation-and-management">
-                <span class="title">Encounter Generation and Management<span class="leaders" aria-hidden="true"></span></span>
-                <span class="page"><span class="visually-hidden">Page</span> 10.6</span>
-            </a>
-        </li>
-        
-
-        <li>
-            <a href="#resource-management-and-resting-mechanics">
-                <span class="title">Resource Management and Resting Mechanics<span class="leaders" aria-hidden="true"></span></span>
-                <span class="page"><span class="visually-hidden">Page</span> 10.7</span>
-            </a>
-        </li>
-        
-
-        <li>
-            <a href="#campaign-management">
-                <span class="title">Campaign Management<span class="leaders" aria-hidden="true"></span></span>
-                <span class="page"><span class="visually-hidden">Page</span> 10.8</span>
-            </a>
-        </li>
-        
-</ol>
 </ol>
         </nav>
     
@@ -7245,23 +6938,24 @@ For non-fatal injuries, a period of recovery follows. Players who emerge victori
 <p>The aftermath of combat extends beyond the battlefield. Players who survive are left to recover from their wounds, with lasting scars as tokens of their trials. The scars serve as reminders of battles fought, adding layers of realism and immersion to the world of Eidos.
 As you continue your exploration of this system, embrace the intricate interplay of choice, strategy, and chance that defines Eidos' unique combat and conflict resolution mechanics.</p>
 <h1 id="survival-injuries-and-health-mechanics">Survival, Injuries and Health Mechanics</h1>
-<h2 id="food-and-water-requirements">Food and Water Requirements</h2>
-<h2 id="shelter-and-environmental-hazards">Shelter and Environmental Hazards</h2>
-<h2 id="scavenging-and-resource-management">Scavenging and Resource Management</h2>
-<h2 id="travel-and-exploration-mechanics">Travel and Exploration Mechanics</h2>
-<h2 id="damage-and-wound-mechanics">Damage and Wound Mechanics</h2>
-<h2 id="healing-and-recovery-mechanics">Healing and Recovery Mechanics</h2>
-<h2 id="status-effects-and-debuffs">Status Effects and Debuffs</h2>
-<h2 id="advanced-injuries-and-trauma">Advanced Injuries and Trauma</h2>
+<!-- ## Food and Water Requirements
+## Shelter and Environmental Hazards
+## Scavenging and Resource Management
+## Travel and Exploration Mechanics
+## Damage and Wound Mechanics
+## Healing and Recovery Mechanics
+## Status Effects and Debuffs
+## Advanced Injuries and Trauma -->
+
 <h1 id="game-master-tools">Game Master Tools</h1>
-<h2 id="world-building-and-setting-creation">World Building and Setting Creation</h2>
-<h2 id="non-player-character-generation">Non-Player Character Generation</h2>
-<h2 id="encounters-and-adventures">Encounters and Adventures</h2>
-<h2 id="group-dynamics-and-leadership-in-party-movement">Group Dynamics and Leadership in Party Movement</h2>
-<h2 id="movement-and-travel-mechanics">Movement and Travel Mechanics</h2>
-<h2 id="encounter-generation-and-management">Encounter Generation and Management</h2>
-<h2 id="resource-management-and-resting-mechanics">Resource Management and Resting Mechanics</h2>
-<h2 id="campaign-management">Campaign Management</h2>
+<!-- ## World Building and Setting Creation
+## Non-Player Character Generation
+## Encounters and Adventures
+## Group Dynamics and Leadership in Party Movement
+## Movement and Travel Mechanics
+## Encounter Generation and Management
+## Resource Management and Resting Mechanics
+## Campaign Management -->
         </article>
     
     </body>
