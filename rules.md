@@ -1,7 +1,3 @@
-<!-- To do list: -->
-<!-- Finish Clothing -->
-<!-- Finish Background -->
-<!-- Add images to descricao fisica -->
 
 ![Image1](./images/index01.svg)
 
@@ -1241,7 +1237,139 @@ In the realm of Performance and Artistry, characters become maestros of expressi
 
 # Background
 
+The background section is designed to help players craft a rich and meaningful history for their characters. This section offers prompts to guide the player through the process of writing a cohesive backstory that connects the character's past with the decisions reflected on the character sheet (such as religion, scars, or personality traits). Below are questions that the player can use to generate a detailed narrative. Each answer should be written as part of a continuous text, creating a personal story for the character.
+
+## Background Prompts
+
+**Birth and Early Life:**
+
+- Where was your character born?
+*Example: “[Character Name] was born in [City Name], a small village nestled between mountains.”*
+
+- What was their family situation like (parents, siblings, guardians)?
+- Did they grow up in wealth or poverty?
+
+**Education and Early Influences:**
+
+- What was their education like? Were they formally educated, self-taught, or completely untrained?
+- Who were the people that had the most significant influence on them growing up?
+- Did the character have a role model or mentor?
+- What major events shaped the character’s worldview (war, loss, triumph)?
+- Have they ever made a life-changing decision they regret or are proud of?
+- Why did they adopt their religious or philosophical beliefs? What experiences led to this?
+
+**Appearance and Scars:**
+
+- Are there any visible signs of past events on their body (scars, tattoos, piercings)?
+- If so, what is the story behind each of these?
+*Example: “A long scar runs down his arm, a reminder of his first failed duel.”*
+
+**Relationships and Conflicts:**
+
+- What relationships have shaped them (romantic, familial, friendships, rivalries)?
+- Do they have any enemies or unresolved grudges?
+- How do they handle conflicts and disagreements?
+
+**Occupation and Skills:**
+
+- How did the character acquire their skills?
+- What jobs or roles did they perform throughout their life?
+
+**Motivations and Goals:**
+
+- What drives your character today? Do they have a primary goal or aspiration?
+- Are they seeking redemption, revenge, recognition, or something else?
+
+**Secrets and Fears:**
+
+- Does the character have any secrets? If so, what are they hiding and why?
+- What are their greatest fears?
+
+**Formative Events and Choices:**
+
+## Encouraging Narrative Justification
+
+Players are encouraged to link their background story with other aspects of the character sheet, such as personality traits, religion, or scars. For example, if the character's religion reflects a personal experience, this should be included in the backstory. If they bear a particular scar, the background should explain how they got it and what impact it had on their life.
+
+## Player Tips
+
+- Focus on Motivation: Every event in the character's life should build towards understanding what drives them today.
+- Leave Room for Growth: Avoid writing a "perfect" character—leave flaws and conflicts unresolved to make space for in-game development.
+- Collaborate with the Game Master: Share your background with the GM so they can weave elements into the campaign.
+
+This approach will give players flexibility while offering enough structure to create meaningful and coherent character histories. The questions act as prompts to encourage creative storytelling while also ensuring that important character elements are tied together.
+
 # Clothing and Equipment
+
+In Eidos, what characters wear is not just a matter of protection—it reflects their background, status, and the role they play in the world. A noble dressed in ceremonial robes conveys a different message than a seasoned warrior in battle-worn mail. Clothing and armor help shape the narrative, affect how NPCs react, and influence a character’s abilities within the game. Players are encouraged to select outfits that align with their character’s role, culture, and personal history.
+
+Each character will have at least two sets of clothing: one primary and one secondary. These sets represent their lifestyle and choices. For example, a merchant might carry both casual clothing for travel and finer garments for negotiations, while a warrior may have ceremonial armor for formal events and heavier armor for battle. However, the use of mismatched or inappropriate gear—for example, wearing armor in court or dressing poorly for a formal audience—can impact interactions and story outcomes.
+
+This system emphasizes that clothing and armor aren’t just mechanical choices but integral to role-playing. What characters wear shapes their place in the world, reflects their status, and influences how others perceive them. The chosen attire should make sense given their station, environment, and circumstances.
+
+## Armor Levels and Narrative Effects
+
+Each set of clothing or armor falls into one of four levels: No Armor, Lightly Armored, Armored, or Heavily Armored. Each level brings specific benefits and limitations, encouraging players to think strategically about what to wear in different scenarios.
+
+**No Armor**
+
+Description: Simple clothes with no protective qualities—robes, tunics, or travel gear.
+
+*Pros:*
+- Maximum freedom of movement and agility.
+- Ideal for stealth and blending into crowds.
+- No exhaustion from prolonged wear.
+
+*Cons:*
+- Vulnerable to all forms of physical attacks.
+- Requires reliance on clever tactics or diplomacy in dangerous situations.
+
+**Lightly Armored**
+
+Description: Leather armor, padded jackets, or chainmail worn under clothing—suitable for agile fighters or scouts.
+
+*Pros:*
+- Offers moderate protection without sacrificing much agility.
+- Useful for roles that demand both defense and speed.
+
+*Cons:*
+- Can’t stop heavier strikes or blunt force.
+- Mild discomfort when worn for long periods, especially in hot climates.
+
+**Armored**
+
+Description: Chainmail or partial plate—common for soldiers or knights who need balanced defense and movement.
+
+*Pros:*
+- Protects against slashing and piercing attacks.
+- Intimidating to opponents and suitable for frontline combat.
+
+*Cons:*
+- Noisy and limits stealth attempts.
+- Slows down the wearer during long chases or escapes.
+
+**Heavily Armored**
+
+Description: Full plate armor or reinforced chainmail, designed for the battlefield.
+
+*Pros:*
+- Provides the highest level of protection, resisting most physical damage.
+- Creates an overwhelming presence, discouraging enemies.
+
+*Cons:*
+- Severely limits movement—running, climbing, or swimming is nearly impossible.
+- Causes exhaustion if worn for too long or in the wrong environment.
+
+# Changing and Using Armor Narratively
+
+The choice of clothing and armor is not permanent—characters can change between their sets as needed, but doing so takes time and planning. For instance:
+
+- Swapping from travel clothes to ceremonial robes before entering a royal audience can influence the outcome of a negotiation.
+
+- Switching from light to heavy armor before a siege offers protection but limits agility.
+
+- Choosing not to wear armor at all during a diplomatic event signals trust but also leaves the character vulnerable if things go wrong.
+Armor not only defines how characters look but also shapes the gameplay. A heavily armored warrior might struggle to infiltrate a guarded mansion, while a rogue in light clothing could breeze through. Each level comes with strengths and weaknesses that push players to think creatively, adapting their equipment to suit the challenges of the story.
 
 # Combat and Conflict Resolution
 
@@ -1955,21 +2083,45 @@ The aftermath of combat extends beyond the battlefield. Players who survive are 
 As you continue your exploration of this system, embrace the intricate interplay of choice, strategy, and chance that defines Eidos' unique combat and conflict resolution mechanics.
 
 # Survival, Injuries and Health Mechanics
-<!-- ## Food and Water Requirements
-## Shelter and Environmental Hazards
-## Scavenging and Resource Management
-## Travel and Exploration Mechanics
-## Damage and Wound Mechanics
-## Healing and Recovery Mechanics
-## Status Effects and Debuffs
-## Advanced Injuries and Trauma -->
 
-# Game Master Tools
-<!-- ## World Building and Setting Creation
-## Non-Player Character Generation
-## Encounters and Adventures
-## Group Dynamics and Leadership in Party Movement
-## Movement and Travel Mechanics
-## Encounter Generation and Management
-## Resource Management and Resting Mechanics
-## Campaign Management -->
+Survival in Eidos revolves around the balance between risk and resilience. When characters face environmental challenges, hunger, thirst, or wounds, their effectiveness declines—but these conditions also provide narrative depth, giving the GM and players opportunities to explore moments of hardship and triumph.
+
+## Food and Water Requirements
+
+Survival depends on the characters managing hunger and thirst. These conditions are tracked narratively rather than with numbers. Going without food or water introduces nerfs to skill tests, symbolizing fatigue, confusion, or irritability.
+
+**Hungry: -1 to mental rolls (distraction from hunger).**
+
+**Thirsty: -1 to physical rolls (muscle weakness or slowed reflexes).**
+
+After one full day without food or water, these penalties increase to -2. At this stage, the character may exhibit behavioral shifts such as irritability, sluggishness, or hallucinations—elements that drive the narrative. Players must seek sustenance within the story through scavenging, hunting, or trading. Eating and drinking restore the character to normal functionality.
+
+### Shelter and Environmental Hazards
+
+Exposure to extreme weather or dangerous environments gradually wears down a character through Fatigue Points:
+
+**1-2 Points: Minor exhaustion (no effect).**
+**3-4 Points: -1 to all physical rolls.**
+**5+ Points: Risk of unconsciousness (character must roll 2d20 against a target of 15).**
+
+To recover, the player must find shelter (a warm camp, dry cave, or safe house). GMs can use these rest moments to introduce story hooks, like meeting NPCs or making discoveries. Shelter also restores 1 Fatigue Point per hour of uninterrupted rest.
+
+### Scavenging and Resource Management
+
+In Eidos, scavenging is an exploratory mechanic driven by narrative. Instead of predefined loot tables, the GM describes environments and players declare their intentions (e.g., “I search the abandoned warehouse for water containers”). Each scavenging action requires a 2d20 roll:
+
+- **Success:** The player finds useful supplies (food, water, first aid).
+- **Partial success:** The item is damaged or in limited supply.
+- **Failure:** The player finds nothing or risks a complication (like setting off an alarm or encountering a hostile creature).
+
+Resources like food, water, or bandages aren’t counted individually but treated as narrative elements. For example, finding a first aid kit doesn’t guarantee endless healing—it provides one meaningful use within the story.
+
+### Status Effects and Debuffs
+
+Injuries and conditions introduce status effects that evolve with the story. These effects aren’t just penalties—they shape how characters interact with the world. Below are a few common status effects:
+
+**Fatigued:** -1 to all rolls (can accumulate with hunger/thirst).
+**Infected Wound:** Must succeed in a 2d20 Survival roll every day (Difficulty 15) or the condition worsens.
+**Disoriented:** -2 to mental rolls (due to concussion or exhaustion).
+
+Resolving Status Effects: These effects persist until addressed in the story. For example, to remove Disorientation, the character might need to sleep or drink water.
