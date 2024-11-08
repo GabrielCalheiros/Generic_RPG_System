@@ -1,7 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1731010501.65709 "c:/Users/gabriel.miranda/Desktop/Projetos/Personal Github/Generic_RPG_System/TexFile/rules_eng.tex" "rules_eng.pdf" "rules_eng" 1731010503.64012 0
-  "c:/Users/gabriel.miranda/Desktop/Projetos/Personal Github/Generic_RPG_System/TexFile/rules_eng.tex" 1731010499 57665 d51ef29b0e3afff0d4d21564d1138b82 ""
+["pdflatex"] 1731072434.93513 "c:/Users/gabriel.miranda/Desktop/Projetos/Personal Github/Generic_RPG_System/TexFile/rules_eng.tex" "rules_eng.pdf" "rules_eng" 1731072438.01143 0
+  "c:/Users/gabriel.miranda/Desktop/Projetos/Personal Github/Generic_RPG_System/TexFile/rules_eng.tex" 1731072432 81512 f5e078c01207a49d17f30fa293f5b86d ""
+  "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1730475816 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1730482058 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "c:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1730478991 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1730473980 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1730473980 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1730475794 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -22,6 +24,7 @@
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb" 1730473981 36554 b67dc2cfa451409e100b3fcf5f506509 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1730473981 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb" 1730473981 34586 5a65dc15601f9c74fe3fb3f37b3b8b6f ""
+  "c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb" 1730475816 136101 b18d10b3436f8cb0cd04046deb340fe7 ""
   "c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1730491091 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "c:/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty" 1730485176 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
   "c:/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty" 1730485176 1057 525c2192b5febbd8c1f662c9468335bb ""
@@ -60,10 +63,13 @@
   "images/religion02.pdf" 1730818132 122592 7755475ebf2a72d6e46041a75ec13cf2 ""
   "images/religion03.pdf" 1730818132 375731 603633867009b146f39b9dc298f71e46 ""
   "images/religion04.pdf" 1730818132 257489 f3c7091ef065fef7d81d5a876d4b8c1a ""
+  "images/religion05.pdf" 1730818132 41117 dd0437c812138551d66c6c22b8280c1d ""
+  "images/religion06.pdf" 1730818132 573022 4d97ad23dd6d1d30a37547ef6b152ccf ""
   "images/religion07.pdf" 1730818132 102889 ee365b703681e33892d905a9ae08175a ""
-  "rules_eng.aux" 1731010503 3117 d2098f1ecbafef9b2b32e597598205a8 "pdflatex"
-  "rules_eng.tex" 1731010499 57665 d51ef29b0e3afff0d4d21564d1138b82 ""
-  "rules_eng.toc" 1731010503 1851 5f795359fc57ad1d868420d3f400f735 "pdflatex"
+  "images/religion08.pdf" 1730818133 421244 7bba0171bdc41b0bb3f94cadf2871f0e ""
+  "rules_eng.aux" 1731072437 4627 305c2e98586034ba640280763779491d "pdflatex"
+  "rules_eng.tex" 1731072432 81512 f5e078c01207a49d17f30fa293f5b86d ""
+  "rules_eng.toc" 1731072437 2782 1bdd06b89fe6bcc331822552572c48e7 "pdflatex"
   (generated)
   "rules_eng.aux"
   "rules_eng.log"

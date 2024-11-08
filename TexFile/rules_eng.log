@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.1)  7 NOV 2024 17:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.1)  8 NOV 2024 10:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -279,20 +279,18 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(./rules_eng.toc)
+(./rules_eng.toc
+
+[1
+
+
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
 \tf@toc=\write3
 \openout3 = `rules_eng.toc'.
 
 
 
-[1
-
-
-{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-[2
-
-]
+[2]
 Chapter 1.
 <./images/presentation01.pdf, id=12, 964.35117pt x 488.2168pt>
 File: ./images/presentation01.pdf Graphic file (type pdf)
@@ -301,7 +299,9 @@ Package pdftex.def Info: ./images/presentation01.pdf  used on input line 37.
 (pdftex.def)             Requested size: 307.1475pt x 155.49506pt.
 
 
-[3 <./images/presentation01.pdf>]
+[3
+
+ <./images/presentation01.pdf>]
 Overfull \hbox (3.7238pt too wide) in paragraph at lines 50--51
 \OT1/cmr/m/n/12 shel-ter, scav-eng-ing, travel, and ex-plo-ration. Chap-ter 4: Char-
  []
@@ -583,39 +583,123 @@ Overfull \hbox (7.03117pt too wide) in paragraph at lines 604--606
 \OT1/cmr/m/n/12 could in-clude prac-tices like tarot read-ings, cast-ing bones,
  []
 
+<./images/religion08.pdf, id=156, 526.96875pt x 341.02406pt>
+File: ./images/religion08.pdf Graphic file (type pdf)
+<use ./images/religion08.pdf>
+Package pdftex.def Info: ./images/religion08.pdf  used on input line 608.
+(pdftex.def)             Requested size: 184.29037pt x 119.26134pt.
+
+Underfull \vbox (badness 5563) has occurred while \output is active []
+
 
 
 [36]
-Overfull \hbox (0.28075pt too wide) in paragraph at lines 613--615
+Overfull \hbox (0.28075pt too wide) in paragraph at lines 617--619
 []\OT1/cmr/bx/n/12 Group med-i-ta-tion or prayer ses-sions: \OT1/cmr/m/n/12 Group med-
  []
 
 
-Overfull \hbox (2.09187pt too wide) in paragraph at lines 616--618
+Overfull \hbox (2.09187pt too wide) in paragraph at lines 620--622
 \OT1/cmr/m/n/12 text. This could in-clude hymns, chants, or gospel songs.
+ []
+
+<./images/religion05.pdf, id=160, 1204.89957pt x 692.45259pt>
+File: ./images/religion05.pdf Graphic file (type pdf)
+<use ./images/religion05.pdf>
+Package pdftex.def Info: ./images/religion05.pdf  used on input line 626.
+(pdftex.def)             Requested size: 184.29037pt x 105.90263pt.
+
+
+[37 <./images/religion08.pdf>]
+
+[38{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./images/religion05.pdf>]
+<./images/religion06.pdf, id=174, 1310.70451pt x 721.19444pt>
+File: ./images/religion06.pdf Graphic file (type pdf)
+<use ./images/religion06.pdf>
+Package pdftex.def Info: ./images/religion06.pdf  used on input line 659.
+(pdftex.def)             Requested size: 184.29037pt x 101.3957pt.
+
+
+[39 <./images/religion06.pdf>]
+
+[40
+
+]
+Chapter 4.
+
+Overfull \hbox (4.22426pt too wide) in paragraph at lines 677--678
+\OT1/cmr/m/n/12 in-flu-ence per-cep-tion, power dy-nam-ics, and in-ter-ac-tions within
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[41]
+Overfull \hbox (0.41882pt too wide) in paragraph at lines 702--703
+[]\OT1/cmr/m/n/12 Finally, we dis-cuss the im-por-tance of \OT1/cmr/bx/n/12 Pro-por-tions\OT1/cmr/m/n/12 , high-
  []
 
 
 
-[37] (./rules_eng.aux)
+[42]
+Overfull \hbox (2.65118pt too wide) in paragraph at lines 728--729
+[]\OT1/cmr/bx/n/12 Dimpled\OT1/cmr/m/n/12 : Skin with small, nat-u-ral in-den-ta-tions known
+ []
+
+
+
+[43]
+Overfull \hbox (5.06798pt too wide) in paragraph at lines 747--748
+[]\OT1/cmr/m/n/12 A smooth and pale skin-tone re-sem-bling fine porce-
+ []
+
+
+
+[44]
+
+[45]
+Overfull \hbox (2.63718pt too wide) in paragraph at lines 772--773
+[]\OT1/cmr/m/n/12 A pitch-black skin-tone with no dis-cernible un-der-tones.
+ []
+
+
+
+[46]
+
+[47]
+
+[48]
+Overfull \hbox (3.20158pt too wide) in paragraph at lines 813--814
+\OT1/cmr/m/n/12 gem-stone, topaz eyes ra-di-ate a cap-ti-vat-ing charm. They
+ []
+
+
+
+[49]
+
+[50]
+
+[51] (./rules_eng.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-10-09>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3119 strings out of 473576
- 48507 string characters out of 5732204
+ 3146 strings out of 473576
+ 49316 string characters out of 5732204
  458285 words of memory out of 5000000
- 26014 multiletter control sequences out of 15000+600000
- 564015 words of font info for 56 fonts, out of 8000000 for 9000
+ 26039 multiletter control sequences out of 15000+600000
+ 564352 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,6n,65p,1243b,309s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
-Output written on rules_eng.pdf (37 pages, 6846228 bytes).
+<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on rules_eng.pdf (51 pages, 7909803 bytes).
 PDF statistics:
- 185 PDF objects out of 1000 (max. 8388607)
- 123 compressed objects within 2 object streams
+ 244 PDF objects out of 1000 (max. 8388607)
+ 163 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
