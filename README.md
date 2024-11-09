@@ -7,4 +7,4 @@
 
 Small project with a friend to make our homebrew RPG System with the rules explained in a static simple html site. 
 
-Acess the repo: [https://gabrielcalheiros.github.io/Generic_RPG_System/rules.html](https://gabrielcalheiros.github.io/Generic_RPG_System/rules.html)
+Acess the repo: [https://gabrielcalheiros.github.io/Generic_RPG_System/rules.html](https://gabrielcalheiros.github.io/Generic_RPG_System/rules.pdf)
