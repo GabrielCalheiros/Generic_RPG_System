@@ -4,12 +4,15 @@
 \usepackage{titlesec}
 % \usepackage{marginnote}
 \usepackage{amsmath}
-\usepackage{multicol}
+\usepackage{multicol} % For side-by-side columns
+
+\usepackage{enumitem}
+\usepackage{hyperref}
 
 
 % Set geometry for large margin on the side
 \geometry{
-    left=1.25in,
+    left=1.25in, % Larger margin for notations on the left
     right=3in, % Larger margin for notations on the right
     top=1in,
     bottom=1in
@@ -18,8 +21,8 @@
 % Customize chapter title to place image right after title
 \titleformat{\chapter}[display]
   {\normalfont\Large\bfseries} % Change font and style
-  {\chaptertitlename\ \thechapter}{20pt}{\Huge} % Change spacing
-  [\vspace{1em}\hrule\vspace{1em}] % Line after title
+  {\chaptertitlename\ \thechapter}{20pt}{\Huge} % Chapter title
+  [\vspace{0.75em}\hrule\vspace{0.75em}] % Line after title
 
 % Begin document
 \begin{document}
@@ -352,7 +355,7 @@ These quirks, habits, and oddities can offer a multitude of role-playing opportu
 
 Sense of Humor is an important aspect of a character's personality and can be used to show their humor preferences and how they might react in different situations. It ranges from crude humor to dry wit and includes various styles such as slapstick, jokey, cynical, prankster, mean-spirited, gleeful, and surreal. By selecting one of these options, you can help to define your character's sense of humor and how they might react in different situations. Having a strong sense of humor can also be a way for your character to diffuse tense situations, and can be used to show their lighter side. Ultimately, your character's sense of humor is a tool that you can use to further develop their personality and bring them to life in your storytelling.
 
-\begin{enumerate}
+\begin{enumerate}[itemsep=0.4em]
     \item Crude
     \item Dry
     \item Slapstick
@@ -545,9 +548,10 @@ The "Religious Roles" field represents the various positions and titles within a
 
 \begin{figure}[h]
     \centering
-    \includegraphics[width=\textwidth]{./images/religion02.pdf}
+    \includegraphics[width=0.3\textwidth]{./images/religion02.pdf}
     % \caption{Inline Example Image}
 \end{figure}
+
 
 \subsection{\textbf{Practices/Rituals}}
 
@@ -623,7 +627,7 @@ The "Practices/Rituals" field is an important aspect of a character's spiritual 
 \end{enumerate}
 
 \begin{center}
-    \includegraphics[width=0.6\textwidth]{./images/religion05.pdf}
+    \includegraphics[width=0.3\textwidth]{./images/religion05.pdf}
 \end{center}
 
 \subsection{\textbf{Challenges to Faith}}
@@ -1072,27 +1076,1192 @@ From beards to mustaches, facial hair can significantly alter the appearance and
     \item \textbf{Handlebar Mustache:} A mustache with long, upwardly curved ends, often styled with wax for added flair. It conveys a sense of sophistication and old-world charm.
 \end{itemize}
 
+\subsection{\textbf{Beard Lengths}}
+
+The length of facial hair plays a significant role in defining the character's appearance and can communicate different messages. From a clean-shaven look to a majestic wizard-like beard, the chosen length contributes to the character's personality and story. Selecting a specific beard length allows players to create a visual representation that aligns with their character's journey and role within the game world.
+
+\begin{itemize}
+    \item \textbf{Clean-Shaven}: A smooth and completely hairless face, suggesting youthfulness, freshness, or a meticulous grooming routine.
+    \item \textbf{Short}: A short beard length that provides a hint of facial hair growth, adding a touch of maturity or ruggedness to the character's appearance.
+    \item \textbf{Medium}: A moderate beard length that falls between short and long, striking a balance between refinement and masculinity.
+    \item \textbf{Long}: A lengthy beard that exudes wisdom, power, or an untamed wildness. It can convey a character's journey, age, or connection to nature.
+    \item \textbf{Epic}: An extraordinarily long and majestic beard that symbolizes reverence, ancient wisdom, or even divine status.
+\end{itemize}
+
+\subsection{\textbf{Hair and Beard Care Grooming Techniques}}
+
+Haircare goes beyond styling; it involves maintaining the health and vitality of one's hair. In this section, we delve into the world of hair care, discussing different hair types, care routines, and products. Learn how to keep your character's locks lustrous and well-maintained. Facial hair requires maintenance and grooming to maintain its desired style and appearance. Different grooming techniques can enhance the overall look of the character's facial hair, making it appear well-kept and intentional. Players can choose from various grooming techniques to add authenticity and attention to detail to their character's facial hair.
+
+\begin{itemize}
+    \item \textbf{Stylized Stubble}: A precisely maintained and shaped stubble, giving a deliberate and fashionable appearance.
+    \item \textbf{Elaborate Beard Art}: Intricate designs or patterns crafted within the facial hair, showcasing creativity and attention to detail.
+    \item \textbf{Polished Mustache}: A well-groomed mustache that is perfectly shaped, trimmed, and waxed to achieve a sophisticated and distinguished look.
+    \item \textbf{Beard Oil Care}: Regular application of beard oil to keep the facial hair nourished, soft, and healthy, resulting in a well-groomed and luxurious appearance.
+    \item \textbf{Retro Mutton Chops}: Mutton chops styled with a vintage flair, incorporating grooming techniques from a bygone era, adding a touch of nostalgia to the character's appearance.
+    \item \textbf{Wild and Untamed}: Unkempt and free-flowing facial hair that conveys a sense of rebellion, unpredictability, or a rugged and independent spirit.
+    \item \textbf{Razor-Sharp Lines}: Precisely defined and sharp lines created along the edges of the beard or mustache, highlighting clean-cut grooming and meticulous attention to detail.
+\end{itemize}
+
+\subsection{\textbf{Scars}}
+
+Scars tell stories etched onto a character's body, revealing their past experiences. Discover the significance of scars in different areas of the body and how they can shape a character's visual identity. We then delve into the world of tattoo designs, discussing various motifs, styles, and cultural inspirations. Lastly, we explore the symbolism behind scars and tattoos, unraveling the deeper meanings and connections they hold within a character's narrative.
+
+Scars come in various types, each with its own characteristics and implications. Understanding different scar types can help in crafting a character's backstory and visual representation. In this section, we explore common scar types and their meanings.
+
+\begin{description}
+
+    \item[\textbf{Keloid}] Keloid scars are raised, thickened scars that extend beyond the original wound area. They are caused by an overgrowth of collagen during the healing process and can be more prominent in certain individuals. Keloid scars can symbolize resilience and overcoming adversity.
+    
+    \item[\textbf{Hypertrophic}] Hypertrophic scars are similar to keloid scars but are confined to the original wound site. They are raised and may appear red or pink. Hypertrophic scars can represent healing and growth after trauma.
+    
+    \item[\textbf{Atrophic}] Atrophic scars are characterized by a loss of tissue, resulting in a sunken or depressed appearance. These scars often occur in acne or injury-related cases. Atrophic scars can evoke vulnerability or past struggles.
+    
+    \item[\textbf{Contracture}] Contracture scars occur when the skin is burned or damaged, leading to tightening and restricting movement in the affected area. These scars can symbolize resilience in the face of adversity and overcoming physical limitations.
+    
+    \item[\textbf{Surgical}] Surgical scars are intentionally created during surgical procedures. They can vary in size and shape, depending on the type of surgery performed. Surgical scars can represent the character's history of medical interventions or transformation.
+
+\end{description}
+
+Understanding the different types of scars can help you craft a character with a rich backstory and visual representation. Consider the type of scar that aligns with your character's experiences and story, and let it shape their narrative.
+
+Scars tell stories of battles won, hardships endured, and experiences lived. In this section, we explore the placement of scars and their potential significance. Whether it's a faded mark from the past or a fresh wound that adds intensity to your character's narrative, scars can enrich their visual profile.
+
+Scars can be found on various parts of the body, each with its own symbolism and impact on a character's appearance. The location of a scar can provide insights into the character's history and personality. From facial scars that draw attention to their resilience to hidden scars on the torso that hint at secret battles fought, the placement of scars can contribute to the visual storytelling of a character.
+
+\begin{description}
+    \item[\textbf{Facial}] Scars on the face can create a striking and memorable visual, showcasing the character's resilience and strength. They can include facial scars from battles, accidents, or surgeries, adding a rugged or mysterious quality to the character's appearance.
+    
+    \item[\textbf{Torso}] Scars on the torso can be hidden, representing battles fought in the past and adding an air of mystery to the character. They can include scars from major injuries, surgeries, or significant events, symbolizing the character's resilience or secretive nature.
+    
+    \item[\textbf{Arms and Hands}] Scars on the arms and hands can symbolize a history of combat or physical labor, portraying the character's strength and skill. They can include scars from sword fights, intense training, or work-related accidents, highlighting the character's experience and toughness.
+    
+    \item[\textbf{Back}] Scars on the back can suggest past traumas or represent a burden that the character carries, adding depth to their backstory. They can include scars from injuries, surgeries, or other significant events, signifying the character's past struggles or the emotional weight they carry.
+    
+    \item[\textbf{Legs and Feet}] Scars on the legs and feet can indicate journeys undertaken, adventures faced, or the character's endurance in challenging terrains. They can include scars from climbing mountains, surviving wilderness, or battles fought, symbolizing the character's perseverance and resilience.
+    
+    \item[\textbf{Neck}] Scars on the neck can hold special significance, such as a symbol of survival or a mark of loyalty to a group or cause. They can include scars from near-death experiences, attempts on the character's life, or tattoos that were removed or altered, showcasing the character's strength and loyalty.
+    
+    \item[\textbf{Abdomen}] Scars on the abdomen can represent a character's vulnerability or past struggles. They can include surgical scars, scars from injuries, or marks from battles, adding depth to the character's backstory and hinting at their past challenges.
+\end{description}
+
+\subsection{\textbf{Tattoos}}
+
+Tattoos are a form of self-expression that can hold deep personal and cultural significance. In this section, we delve into the world of tattoo designs, exploring different symbols, styles, and meanings. Discover how tattoos can add depth and visual intrigue to your character's appearance.
+
+Tattoos offer a unique way for characters to showcase their individuality and tell their stories. From intricate designs representing personal beliefs to cultural symbols that connect characters to their heritage, tattoos can be powerful visual elements in character development.
+
+\begin{description}
+    \item[\textbf{Traditional}] Traditional tattoos often feature bold lines, vibrant colors, and classic motifs, drawing inspiration from cultural and maritime traditions. They can include designs like anchors, roses, eagles, and nautical symbols.
+    
+    \item[\textbf{Geometric}] Geometric tattoos utilize shapes and patterns to create visually striking and symmetrical designs that represent balance and harmony. They often feature geometric shapes such as triangles, circles, and hexagons arranged in intricate patterns.
+    
+    \item[\textbf{Tribal}] Tribal tattoos are inspired by ancient tribal cultures and feature bold, black ink patterns that convey strength, heritage, and identity. They typically incorporate tribal motifs and symbols, such as tribal animals, abstract patterns, or tribal deities.
+    
+    \item[\textbf{Symbolic}] Symbolic tattoos incorporate meaningful symbols, such as animals, elements, or spiritual icons, representing personal beliefs and values. Examples include yin and yang symbols, religious symbols, or representations of important life events.
+    
+    \item[\textbf{Portrait}] Portrait tattoos depict lifelike images of loved ones, historical figures, or fictional characters, capturing their essence and significance. They require great skill to capture realistic details and often hold deep personal meaning for the wearer.
+    
+    \item[\textbf{Realism}] Realism tattoos aim to replicate the appearance of real-life subjects with high levels of detail and precision. They can depict portraits, animals, nature, or any other subject, with a focus on creating a lifelike representation using shading and realistic techniques.
+\end{description}
+
+\subsection{\textbf{Birthmarks}}
+
+Birthmarks are unique and often mysterious features that add intrigue to a character's appearance. They can come in various shapes, sizes, and colors, and their presence can hold significance within a character's narrative. Birthmarks are natural markings that may appear anywhere on the body, either at birth or shortly after. These distinctive marks can evoke curiosity, symbolize uniqueness, or even serve as a connection to a character's heritage or lineage. Whether it's a small speck or a larger patch, each birthmark tells a story and adds depth to a character's visual identity.
+
+Below is a table featuring 20 different types of birthmarks, each with its own distinct characteristics and potential implications:
+
+\begin{description}
+    \item[\textbf{Café-au-Lait Spot}] A café-au-lait spot is a light-brown or tan birthmark that can vary in size and shape. It is usually harmless but may be associated with certain genetic conditions.
+    
+    \item[\textbf{Mongolian Spot}] Mongolian spots are bluish-gray birthmarks commonly found on the lower back or buttocks. They are more prevalent in individuals with darker skin tones.
+    
+    \item[\textbf{Port-Wine Stain}] A port-wine stain is a pink, red, or purple birthmark caused by a vascular anomaly. It can be flat or raised and often persists throughout a person's life.
+    
+    \item[\textbf{Strawberry Hemangioma}] Strawberry hemangiomas are bright red birthmarks that appear shortly after birth. They may grow rapidly in the first year and then gradually fade over time.
+    
+    \item[\textbf{Stork Bite}] Stork bites, also known as angel kisses or salmon patches, are flat pink or red birthmarks commonly found on the forehead, eyelids, or back of the neck. They often fade within a few years.
+    
+    \item[\textbf{Flame Nevus}] Flame nevi are reddish-brown or dark brown birthmarks that resemble irregularly shaped flames. They can appear anywhere on the body and are usually present at birth.
+    
+    \item[\textbf{Congenital Melanocytic Nevus}] Congenital melanocytic nevi are large, dark-colored birthmarks that vary in size and shape. They may be hairy and have an increased risk of developing into melanoma.
+    
+    \item[\textbf{Hemangioma}] Hemangiomas are raised, red or bluish birthmarks caused by an overgrowth of blood vessels. They can appear anywhere on the body and may require medical intervention depending on their location and size.
+    
+    \item[\textbf{Becker's Nevus}] Becker's nevus is a type of pigmented birthmark that appears as a brown patch with irregular borders. It is more common in males and can darken or enlarge over time.
+    
+    \item[\textbf{Nevus Sebaceous}] Nevus sebaceous is a type of birthmark characterized by a yellow or orange, hairless patch of skin. It often develops on the scalp, face, or neck and can thicken or change over time.
+    
+    \item[\textbf{Vascular Streak}] Vascular streaks are narrow, red or purple birthmarks that resemble thin lines on the skin. They can occur on the face, limbs, or trunk and are caused by dilated blood vessels.
+\end{description}
+
+By incorporating birthmarks and piercings into your character's appearance, you can add depth, visual interest, and a touch of individuality. Whether it's a birthmark that carries a hidden story or a piercing that reflects their style and personality, these unique features can help shape your character's visual identity and contribute to their overall narrative.
+
+\subsection{\textbf{Conclusion}}
+
+The physical characteristics of a character are more than just appearances; they are windows into their history, culture, and personality. Each scar, birthmark, or tattoo, as well as choices in grooming and body art, contribute layers to their identity and can symbolize their past experiences, personal values, or the struggles they’ve overcome. Through a thoughtful and realistic physical description, a character’s individuality comes alive, inviting others to connect with the depth of their journey. Let these attributes serve as storytelling tools, adding to the character’s depth while shaping their place within the world, their interactions, and their relationships. In this way, the physical form becomes a living testament to the character's unique essence.
 
 % ###################################################################################################
 % Chapter 4 - Skills
 % ###################################################################################################
+\chapter{Skills}
+
+This chapter unveils the foundation of Eidos' character progression, rooted in the acquisition and mastery of a vast array of skills. Every action, from the deft handling of weapons to the eloquence of speech, is determined by a character's dedication to training and refinement in specific areas. With each skill representing a distinct domain of expertise, characters can explore diverse paths, developing everything from ancient languages and arcane arts to acrobatics and culinary finesse. 
+
+In this system, character growth is woven into the story, shaped by active narrative choices. Players signal their character’s training efforts or increased skill use to the group, which the Dungeon Master (DM) observes and judges. Skills improve naturally over time, influenced by the character’s sustained practice, encounters, and commitment to development. This organic approach to advancement allows for a unique evolution, encouraging characters to grow in ways that complement their journey and personality.
+
+\subsection{\textbf{Physical Skills}}
+
+Mastering the physical domain, these skills encompass agility, strength, and coordination. From the graceful artistry of acrobatics to the raw power of wrestling, characters may refine their physical prowess through consistent use and intentional practice. As characters demonstrate dedication in these areas, the DM may deem them capable of remarkable feats, surpassing ordinary limits and reflecting their unique path to mastery.
+
+\begin{description}
+    \item[Acrobatics:] Agility and body control in various acrobatic maneuvers.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Basic tumbling and somersaults.
+            \item \textbf{Maximal Level:} Perform complex aerial stunts with precision.
+        \end{itemize}
+    
+    \item[Balancing:] Maintaining balance in precarious situations.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Stand on one foot for a short duration.
+            \item \textbf{Maximal Level:} Balance on narrow surfaces under challenging conditions.
+        \end{itemize}
+
+    \item[Boxing:] Hand-to-hand combat using fists and quick movements.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Basic punches and footwork.
+            \item \textbf{Maximal Level:} Masterful combination of punches and defensive maneuvers.
+        \end{itemize}
+
+    \item[Climbing:] Scaling vertical surfaces with agility.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Climb low structures with effort.
+            \item \textbf{Maximal Level:} Scale tall walls or cliffs with ease.
+        \end{itemize}
+
+    \item[Fencing:] Skillful swordsmanship in one-on-one combat.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Basic parries and attacks.
+            \item \textbf{Maximal Level:} Execute advanced techniques with speed and precision.
+        \end{itemize}
+
+    \item[Gymnastics:] Flexible and coordinated body movements.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Basic gymnastic routines.
+            \item \textbf{Maximal Level:} Perform intricate routines with flips and twists.
+        \end{itemize}
+
+    \item[Jumping:] Jumping across distances or heights with control.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Jump short gaps with ease.
+            \item \textbf{Maximal Level:} Leap across wide chasms or reach great heights.
+        \end{itemize}
+
+    \item[Lifting:] Strength for lifting heavy objects.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Lift and carry moderately heavy items.
+            \item \textbf{Maximal Level:} Lift and move extremely heavy objects effortlessly.
+        \end{itemize}
+
+    \item[Riding:] Control and maneuvering while mounted.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Basic horse riding skills.
+            \item \textbf{Maximal Level:} Expert control over any mount in any situation.
+        \end{itemize}
+
+    \item[Running:] Speed and endurance in running.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Run short distances without fatigue.
+            \item \textbf{Maximal Level:} Sprint long distances without tiring.
+        \end{itemize}
+
+    \item[Stealth:] Moving quietly and remaining unseen.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Move quietly in favorable conditions.
+            \item \textbf{Maximal Level:} Vanish into shadows without a trace.
+        \end{itemize}
+
+    \item[Swimming:] Efficient movement and staying afloat in water.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Tread water and basic swimming strokes.
+            \item \textbf{Maximal Level:} Swim long distances effortlessly.
+        \end{itemize}
+
+    \item[Tightrope Walking:] Walking and performing on narrow surfaces.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Walk short distances on a tightrope.
+            \item \textbf{Maximal Level:} Dance and perform acrobatics on a tightrope.
+        \end{itemize}
+
+    \item[Wrestling:] Grappling and close-quarters combat.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Basic wrestling holds and takedowns.
+            \item \textbf{Maximal Level:} Overpower opponents with advanced wrestling techniques.
+        \end{itemize}
+\end{description}
+
+\subsection{\textbf{Communication Skills}}
+
+Communication is an art, and within this category lie skills that allow characters to navigate the intricate tapestry of social interactions. From the persuasive charm of diplomacy to the deceptive finesse of disguise, these skills empower characters to influence, deceive, and navigate the complex nuances of the human (and non-human) experience.
+
+\begin{description}
+    \item[Bluff:] Deception and misleading others.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Tell simple lies convincingly.
+            \item \textbf{Maximal Level:} Fabricate elaborate stories without being detected.
+        \end{itemize}
+
+    \item[Bribe:] Persuading through the exchange of goods or money.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Offer small incentives for cooperation.
+            \item \textbf{Maximal Level:} Successfully negotiate large bribes for significant favors.
+        \end{itemize}
+
+    \item[Bullfighting:] Engaging and controlling bulls in a performance or sport.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Basic understanding of bull behavior.
+            \item \textbf{Maximal Level:} Execute daring and precise moves in a bullfight.
+        \end{itemize}
+
+    \item[Calligraphy:] Artful and decorative writing.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Basic lettering and simple designs.
+            \item \textbf{Maximal Level:} Create intricate and ornate calligraphic art.
+        \end{itemize}
+
+    \item[Camouflage:] Blending in with surroundings and avoiding detection.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Use basic natural elements for cover.
+            \item \textbf{Maximal Level:} Blend seamlessly into any environment.
+        \end{itemize}
+
+    \item[Diplomacy:] Negotiation and resolution of conflicts through dialogue.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Basic negotiation skills.
+            \item \textbf{Maximal Level:} Resolve complex disputes with diplomacy and tact.
+        \end{itemize}
+
+    \item[Disguise:] Changing appearance to appear as someone else.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Simple changes to hair and clothing.
+            \item \textbf{Maximal Level:} Transform appearance convincingly for any role.
+        \end{itemize}
+
+    \item[Etiquette:] Knowledge of social conventions and polite behavior.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Basic knowledge of polite gestures.
+            \item \textbf{Maximal Level:} Navigate complex social situations flawlessly.
+        \end{itemize}
+
+    \item[Gambling:] Skill in games of chance and reading opponents.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Basic understanding of common games.
+            \item \textbf{Maximal Level:} Consistently win in various games of chance.
+        \end{itemize}
+
+    \item[Flirting:] Charm and playfulness in romantic interactions.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Playful banter and light flirting.
+            \item \textbf{Maximal Level:} Captivate and seduce with charisma and charm.
+        \end{itemize}
+
+    \item[Heraldry:] Knowledge of coats of arms and heraldic symbols.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Identify basic heraldic symbols.
+            \item \textbf{Maximal Level:} Expert in heraldic symbolism and design.
+        \end{itemize}
+
+    \item[Intimidation:] Coercion and instilling fear in others.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Use intimidating presence to unsettle.
+            \item \textbf{Maximal Level:} Strike fear into the hearts of even the bravest.
+        \end{itemize}
+
+    \item[Juggling:] Skillfully handling and tossing objects in the air.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Basic juggling with a few objects.
+            \item \textbf{Maximal Level:} Juggle a variety of objects with intricate patterns.
+        \end{itemize}
+
+    \item[Language:] Knowledge of various languages and communication skills.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Basic understanding of a few languages.
+            \item \textbf{Maximal Level:} Fluent in numerous languages, both spoken and written.
+        \end{itemize}
+
+    \item[Leadership:] Guiding and motivating a group of individuals.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Coordinate simple group activities.
+            \item \textbf{Maximal Level:} Inspire and lead large groups with charisma and strategy.
+        \end{itemize}
+
+    \item[Negotiation:] Effective communication in reaching agreements.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Basic bargaining skills.
+            \item \textbf{Maximal Level:} Successfully negotiate complex agreements.
+        \end{itemize}
+
+    \item[Public Speaking:] Articulate and persuasive speech in public settings.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Speak confidently in front of small groups.
+            \item \textbf{Maximal Level:} Deliver captivating speeches to large audiences.
+        \end{itemize}
+
+    \item[Seduction:] Alluring and enticing others romantically.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Basic seductive gestures and compliments.
+            \item \textbf{Maximal Level:} Irresistibly seduce and captivate with allure.
+        \end{itemize}
+
+    \item[Streetwise:] Knowledge and survival skills in urban environments.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Navigate basic urban dangers.
+            \item \textbf{Maximal Level:} Thrive and excel in the most dangerous urban environments.
+        \end{itemize}
+
+    \item[Teaching:] Imparting knowledge and skills to others.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Explain simple concepts effectively.
+            \item \textbf{Maximal Level:} Instruct and educate in complex subjects with clarity.
+        \end{itemize}
+
+    \item[Throw Voice:] Projecting one's voice to create auditory illusions.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Basic ventriloquism techniques.
+            \item \textbf{Maximal Level:} Throw voice convincingly in any direction.
+        \end{itemize}
+
+    \item[Ventriloquism:] Speaking without moving one's lips, creating illusions.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Basic ventriloquism skills.
+            \item \textbf{Maximal Level:} Expert ventriloquist, creating lifelike illusions.
+        \end{itemize}
+\end{description}
+
+\subsection{\textbf{Crafting}}
+
+In the realm of crafting, characters hone their skills to transform raw materials into practical and beautiful creations. From the mystical art of alchemy to the hands-on craftsmanship of blacksmithing, these skills enable characters to produce items of immense utility and artistry. The Crafting skills encompass a diverse range, from the creation of magical elixirs to the forging of legendary weapons and the intricate art of calligraphy.
+
+\subsection{\textbf{Knowledge and Academic}}
+
+Embarking on the path of knowledge and academia, characters delve into the depths of history, languages, and mystical realms. These skills empower characters to unlock the secrets of the past, decipher ancient languages, and navigate the intricate tapestry of societal structures. From the arcane arts to the study of human behavior, the Knowledge and Academic skills provide characters with the tools to understand the world's mysteries.
+
+\begin{description}
+
+    \item[Alchemy:] Potion-making and knowledge of magical substances.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Mix basic potions with simple effects.
+            \item \textbf{Maximal Level:} Create potent elixirs with diverse magical properties.
+        \end{itemize}
+
+    \item[Armorer:] Crafting and repairing armor.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Basic armor repairs and maintenance.
+            \item \textbf{Maximal Level:} Forge intricate and powerful armor from various materials.
+        \end{itemize}
+
+    \item[Blacksmith:] Forging and shaping metal objects.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Basic metalworking skills.
+            \item \textbf{Maximal Level:} Craft legendary weapons and armor with masterful precision.
+        \end{itemize}
+
+    \item[Brewing:] Fermenting and creating alcoholic beverages.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Brew basic ales and simple drinks.
+            \item \textbf{Maximal Level:} Craft exquisite and magical brews with unique effects.
+        \end{itemize}
+
+    \item[Calligraphy:] Artful and decorative writing.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Basic lettering and simple designs.
+            \item \textbf{Maximal Level:} Create intricate and ornate calligraphic art.
+        \end{itemize}
+
+    \item[Carpentry:] Construction and woodworking.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Build simple structures and furniture.
+            \item \textbf{Maximal Level:} Craft elaborate and intricate wooden creations.
+        \end{itemize}
+
+    \item[Cobbling:] Shoemaking and repairing footwear.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Basic shoe repairs and simple designs.
+            \item \textbf{Maximal Level:} Craft comfortable and stylish shoes for any occasion.
+        \end{itemize}
+
+    \item[Cooking:] Culinary arts and preparing meals.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Cook basic meals with common ingredients.
+            \item \textbf{Maximal Level:} Create exquisite and rare dishes with unique flavors.
+        \end{itemize}
+
+    \item[Falconry:] Training and handling birds of prey.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Basic falconry training and commands.
+            \item \textbf{Maximal Level:} Form a deep bond with multiple birds for intricate maneuvers.
+        \end{itemize}
+
+    \item[Farming:] Agriculture and cultivation of crops.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Tend to basic crops and livestock.
+            \item \textbf{Maximal Level:} Manage and optimize large-scale farming operations.
+        \end{itemize}
+
+    \item[Fletcher:] Crafting bows and arrows.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Basic bow and arrow construction.
+            \item \textbf{Maximal Level:} Create exceptional bows and arrows with precision and power.
+        \end{itemize}
+
+    \item[Leather Working:] Working with and crafting items from leather.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Craft basic leather goods and repairs.
+            \item \textbf{Maximal Level:} Create intricate and durable leather armor and accessories.
+        \end{itemize}
+
+    \item[Sculpting:] Carving and shaping various materials into sculptures.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Basic sculpting techniques.
+            \item \textbf{Maximal Level:} Sculpt lifelike and awe-inspiring masterpieces.
+        \end{itemize}
+
+    \item[Seamanship:] Navigation and operation of water vessels.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Navigate basic water routes.
+            \item \textbf{Maximal Level:} Command and navigate any type of watercraft in any conditions.
+        \end{itemize}
+
+    \item[Scribe:] Writing and copying texts.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Copy simple documents and texts.
+            \item \textbf{Maximal Level:} Transcribe complex manuscripts and ancient texts with accuracy.
+        \end{itemize}
+
+    \item[Tailor:] Designing and crafting clothing.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Sew basic garments and repairs.
+            \item \textbf{Maximal Level:} Create intricate and fashionable outfits for any occasion.
+        \end{itemize}
+
+    \item[Weaponsmithing:] Crafting and forging weapons.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Forge basic weapons and repairs.
+            \item \textbf{Maximal Level:} Create legendary weapons with mythical properties.
+        \end{itemize}
+
+    \item[Weaving:] Creating fabric and textiles.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Basic fabric creation and simple patterns.
+            \item \textbf{Maximal Level:} Weave complex and exquisite fabrics for various purposes.
+        \end{itemize}
+
+    \item[Woodworking:] Crafting and shaping wood.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Basic woodworking skills.
+            \item \textbf{Maximal Level:} Create intricate and functional wooden items.
+        \end{itemize}
+
+\end{description}
+
+\subsection{\textbf{Performance and Artistry}}
+
+In the realm of Performance and Artistry, characters become maestros of expression, transcending the ordinary with their creative endeavors. These skills encompass a wide range of artistic pursuits, from musical symphonies to captivating stage performances. Whether painting vibrant canvases, executing intricate dance routines, or crafting magical illusions, characters with these skills bring the magic of creativity to life.
+
+\begin{description}
+
+    \item[Music:] Skill in playing musical instruments.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Play simple tunes on one instrument.
+            \item \textbf{Maximal Level:} Master multiple instruments, composing complex melodies.
+        \end{itemize}
+
+    \item[Dancing:] Mastery of various dance forms.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Perform basic dance steps in a chosen style.
+            \item \textbf{Maximal Level:} Choreograph and execute intricate dance routines flawlessly.
+        \end{itemize}
+
+    \item[Acting:] Ability to perform convincingly on stage or in front of an audience.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Execute simple scenes with basic emotion.
+            \item \textbf{Maximal Level:} Captivate an audience with powerful and nuanced performances.
+        \end{itemize}
+
+    \item[Painting:] Skill in creating visual art using paint.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Produce simple paintings and drawings.
+            \item \textbf{Maximal Level:} Create intricate and expressive paintings with various techniques.
+        \end{itemize}
+
+    \item[Sculpture:] Creating three-dimensional art using various materials.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Shape basic forms in different materials.
+            \item \textbf{Maximal Level:} Craft detailed and captivating sculptures with intricate designs.
+        \end{itemize}
+
+    \item[Poetry:] Writing and reciting poetic compositions.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Compose simple poems with basic structures.
+            \item \textbf{Maximal Level:} Craft complex and evocative poems with profound themes.
+        \end{itemize}
+
+    \item[Storytelling:] Engaging and captivating an audience with stories.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Tell simple stories with basic narrative structure.
+            \item \textbf{Maximal Level:} Weave intricate and compelling tales with masterful storytelling.
+        \end{itemize}
+
+    \item[Juggling:] Skill in juggling multiple objects.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Juggle a few objects with basic patterns.
+            \item \textbf{Maximal Level:} Juggle a variety of objects with intricate and mesmerizing patterns.
+        \end{itemize}
+
+    \item[Magic Tricks:] Performing illusions and sleight of hand.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Execute simple magic tricks with common items.
+            \item \textbf{Maximal Level:} Baffle and amaze audiences with complex and mystifying illusions.
+        \end{itemize}
+
+    \item[Culinary Arts:] Cooking and preparing exquisite meals.
+        \begin{itemize}
+            \item \textbf{Minimal Level:} Prepare basic dishes with common ingredients.
+            \item \textbf{Maximal Level:} Master diverse cuisines, creating culinary masterpieces.
+        \end{itemize}
+
+\end{description}
 
 % ###################################################################################################
 % Chapter 5 - Background
 % ###################################################################################################
+\chapter{Background}
+
+The background section is designed to help players craft a rich and meaningful history for their characters. This section offers prompts to guide the player through the process of writing a cohesive backstory that connects the character's past with the decisions reflected on the character sheet (such as religion, scars, or personality traits). Below are questions that the player can use to generate a detailed narrative. Each answer should be written as part of a continuous text, creating a personal story for the character.
+
+\subsection*{Birth and Early Life}
+
+\begin{itemize}
+    \item Where was your character born? \\
+    \textit{Example: ``[Character Name] was born in [City Name], a small village nestled between mountains.''}
+    
+    \item What was their family situation like (parents, siblings, guardians)?
+    \item Did they grow up in wealth or poverty?
+\end{itemize}
+
+\subsection*{Education and Early Influences}
+
+\begin{itemize}
+    \item What was their education like? Were they formally educated, self-taught, or completely untrained?
+    \item Who were the people that had the most significant influence on them growing up?
+    \item Did the character have a role model or mentor?
+    \item What major events shaped the character’s worldview (war, loss, triumph)?
+    \item Have they ever made a life-changing decision they regret or are proud of?
+    \item Why did they adopt their religious or philosophical beliefs? What experiences led to this?
+\end{itemize}
+
+\subsection*{Appearance and Scars}
+
+\begin{itemize}
+    \item Are there any visible signs of past events on their body (scars, tattoos, piercings)?
+    \item If so, what is the story behind each of these? \\
+    \textit{Example: ``A long scar runs down his arm, a reminder of his first failed duel.''}
+\end{itemize}
+
+\subsection*{Relationships and Conflicts}
+
+\begin{itemize}
+    \item What relationships have shaped them (romantic, familial, friendships, rivalries)?
+    \item Do they have any enemies or unresolved grudges?
+    \item How do they handle conflicts and disagreements?
+\end{itemize}
+
+\subsection*{Occupation and Skills}
+
+\begin{itemize}
+    \item How did the character acquire their skills?
+    \item What jobs or roles did they perform throughout their life?
+\end{itemize}
+
+\subsection*{Motivations and Goals}
+
+\begin{itemize}
+    \item What drives your character today? Do they have a primary goal or aspiration?
+    \item Are they seeking redemption, revenge, recognition, or something else?
+\end{itemize}
+
+\subsection*{Secrets and Fears}
+
+\begin{itemize}
+    \item Does the character have any secrets? If so, what are they hiding and why?
+    \item What are their greatest fears?
+\end{itemize}
+
+\subsection*{Encouraging Narrative Justification}
+
+Players are encouraged to link their background story with other aspects of the character sheet, such as personality traits, religion, or scars. For example, if the character's religion reflects a personal experience, this should be included in the backstory. If they bear a particular scar, the background should explain how they got it and what impact it had on their life.
+
+\subsection*{Player Tips}
+
+\begin{itemize}
+    \item \textbf{Focus on Motivation:} Every event in the character's life should build towards understanding what drives them today.
+    \item \textbf{Leave Room for Growth:} Avoid writing a ``perfect'' character—leave flaws and conflicts unresolved to make space for in-game development.
+    \item \textbf{Collaborate with the Game Master:} Share your background with the GM so they can weave elements into the campaign.
+\end{itemize}
+
+This approach will give players flexibility while offering enough structure to create meaningful and coherent character histories. The questions act as prompts to encourage creative storytelling while also ensuring that important character elements are tied together.
 
 % ###################################################################################################
 % Chapter 6 - Clothing and Equipment
 % ###################################################################################################
+\chapter{Clothing and Equipment}
+
+In Eidos, what characters wear is not just a matter of protection—it reflects their background, status, and the role they play in the world. A noble dressed in ceremonial robes conveys a different message than a seasoned warrior in battle-worn mail. Clothing and armor help shape the narrative, affect how NPCs react, and influence a character’s abilities within the game. Players are encouraged to select outfits that align with their character’s role, culture, and personal history.
+
+Each character will have at least two sets of clothing: one primary and one secondary. These sets represent their lifestyle and choices. For example, a merchant might carry both casual clothing for travel and finer garments for negotiations, while a warrior may have ceremonial armor for formal events and heavier armor for battle. However, the use of mismatched or inappropriate gear—for example, wearing armor in court or dressing poorly for a formal audience—can impact interactions and story outcomes.
+
+This system emphasizes that clothing and armor aren’t just mechanical choices but integral to role-playing. What characters wear shapes their place in the world, reflects their status, and influences how others perceive them. The chosen attire should make sense given their station, environment, and circumstances.
+
+\section{Armor Levels and Narrative Effects}
+
+Each set of clothing or armor falls into one of four levels: No Armor, Lightly Armored, Armored, or Heavily Armored. Each level brings specific benefits and limitations, encouraging players to think strategically about what to wear in different scenarios.
+
+\subsection*{No Armor}
+
+\textbf{Description:} Simple clothes with no protective qualities—robes, tunics, or travel gear.
+
+\begin{itemize}
+    \item \textbf{Pros:}
+    \begin{itemize}
+        \item Maximum freedom of movement and agility.
+        \item Ideal for stealth and blending into crowds.
+        \item No exhaustion from prolonged wear.
+    \end{itemize}
+    \item \textbf{Cons:}
+    \begin{itemize}
+        \item Vulnerable to all forms of physical attacks.
+        \item Requires reliance on clever tactics or diplomacy in dangerous situations.
+    \end{itemize}
+\end{itemize}
+
+\subsection*{Lightly Armored}
+
+\textbf{Description:} Leather armor, padded jackets, or chainmail worn under clothing—suitable for agile fighters or scouts.
+
+\begin{itemize}
+    \item \textbf{Pros:}
+    \begin{itemize}
+        \item Offers moderate protection without sacrificing much agility.
+        \item Useful for roles that demand both defense and speed.
+    \end{itemize}
+    \item \textbf{Cons:}
+    \begin{itemize}
+        \item Can’t stop heavier strikes or blunt force.
+        \item Mild discomfort when worn for long periods, especially in hot climates.
+    \end{itemize}
+\end{itemize}
+
+\subsection*{Armored}
+
+\textbf{Description:} Chainmail or partial plate—common for soldiers or knights who need balanced defense and movement.
+
+\begin{itemize}
+    \item \textbf{Pros:}
+    \begin{itemize}
+        \item Protects against slashing and piercing attacks.
+        \item Intimidating to opponents and suitable for frontline combat.
+    \end{itemize}
+    \item \textbf{Cons:}
+    \begin{itemize}
+        \item Noisy and limits stealth attempts.
+        \item Slows down the wearer during long chases or escapes.
+    \end{itemize}
+\end{itemize}
+
+\subsection*{Heavily Armored}
+
+\textbf{Description:} Full plate armor or reinforced chainmail, designed for the battlefield.
+
+\begin{itemize}
+    \item \textbf{Pros:}
+    \begin{itemize}
+        \item Provides the highest level of protection, resisting most physical damage.
+        \item Creates an overwhelming presence, discouraging enemies.
+    \end{itemize}
+    \item \textbf{Cons:}
+    \begin{itemize}
+        \item Severely limits movement—running, climbing, or swimming is nearly impossible.
+        \item Causes exhaustion if worn for too long or in the wrong environment.
+    \end{itemize}
+\end{itemize}
+
+\section{Changing and Using Armor Narratively}
+
+The choice of clothing and armor is not permanent—characters can change between their sets as needed, but doing so takes time and planning. For instance:
+
+\begin{itemize}
+    \item Swapping from travel clothes to ceremonial robes before entering a royal audience can influence the outcome of a negotiation.
+    \item Switching from light to heavy armor before a siege offers protection but limits agility.
+    \item Choosing not to wear armor at all during a diplomatic event signals trust but also leaves the character vulnerable if things go wrong.
+\end{itemize}
+
+Armor not only defines how characters look but also shapes the gameplay. A heavily armored warrior might struggle to infiltrate a guarded mansion, while a rogue in light clothing could breeze through. Each level comes with strengths and weaknesses that push players to think creatively, adapting their equipment to suit the challenges of the story.
 
 % ###################################################################################################
 % Chapter 7 - Combat and Conflict Resolution
 % ###################################################################################################
+\chapter{Conflict Mechanics}
+
+% Chapter-wide image
+\begin{center}
+    \includegraphics[width=\textwidth]{./images/combat01.pdf}
+\end{center}
+
+In \textit{Eidos}, the combat is based on the ideas presented in this \href{https://www.youtube.com/watch?v=0o5vWmoS3KU&ab_channel=SimplyWyvern}{video}. Basically, the combat needs to be a part of the narrative, not a mini-game that creates transitions in the game. So there is nothing of initiative rolls nor anything like that. In the world of \textit{Eidos}, combat is a dynamic and immersive experience that forms an integral part of the gameplay. The combat system in \textit{Eidos} is meticulously crafted to simulate realistic combat scenarios, with mechanics that emphasize tactical decision-making and narrative engagement.
+
+\section{Turn Structure}
+
+Combat in Eidos follows a fluid turn structure, allowing for seamless interaction between players and the game master. Unlike traditional turn-based systems, Eidos prioritizes moment-to-moment decision-making, where players and the GM exchange actions and reactions in real-time. This approach enhances the narrative flow of combat scenes, fostering a sense of urgency and immersion.
+
+\section{Conflic Resolution}
+
+Conflict resolution in Eidos is resolved through a combination of dice rolls and narrative storytelling. Players utilize a 2 20d roll to determine the outcome of their actions, with results influenced by their character's skills, abilities, and environmental factors. The DM adjudicates conflicts based on the narrative context, ensuring that combat encounters remain dynamic and unpredictable. 
+
+\begin{itemize}
+    \item \textbf{Very easy:} Target number 05
+    \item \textbf{Easy:} Target number 10
+    \item \textbf{Moderate:} Target number 15
+    \item \textbf{Difficult:} Target number 20
+    \item \textbf{Hard:} Target number 25
+    \item \textbf{Very hard:} Target number 30
+    \item \textbf{Extremely hard:} Target number 35
+    \item \textbf{Nearly impossible:} Target number 39
+\end{itemize}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\textwidth]{./images/combat02.pdf}
+    % \caption{Inline Example Image}
+\end{figure}
+
+Each attack's success prompts a roll on a corresponding injury table. For example, an attacker aims for a specific body part like the neck and successfully hits, the player rolls the "Cutting in Neck Damage Table" to determine the outcome. These tables define the consequences, ranging from minor wounds to severe trauma.
+
+\subsection{Types of Injury}
+
+Types of injury include several categories based on the nature of the harm inflicted. \textbf{Cutting} involves damage from sharp-edged weapons, such as swords or knives, which can cause deep lacerations. \textbf{Stabbing} refers to injuries from piercing weapons, like spears or daggers, that penetrate deeply into the body. \textbf{Impact} injuries result from blunt force or crushing attacks, often leading to bruising or broken bones. \textbf{Fire} damage is caused by burns or heat sources, leaving severe burns and potentially long-term tissue damage. \textbf{Acid} injuries come from exposure to corrosive acids or chemicals, which can eat away at skin and muscle. \textbf{Poison} represents harm caused by toxic substances that can weaken or kill through systemic effects. Finally, \textbf{Fall} injuries occur when someone falls from a significant height, often causing fractures, sprains, or other trauma.
+
+\subsection{Injury Places}
+
+\begin{itemize}
+    \item \textbf{Head:} The uppermost part of the body.
+    \item \textbf{Torso:} The main part of the body, including the chest.
+    \item \textbf{Left Arm:} The left arm and hand.
+    \item \textbf{Right Arm:} The right arm and hand.
+    \item \textbf{Left Leg:} The left leg and foot.
+    \item \textbf{Right Leg:} The right leg and foot.
+    \item \textbf{Abdomen:} The area between the chest and pelvis.
+    \item \textbf{Back:} The rear part of the torso.
+    \item \textbf{Neck:} The part connecting the head to the body.
+    \item \textbf{Face:} The front of the head, including facial features.
+\end{itemize}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\textwidth]{./images/combat03.pdf}
+    % \caption{Inline Example Image}
+\end{figure}
+
+\subsection{Cutting in the Head}
+
+\begin{description}[labelwidth=1.5em, leftmargin=*, itemsep=0.3em]
+    \item[01 -] Minor scalp laceration, blood trickling. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[02 -] Shallow cut on forehead, slight bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[03 -] Ear nicked, minor pain and bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[04 -] Cheek grazed, minor discomfort. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[05 -] Eyebrow cut, minor blood and irritation. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[06 -] Nose scratched, slight bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[07 -] Chin cut, stinging pain and minor blood. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[08 -] Forehead gash, bleeding and moderate pain. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[09 -] Scalp tear, bleeding and headache. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[10 -] Lip cut, bleeding and mild pain. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[11 -] Deep facial wound, potential scarring. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Visible scar.
+    \item[12 -] Eye injured, risk of blindness. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Disfiguring scar.
+    \item[13 -] Skull fracture, severe headache. \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} Permanent damage.
+    \item[14 -] Head gash, risk of infection. \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} Deep scar.
+    \item[15 -] Severed artery, immediate death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[16 -] Severe brain injury, instant unconsciousness. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[17 -] Instant brain death, no chance of revival. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[18 -] Severe cranial trauma, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[19 -] Critical hit, catastrophic brain damage. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[20 -] Critical hit, brain pierced, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+\end{description}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\textwidth]{./images/combat06.pdf}
+    % \caption{Inline Example Image}
+\end{figure}
+
+\subsection{Cutting in the Torso}
+
+\begin{description}[labelwidth=1.5em, leftmargin=*, itemsep=0.4em]
+    \item[01 -] Superficial chest graze, minor pain. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[02 -] Light abdominal scratch, discomfort. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[03 -] Minor rib cut, mild pain and shallow bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[04 -] Skin nicked on side, slight irritation. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[05 -] Chest cut, moderate pain and minor bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[06 -] Abdominal laceration, blood trickling. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[07 -] Side wound, moderate pain and bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[08 -] Deep chest gash, significant bleeding. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Faint scar.
+    \item[09 -] Rib gash, severe pain and bleeding. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Light scar.
+    \item[10 -] Abdominal cut, potential scarring. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Small scar.
+    \item[11 -] Organ grazed, risk of infection. \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} Deep scar.
+    \item[12 -] Punctured lung, difficulty breathing. \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} Permanent damage.
+    \item[13 -] Severe internal injury, risk of shock. \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} Visible scar.
+    \item[14 -] Aorta nicked, rapid blood loss. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[15 -] Heart pierced, immediate death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[16 -] Severed spinal cord, instant paralysis. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[17 -] Major organ rupture, instant internal bleeding. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[18 -] Critical hit, catastrophic internal damage. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[19 -] Critical hit, vital organs obliterated. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[20 -] Critical hit, torso sliced open, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+\end{description}
+
+\subsection{Cutting in the Arms}
+
+\begin{description}[labelwidth=1.5em, leftmargin=*, itemsep=0.4em]
+    \item[01 -] Superficial arm graze, minor discomfort. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[02 -] Light forearm scratch, slight pain. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[03 -] Minor hand cut, mild bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[04 -] Skin nicked on upper arm, slight irritation. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[05 -] Elbow grazed, moderate pain and minor bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[06 -] Wrist scratched, slight bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[07 -] Finger cut, stinging pain and minor bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[08 -] Deep forearm gash, significant bleeding. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Faint scar.
+    \item[09 -] Upper arm cut, severe pain and bleeding. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Light scar.
+    \item[10 -] Hand laceration, potential scarring. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Small scar.
+    \item[11 -] Tendon nicked, risk of permanent damage. \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} Deep scar.
+    \item[12 -] Arterial wound, rapid blood loss. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[13 -] Hand mutilation, high risk of infection. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[14 -] Severe muscle damage, limited use of arm. \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} Permanent damage.
+    \item[15 -] Hand severed, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[16 -] Critical hit, arm sliced off, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[17 -] Critical hit, arm mutilated, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[18 -] Critical hit, arteries severed, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[19 -] Critical hit, shattered bones, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[20 -] Critical hit, arm disintegrated, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+\end{description}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\textwidth]{./images/combat07.pdf}
+    % \caption{Inline Example Image}
+\end{figure}
+
+\subsection{Cutting in the Legs}
+
+\begin{description}[labelwidth=1.5em, leftmargin=*, itemsep=0.4em]
+    \item[1 -] Superficial thigh graze, minor discomfort. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[2 -] Light calf scratch, slight pain. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[3 -] Minor ankle cut, mild bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[4 -] Skin nicked on shin, slight irritation. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[5 -] Knee grazed, moderate pain and minor bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[6 -] Heel scratched, slight bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[7 -] Toe cut, stinging pain and minor bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[8 -] Deep thigh gash, significant bleeding. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Faint scar.
+    \item[9 -] Calf cut, severe pain and bleeding. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Light scar.
+    \item[10 -] Ankle laceration, potential scarring. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Small scar.
+    \item[11 -] Tendon severed, risk of permanent damage. \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} Deep scar.
+    \item[12 -] Arterial wound, rapid blood loss. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[13 -] Leg mutilation, high risk of infection. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[14 -] Severe muscle damage, limited mobility. \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} Permanent damage.
+    \item[15 -] Leg severed, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[16 -] Critical hit, leg sliced off, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[17 -] Critical hit, leg mutilated, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[18 -] Critical hit, arteries severed, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[19 -] Critical hit, shattered bones, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[20 -] Critical hit, leg disintegrated, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+\end{description}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\textwidth]{./images/combat04.pdf}
+    % \caption{Inline Example Image}
+\end{figure}
+
+\subsection{Cutting in the Abdomen}
+
+\begin{description}[labelwidth=1.5em, leftmargin=*, itemsep=0.4em]
+    \item[1 -] Superficial scratch, minor discomfort. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[2 -] Shallow cut, light bleeding and mild pain. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[3 -] Glancing blow, minimal bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[4 -] Skin nicked, slight pain and minor bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[5 -] Grazed wound, bleeding and moderate pain. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[6 -] Sliced flesh, steady bleeding and discomfort. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[7 -] Deep cut, significant pain and bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[8 -] Muscle incision, bleeding and throbbing pain. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[9 -] Torn flesh, profuse bleeding and severe pain. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Light scar.
+    \item[10 -] Severe laceration, risk of infection and agony. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Small scar.
+    \item[11 -] Ruptured muscle, intense pain and internal bleeding. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Visible scar.
+    \item[12 -] Organ grazed, danger of internal complications. \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} Deep scar.
+    \item[13 -] Severed artery, rapid blood loss and shock. \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} Permanent damage.
+    \item[14 -] Major organ damage, critical condition. \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} Life-altering scar.
+    \item[15 -] Perforated intestine, septicemia and extreme pain. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[16 -] Ruptured kidney, internal hemorrhage and shock. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[17 -] Impaled aorta, rapid exsanguination and agony. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[18 -] Critical hit, disembowelment and instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[19 -] Critical hit, evisceration and instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[20 -] Critical hit, shredded organs and instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+\end{description}
+
+\subsection{Cutting in the Back}
+
+\begin{description}[labelwidth=1.5em, leftmargin=*, itemsep=0.4em]
+    \item[1 -] Superficial scratch, minor discomfort. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[2 -] Shallow cut, light bleeding and mild pain. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[3 -] Skin grazed, slight pain and minor bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[4 -] Flesh nicked, minor discomfort. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[5 -] Surface cut, bleeding and moderate pain. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[6 -] Muscle graze, slight bleeding and irritation. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[7 -] Deep cut, significant pain and bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[8 -] Tendon nicked, bleeding and throbbing pain. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[9 -] Muscle laceration, bleeding and discomfort. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Light scar.
+    \item[10 -] Nerve cut, risk of partial paralysis and agony. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Small scar.
+    \item[11 -] Ruptured muscle, intense pain and internal bleeding. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Visible scar.
+    \item[12 -] Organ grazed, potential internal complications. \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} Deep scar.
+    \item[13 -] Major artery cut, rapid blood loss and shock. \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} Permanent damage.
+    \item[14 -] Spinal injury, paralysis risk and extreme pain. \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} Life-altering scar.
+    \item[15 -] Severed spine, instant paralysis and agony. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[16 -] Critical hit, spine shattered, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[17 -] Critical hit, spine pierced, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[18 -] Critical hit, vital organ pierced, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[19 -] Critical hit, disembowelment and instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[20 -] Critical hit, catastrophic spinal trauma and death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+\end{description}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\textwidth]{./images/combat08.pdf}
+    % \caption{Inline Example Image}
+\end{figure}
+
+\subsection{Cutting in the Neck}
+
+\begin{description}[labelwidth=1.5em, leftmargin=*, itemsep=0.4em]
+    \item[1 -] Skin nick, minor discomfort. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[2 -] Shallow cut, light bleeding and mild pain. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[3 -] Neck graze, slight pain and minor bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[4 -] Flesh cut, minor discomfort. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[5 -] Surface wound, bleeding and moderate pain. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[6 -] Muscle nick, slight bleeding and irritation. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[7 -] Deep gash, significant pain and bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[8 -] Carotid artery cut, rapid blood loss. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[9 -] Jugular vein cut, severe blood loss. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[10 -] Windpipe nick, difficulty breathing. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Light scar.
+    \item[11 -] Nerve damage, risk of partial paralysis. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Small scar.
+    \item[12 -] Critical hit, trachea crushed, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[13 -] Critical hit, spinal cord severed, death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[14 -] Critical hit, catastrophic blood loss. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[15 -] Critical hit, catastrophic muscle damage. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[16 -] Critical hit, major artery cut, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[17 -] Critical hit, dissection of vital organs. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[18 -] Critical hit, decapitation, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[19 -] Critical hit, mutilation, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[20 -] Critical hit, neck shattered, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+\end{description}
+
+\subsection{Cutting in the Face}
+
+\begin{description}[labelwidth=1.5em, leftmargin=*, itemsep=0.4em]
+    \item[1 -] Superficial scratch, minor discomfort. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[2 -] Shallow cut, light bleeding and mild pain. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[3 -] Skin grazed, slight pain and minor bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[4 -] Cheek cut, minor discomfort. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[5 -] Eyebrow nick, minor blood and irritation. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[6 -] Nose scratch, slight bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[7 -] Lip gash, stinging pain and minor bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[8 -] Forehead wound, bleeding and moderate pain. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[9 -] Eye injury, risk of blindness. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Disfiguring scar.
+    \item[10 -] Deep facial wound, potential scarring. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Visible scar.
+    \item[11 -] Facial nerve damage, risk of paralysis. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Permanent damage.
+    \item[12 -] Critical hit, eye socket shattered, death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[13 -] Critical hit, facial bones crushed, death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[14 -] Critical hit, disfigurement, death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[15 -] Critical hit, brain exposed, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[16 -] Critical hit, catastrophic facial trauma. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[17 -] Critical hit, mutilation, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[18 -] Critical hit, jaw disintegration, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[19 -] Critical hit, facial dismemberment, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[20 -] Critical hit, head severed, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+\end{description}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\textwidth]{./images/combat09.pdf}
+    % \caption{Inline Example Image}
+\end{figure}
+
+\subsection{Stabbing in the Head}
+
+\begin{description}[labelwidth=1.5em, leftmargin=*, itemsep=0.4em]
+    \item[1 -] Grazed scalp, minor pain. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[2 -] Superficial forehead stab, slight bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[3 -] Ear nicked, minor pain and bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[4 -] Cheek stab, minor discomfort. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[5 -] Eyebrow pierced, minor blood and irritation. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[6 -] Nose scratched, slight bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[7 -] Jaw hit, stinging pain and minor blood. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[8 -] Forehead stab, bleeding and moderate pain. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[9 -] Scalp puncture, bleeding and headache. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[10 -] Lip puncture, bleeding and mild pain. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[11 -] Eye injured, risk of blindness. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Disfiguring scar.
+    \item[12 -] Critical hit, eye socket impaled, death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[13 -] Critical hit, brain impaled, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[14 -] Critical hit, cranial fracture, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[15 -] Critical hit, brain penetration, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[16 -] Critical hit, catastrophic brain damage. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[17 -] Critical hit, skull shattered, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[18 -] Critical hit, brain dissection, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[19 -] Critical hit, cerebral rupture, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[20 -] Critical hit, decapitation, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+\end{description}
+
+\subsection{Stabbing in the Torso}
+
+\begin{description}[labelwidth=1.5em, leftmargin=*, itemsep=0.4em]
+    \item[1 -] Superficial abdominal graze, minor discomfort. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[2 -] Shallow chest cut, slight bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[3 -] Rib nicked, minor pain and bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[4 -] Belly graze, minor pain and irritation. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[5 -] Abdominal cut, minor bleeding and discomfort. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[6 -] Diaphragm scratch, slight bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[7 -] Lower abdomen stab, stinging pain and blood. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[8 -] Chest puncture, moderate pain and bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[9 -] Gut wound, bleeding and abdominal pain. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[10 -] Side stab, bleeding and moderate pain. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[11 -] Lung punctured, breathing difficulties. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Visible scar.
+    \item[12 -] Liver injury, internal bleeding risk. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Disfiguring scar.
+    \item[13 -] Critical hit, heart pierced, death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[14 -] Critical hit, major organ damage, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[15 -] Critical hit, arterial rupture, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[16 -] Critical hit, spine punctured, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[17 -] Critical hit, disembowelment, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[18 -] Critical hit, massive hemorrhage, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[19 -] Critical hit, vital artery sliced, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[20 -] Critical hit, impaled through heart, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+\end{description}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\textwidth]{./images/combat10.pdf}
+    % \caption{Inline Example Image}
+\end{figure}
+
+\subsection{Stabbing in the Arms}
+
+\begin{description}[labelwidth=1.5em, leftmargin=*, itemsep=0.4em]
+    \item[1 -] Superficial arm graze, minor discomfort. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[2 -] Shallow cut on forearm, slight bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[3 -] Arm nicked, minor pain and bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[4 -] Elbow grazed, minor pain and irritation. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[5 -] Wrist cut, minor bleeding and discomfort. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[6 -] Knuckle scratched, slight bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[7 -] Palm cut, stinging pain and minor blood. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[8 -] Forearm gash, moderate pain and bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[9 -] Bicep tear, bleeding and muscle ache. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[10 -] Shoulder cut, bleeding and discomfort. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[11 -] Major artery nicked, immediate medical aid. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Visible scar.
+    \item[12 -] Severe nerve damage, loss of sensation. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Disfiguring scar.
+    \item[13 -] Critical hit, artery severed, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[14 -] Critical hit, nerve cluster damaged. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[15 -] Critical hit, major blood loss, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[16 -] Critical hit, limb paralyzed, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[17 -] Critical hit, shattered bone, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[18 -] Critical hit, limb dismembered, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[19 -] Critical hit, vital artery pierced, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[20 -] Critical hit, arm impaled, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+\end{description}
+
+\subsection{Stabbing in the Legs}
+
+\begin{description}[labelwidth=1.5em, leftmargin=*, itemsep=0.4em]
+    \item[1 -] Leg scratch, minor discomfort. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[2 -] Calf graze, slight bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[3 -] Ankle nicked, minor pain and bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[4 -] Knee scraped, minor pain and irritation. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[5 -] Shin cut, minor bleeding and discomfort. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[6 -] Thigh scratched, slight bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[7 -] Foot cut, stinging pain and minor blood. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[8 -] Upper leg gash, moderate pain and bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[9 -] Hamstring tear, bleeding and muscle ache. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[10 -] Groin cut, bleeding and discomfort. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[11 -] Major vein nicked, immediate medical aid. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Visible scar.
+    \item[12 -] Severe nerve damage, impaired mobility. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Disfiguring scar.
+    \item[13 -] Critical hit, artery severed, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[14 -] Critical hit, major nerve damaged. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[15 -] Critical hit, massive blood loss, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[16 -] Critical hit, leg paralyzed, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[17 -] Critical hit, shattered bone, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[18 -] Critical hit, leg dismembered, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[19 -] Critical hit, vital artery pierced, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[20 -] Critical hit, leg impaled, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+\end{description}
+
+\subsection{Stabbing in The Abdomen}
+
+\begin{description}[labelwidth=1.5em, leftmargin=*, itemsep=0.4em]
+    \item[1 -] Minor abdominal scratch, slight discomfort. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[2 -] Belly skin nicked, mild bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[3 -] Navel area cut, minor pain and bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[4 -] Side grazed, minor pain and discomfort. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[5 -] Lower abdomen cut, minor bleeding and irritation. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[6 -] Hip scratched, slight bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[7 -] Waistline cut, stinging pain and minor blood. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[8 -] Upper abdomen wound, moderate pain and bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[9 -] Deep abdominal laceration, internal discomfort. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[10 -] Flank cut, bleeding and mild pain. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[11 -] Internal bleeding, urgent medical aid needed. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Visible scar.
+    \item[12 -] Peritonitis risk, prolonged medical attention. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Disfiguring scar.
+    \item[13 -] Critical hit, major organ punctured. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[14 -] Critical hit, vital artery slashed. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[15 -] Critical hit, massive internal bleeding. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[16 -] Critical hit, organ rupture, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[17 -] Critical hit, disembowelment, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[18 -] Critical hit, abdominal explosion, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[19 -] Critical hit, instant organ failure, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[20 -] Critical hit, internal organs impaled, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+\end{description}
+
+\subsection{Stabbing in the Back}
+
+\begin{description}[labelwidth=1.5em, leftmargin=*, itemsep=0.4em]
+    \item[1 -] Superficial back scratch, minor discomfort. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[2 -] Back skin nicked, slight bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[3 -] Shoulder grazed, minor pain and irritation. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[4 -] Lower back scratch, minor pain and discomfort. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[5 -] Spinal area cut, minor bleeding and irritation. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[6 -] Upper back scratch, slight bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[7 -] Mid-back cut, stinging pain and minor blood. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[8 -] Deep back wound, moderate pain and bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[9 -] Punctured lung, labored breathing. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[10 -] Kidney area cut, bleeding and mild pain. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[11 -] Severed spine, instant paralysis. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[12 -] Critical hit, major organ damage. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[13 -] Critical hit, spinal cord severed. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[14 -] Critical hit, internal bleeding. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[15 -] Critical hit, vital artery punctured. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[16 -] Critical hit, instant organ failure. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[17 -] Critical hit, immediate paralysis. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[18 -] Critical hit, internal damage, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[19 -] Critical hit, catastrophic spine injury. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[20 -] Critical hit, spine shattered, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+\end{description}
+
+\subsection{Stabbing in the Back}
 
 % ###################################################################################################
-% Chapter 8 - Survival, Injuries and Health Mechanics
+% Chapter 8 - Survival and Health Mechanics
 % ###################################################################################################
-
+% \chapter{Survival and Health Mechanics}
 
 
 
@@ -1112,11 +2281,14 @@ From beards to mustaches, facial hair can significantly alter the appearance and
 
 
 % Changes to make:
-% 1. make religion06 with bigger
+% 1. make religion06 with bigger (v)
 % 2. make personality06 inverted colors
-% 3. make religion03 with bigger
-% 4. make religion02 with bigger
-% 5. make religion07 with bigger
-% 6. make religion08 with bigger
-% 7. make religion05 with bigger
+% 3. make religion03 with bigger (v)
+% 4. make religion02 with bigger (v)
+% 5. make religion07 with bigger (v)
+% 6. make religion08 with bigger (v)
+% 7. make religion05 with bigger (v)
 % 8. Add Images to Phisical Description Chapter
+% 9. Add skills to each list
+
+
