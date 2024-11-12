@@ -3,11 +3,15 @@
 \usepackage{geometry}
 \usepackage{titlesec}
 % \usepackage{marginnote}
-\usepackage{amsmath}
-\usepackage{multicol} % For side-by-side columns
+\usepackage{multicol} % For side-by-side columns (Quirks, Habits, and Oddities table)
 
-\usepackage{enumitem}
-\usepackage{hyperref}
+\usepackage{enumitem} % For itemize (Lists)
+\usepackage{hyperref} % For hyperlinks
+
+\usepackage[utf8]{inputenc}
+\usepackage{tabularx}
+\usepackage{xcolor} % For colored text
+\usepackage[table]{xcolor}
 
 
 % Set geometry for large margin on the side
@@ -1088,7 +1092,7 @@ The length of facial hair plays a significant role in defining the character's a
     \item \textbf{Epic}: An extraordinarily long and majestic beard that symbolizes reverence, ancient wisdom, or even divine status.
 \end{itemize}
 
-\subsection{\textbf{Hair and Beard Care Grooming Techniques}}
+\subsection{\textbf{Hair and Beard Grooming}}
 
 Haircare goes beyond styling; it involves maintaining the health and vitality of one's hair. In this section, we delve into the world of hair care, discussing different hair types, care routines, and products. Learn how to keep your character's locks lustrous and well-maintained. Facial hair requires maintenance and grooming to maintain its desired style and appearance. Different grooming techniques can enhance the overall look of the character's facial hair, making it appear well-kept and intentional. Players can choose from various grooming techniques to add authenticity and attention to detail to their character's facial hair.
 
@@ -2256,21 +2260,355 @@ Types of injury include several categories based on the nature of the harm infli
     \item[20 -] Critical hit, spine shattered, instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
 \end{description}
 
-\subsection{Stabbing in the Back}
+\subsection{Stabbing in the Neck}
+
+\begin{description}[labelwidth=1.5em, leftmargin=*, itemsep=0.4em]
+    \item[1 -] Neck graze, minor pain and discomfort. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[2 -] Shallow neck cut, slight bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[3 -] Neck scratch, minor irritation. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[4 -] Superficial neck wound, slight pain. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[5 -] Neck nicked, minor blood and discomfort. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[6 -] Throat scratched, slight bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[7 -] Neck cut, stinging pain and moderate bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[8 -] Severe neck wound, bleeding and pain. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[9 -] Severed artery, immediate death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[10 -] Critical hit, major blood vessel hit. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[11 -] Critical hit, spinal cord severed. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[12 -] Critical hit, windpipe crushed. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[13 -] Critical hit, jugular vein severed. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[14 -] Critical hit, instant paralysis. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[15 -] Critical hit, catastrophic bleeding. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[16 -] Critical hit, severe pain and instant death. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[17 -] Critical hit, airway blocked. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[18 -] Critical hit, massive internal damage. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[19 -] Critical hit, neck shattered. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[20 -] Critical hit, decapitation. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+\end{description}
+
+\subsection{Stabbing in The Face}
+
+\begin{description}[labelwidth=1.5em, leftmargin=*, itemsep=0.4em]
+    \item[1 -] Facial graze, minor pain and discomfort. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[2 -] Superficial cheek cut, slight bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[3 -] Lip nicked, minor pain and bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[4 -] Nostril scratched, minor irritation. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[5 -] Eyebrow cut, minor blood and discomfort. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[6 -] Chin scratched, slight bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[7 -] Jaw cut, stinging pain and minor bleeding. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[8 -] Forehead gash, bleeding and moderate pain. \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[9 -] Eye injured, risk of blindness. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Disfiguring scar.
+    \item[10 -] Deep facial wound, potential scarring. \textit{Recovery Time:} 1d4 days. \textit{Scars:} Visible scar.
+    \item[11 -] Skull fracture, severe headache. \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} Permanent damage.
+    \item[12 -] Head gash, risk of infection. \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} Deep scar.
+    \item[13 -] Critical hit, brain damage. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[14 -] Critical hit, facial disfigurement. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[15 -] Critical hit, severed nerve. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[16 -] Critical hit, eye punctured. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[17 -] Critical hit, shattered jaw. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[18 -] Critical hit, facial collapse. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[19 -] Critical hit, extreme blood loss. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[20 -] Critical hit, facial mutilation. \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+\end{description}
+
+\subsection{Impact in the Head}
+
+\begin{description}[labelwidth=1.5em, leftmargin=*, itemsep=0.4em]
+    \item[1 -] Light head bump, minor discomfort \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[2 -] Forehead knock, slight headache \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[3 -] Ear hit, temporary ringing and pain \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[4 -] Nose impact, minor bleeding and discomfort \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[5 -] Crown hit, momentary dizziness \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[6 -] Cheek strike, slight swelling \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[7 -] Chin impact, stinging pain \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[8 -] Temple bump, moderate headache \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[9 -] Face slam, disoriented and headache \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[10 -] Eye socket hit, risk of vision issues \textit{Recovery Time:} 1d4 days. \textit{Scars:} N/A.
+    \item[11 -] Skull jolt, potential for migraines \textit{Recovery Time:} 1d4 days. \textit{Scars:} N/A.
+    \item[12 -] Facial fracture, severe pain \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} N/A.
+    \item[13 -] Head impact, risk of concussion \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} N/A.
+    \item[14 -] Severe brain trauma, unconsciousness \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} N/A.
+    \item[15 -] Critical hit, cranial collapse \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[16 -] Critical hit, brain rupture \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[17 -] Critical hit, instant brain death \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[18 -] Critical hit, skull shattered \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[19 -] Critical hit, massive internal bleeding \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[20 -] Critical hit, head explosion \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+\end{description}
+
+\subsection{Impact in the Torso}
+
+\begin{description}[labelwidth=1.5em, leftmargin=*, itemsep=0.4em]
+    \item[1 -] Bruised ribs, mild discomfort \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[2 -] Solar plexus hit, shortness of breath \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[3 -] Abdominal punch, temporary nausea \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[4 -] Lower rib impact, minor pain \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[5 -] Sides struck, momentary weakness \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[6 -] Upper abdomen blow, slight swelling \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[7 -] Diaphragm hit, difficulty breathing \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[8 -] Sternum impact, moderate discomfort \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[9 -] Rib cage shock, disorientation \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[10 -] Organ bruise, potential complications \textit{Recovery Time:} 1d4 days. \textit{Scars:} N/A.
+    \item[11 -] Internal bleeding, risk of infection \textit{Recovery Time:} 1d4 days. \textit{Scars:} N/A.
+    \item[12 -] Rib fracture, severe pain \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} N/A.
+    \item[13 -] Spleen or liver damage, risk of shock \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} N/A.
+    \item[14 -] Critical hit, vital organ rupture \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[15 -] Critical hit, cardiac arrest \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[16 -] Critical hit, internal organs obliterated \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[17 -] Critical hit, massive hemorrhage \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[18 -] Critical hit, torso shattered \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[19 -] Critical hit, torso explosion \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[20 -] Critical hit, instant torso disintegration \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+\end{description}
+
+\subsection{Impact in the Arms}
+
+\begin{description}[labelwidth=1.5em, leftmargin=*, itemsep=0.4em]
+    \item[1 -] Minor bruising, mild discomfort \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[2 -] Elbow knock, slight soreness \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[3 -] Forearm hit, temporary weakness \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[4 -] Wrist impact, minor pain and stiffness \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[5 -] Hand struck, momentary numbness \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[6 -] Fingers jammed, slight swelling \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[7 -] Shoulder impact, stinging pain \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[8 -] Upper arm blow, moderate discomfort \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[9 -] Dislocated joint, risk of complications \textit{Recovery Time:} 1d4 days. \textit{Scars:} N/A.
+    \item[10 -] Fractured bone, potential for deformity \textit{Recovery Time:} 1d4 days. \textit{Scars:} N/A.
+    \item[11 -] Severely dislocated joint, loss of function \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} N/A.
+    \item[12 -] Arm bone shattered, severe pain \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} N/A.
+    \item[13 -] Critical hit, arm amputation \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[14 -] Critical hit, shattered arm \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[15 -] Critical hit, arm obliteration \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[16 -] Critical hit, arm torn off \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[17 -] Critical hit, massive arm hemorrhage \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[18 -] Critical hit, arm explosion \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[19 -] Critical hit, instant arm disintegration \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[20 -] Critical hit, arm vaporization \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+\end{description}
+
+\subsection{Impact in the Legs}
+
+\begin{description}[labelwidth=1.5em, leftmargin=*, itemsep=0.4em]
+    \item[1 -] Minor shin bump, slight discomfort \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[2 -] Knee hit, temporary limping \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[3 -] Thigh impact, momentary weakness \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[4 -] Calf struck, minor pain and stiffness \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[5 -] Ankle twisted, brief numbness \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[6 -] Foot stepped on, slight swelling \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[7 -] Groin impact, stinging pain \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[8 -] Upper leg blow, moderate discomfort \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[9 -] Dislocated joint, risk of complications \textit{Recovery Time:} 1d4 days. \textit{Scars:} N/A.
+    \item[10 -] Fractured bone, potential for deformity \textit{Recovery Time:} 1d4 days. \textit{Scars:} N/A.
+    \item[11 -] Severely dislocated joint, loss of function \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} N/A.
+    \item[12 -] Leg bone shattered, severe pain \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} N/A.
+    \item[13 -] Critical hit, leg amputation \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[14 -] Critical hit, shattered leg \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[15 -] Critical hit, leg obliteration \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[16 -] Critical hit, leg torn off \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[17 -] Critical hit, massive leg hemorrhage \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[18 -] Critical hit, leg explosion \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[19 -] Critical hit, instant leg disintegration \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[20 -] Critical hit, leg vaporization \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+\end{description}
+
+\subsection{Impact on Abdomen}
+
+\begin{description}[labelwidth=1.5em, leftmargin=*, itemsep=0.4em]
+    \item[1 -] Minor abdomen bump, slight discomfort \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[2 -] Belly hit, brief nausea \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[3 -] Midriff impact, momentary weakness \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[4 -] Lower abdomen struck, minor pain \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[5 -] Side blow, temporary numbness \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[6 -] Groin strike, slight swelling \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[7 -] Kidney impact, stinging pain \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[8 -] Abdominal blow, moderate discomfort \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[9 -] Organ damage, risk of complications \textit{Recovery Time:} 1d4 days. \textit{Scars:} N/A.
+    \item[10 -] Internal bleeding, potential for infection \textit{Recovery Time:} 1d4 days. \textit{Scars:} N/A.
+    \item[11 -] Ruptured organ, severe pain \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} N/A.
+    \item[12 -] Abdominal cavity breached, severe internal injuries \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} N/A.
+    \item[13 -] Critical hit, vital organ rupture \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[14 -] Critical hit, abdominal obliteration \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[15 -] Critical hit, massive internal hemorrhage \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[16 -] Critical hit, abdominal explosion \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[17 -] Critical hit, instant abdominal disintegration \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[18 -] Critical hit, abdominal vaporization \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[19 -] Critical hit, instant abdominal implosion \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[20 -] Critical hit, abdominal annihilation \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+\end{description}
+
+\subsection{Impact on Neck}
+
+\begin{description}[labelwidth=1.5em, leftmargin=*, itemsep=0.4em]
+    \item[1 -] Neck graze, minor pain and discomfort \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[2 -] Throat hit, momentary choking sensation \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[3 -] Neck blow, temporary loss of breath \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[4 -] Collarbone impact, slight discomfort \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[5 -] Jaw struck, temporary jaw numbness \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[6 -] Neck muscle hit, slight pain \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[7 -] Adam's apple impact, painful swallowing \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[8 -] Neck shock, moderate discomfort \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[9 -] Choking risk, risk of complications \textit{Recovery Time:} 1d4 days. \textit{Scars:} N/A.
+    \item[10 -] Collarbone fracture, potential for deformity \textit{Recovery Time:} 1d4 days. \textit{Scars:} N/A.
+    \item[11 -] Severe neck injury, difficulty in breathing \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} N/A.
+    \item[12 -] Neck fracture, severe pain \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} N/A.
+    \item[13 -] Critical hit, trachea rupture \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[14 -] Critical hit, neck obliteration \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[15 -] Critical hit, severe internal bleeding \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[16 -] Critical hit, neck explosion \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[17 -] Critical hit, instant neck disintegration \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[18 -] Critical hit, neck vaporization \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[19 -] Critical hit, instant neck implosion \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[20 -] Critical hit, neck annihilation \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+\end{description}
+
+\subsection{Impact on Face}
+
+\begin{description}[labelwidth=1.5em, leftmargin=*, itemsep=0.4em]
+    \item[1 -] Facial graze, minor pain and discomfort \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[2 -] Superficial cheek cut, slight bleeding \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[3 -] Lip nicked, minor pain and bleeding \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[4 -] Nostril scratched, minor irritation \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[5 -] Eyebrow cut, minor blood and discomfort \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Light scar.
+    \item[6 -] Chin scratched, slight bleeding \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Small scar.
+    \item[7 -] Jaw cut, stinging pain and minor bleeding \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Tiny scar.
+    \item[8 -] Forehead gash, bleeding and moderate pain \textit{Recovery Time:} 1d4 hours. \textit{Scars:} Faint scar.
+    \item[9 -] Eye injured, risk of blindness \textit{Recovery Time:} 1d4 days. \textit{Scars:} Disfiguring scar.
+    \item[10 -] Deep facial wound, potential scarring \textit{Recovery Time:} 1d4 days. \textit{Scars:} Visible scar.
+    \item[11 -] Skull fracture, severe headache \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} Permanent damage.
+    \item[12 -] Head gash, risk of infection \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} Deep scar.
+    \item[13 -] Critical hit, brain damage \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[14 -] Critical hit, facial disfigurement \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[15 -] Critical hit, severed nerve \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[16 -] Critical hit, eye punctured \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[17 -] Critical hit, shattered jaw \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[18 -] Critical hit, facial collapse \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[19 -] Critical hit, extreme blood loss \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[20 -] Critical hit, facial mutilation \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+\end{description}
+
+\subsection{Impact on the Back}
+
+\begin{description}[labelwidth=1.5em, leftmargin=*, itemsep=0.4em]
+    \item[1 -] Surface bruise, mild discomfort \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[2 -] Lower back hit, temporary stiffness \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[3 -] Mid-back blow, momentary pain \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[4 -] Upper back impact, mild soreness \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[5 -] Side strike, brief numbness \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[6 -] Spine hit, slight discomfort \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[7 -] Kidney shock, sharp pain \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[8 -] Back thump, moderate discomfort \textit{Recovery Time:} 1d4 hours. \textit{Scars:} N/A.
+    \item[9 -] Spinal strain, risk of complications \textit{Recovery Time:} 1d4 days. \textit{Scars:} N/A.
+    \item[10 -] Vertebral fracture, potential nerve damage \textit{Recovery Time:} 1d4 days. \textit{Scars:} N/A.
+    \item[11 -] Severe back injury, difficulty in movement \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} N/A.
+    \item[12 -] Disc herniation, severe pain \textit{Recovery Time:} 1d4 weeks. \textit{Scars:} N/A.
+    \item[13 -] Critical hit, spinal cord damage \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[14 -] Critical hit, back obliteration \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[15 -] Critical hit, catastrophic internal damage \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[16 -] Critical hit, vertebral explosion \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[17 -] Critical hit, instant back disintegration \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[18 -] Critical hit, back vaporization \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[19 -] Critical hit, instant back implosion \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+    \item[20 -] Critical hit, back annihilation \textit{Recovery Time:} Instant death. \textit{Scars:} N/A.
+\end{description}
+
+\subsection{Fire Injuries}
+
+Fire is a potent force on the battlefield, capable of causing devastating injuries and leaving lasting scars. Whether from a raging inferno or a targeted spell, fire damage can result in a variety of effects, including:
+
+\begin{itemize}
+    \item \textbf{Burns}: Characters may suffer from first-degree burns, causing pain and discomfort but relatively minor damage. More severe burns, such as second or third-degree burns, can lead to blistering, tissue damage, and long-term complications.
+    \item \textbf{Smoke Inhalation}: In addition to direct flame exposure, individuals caught in fires may inhale smoke, leading to respiratory issues, coughing, and reduced lung function.
+    \item \textbf{Environmental Hazards}: Fires can spread rapidly, creating hazardous conditions such as collapsing structures, intense heat, and limited visibility.
+\end{itemize}
+
+\subsection{Acid}
+
+Acid poses a different set of challenges, corroding flesh, armor, and equipment with its caustic properties. When subjected to acid attacks, characters must contend with the following hazards:
+
+\textbf{Types of Acid Damage}
+
+\begin{itemize}
+    \item \textbf{Corrosive Burns}: Acid eats away at organic and inorganic materials alike, causing painful burns and potentially permanent damage to skin, clothing, and gear.
+    \item \textbf{Armor Degradation}: Protective armor may suffer from corrosion, compromising its integrity and reducing its effectiveness in defending against future attacks.
+    \item \textbf{Environmental Contamination}: Pools of acid or acidic fumes can create hazardous environments, posing risks to both health and equipment.
+\end{itemize}
+
+\subsection{Poison}
+
+Poison introduces a stealthy and insidious threat to adventurers, lurking in traps, tainted food, or the fangs of venomous creatures. Unlike conventional damage, poison affects its victims over time, gradually weakening their bodies and impairing their abilities.
+
+\textbf{Types of Poison}
+
+\begin{itemize}
+    \item \textbf{Contact Poison}: Applied to weapons or surfaces, contact poisons require physical contact to take effect, such as through a poisoned blade or a booby-trapped object.
+    \item \textbf{Ingested Poison}: Consumed through food or drink, ingested poisons target the digestive system, leading to nausea, vomiting, and systemic damage.
+    \item \textbf{Inhaled Poison}: Released as gas or vapor, inhaled poisons affect the respiratory system, causing coughing, difficulty breathing, and potentially lethal asphyxiation.
+    \item \textbf{Injected Poison}: Delivered via puncture wounds, injected poisons are typically associated with venomous creatures, such as snakes or spiders, and can induce paralysis, organ failure, or death.
+\end{itemize}
+
+\subsection{Instant Death and Recovery}
+
+In some instances, the outcome of an attack can lead to instant death if the damage dealt is significant enough. Eidos doesn't shy away from the gravity of battle.
+For non-fatal injuries, a period of recovery follows. Players who emerge victorious or disengage from the conflict can recuperate over time. The aftermath of combat may leave scars or lingering effects, adding depth to your character's journey.
+
+The aftermath of combat extends beyond the battlefield. Players who survive are left to recover from their wounds, with lasting scars as tokens of their trials. The scars serve as reminders of battles fought, adding layers of realism and immersion to the world of Eidos.
+As you continue your exploration of this system, embrace the intricate interplay of choice, strategy, and chance that defines Eidos' unique combat and conflict resolution mechanics.
 
 % ###################################################################################################
 % Chapter 8 - Survival and Health Mechanics
 % ###################################################################################################
-% \chapter{Survival and Health Mechanics}
+\chapter{Survival Mechanics}
 
+Survival in Eidos revolves around the balance between risk and resilience. When characters face environmental challenges, hunger, thirst, or wounds, their effectiveness declines—but these conditions also provide narrative depth, giving the GM and players opportunities to explore moments of hardship and triumph.
 
+\section{Food and Water Requirements}
 
+Survival depends on the characters managing hunger and thirst. These conditions are tracked narratively rather than with numbers. Going without food or water introduces nerfs to skill tests, symbolizing fatigue, confusion, or irritability.
 
+\textbf{Hungry:} -1 to mental rolls (distraction from hunger).
 
+\textbf{Thirsty:} -1 to physical rolls (muscle weakness or slowed reflexes).
+
+After one full day without food or water, these penalties increase to -2. At this stage, the character may exhibit behavioral shifts such as irritability, sluggishness, or hallucinations—elements that drive the narrative. Players must seek sustenance within the story through scavenging, hunting, or trading. Eating and drinking restore the character to normal functionality.
+
+\section{Shelter and Environmental Hazards}
+
+Exposure to extreme weather or dangerous environments gradually wears down a character through Fatigue Points:
+
+\begin{itemize}
+    \item \textbf{1-2 Points:} Minor exhaustion (no effect).
+    \item \textbf{3-4 Points:} -1 to all physical rolls.
+    \item \textbf{5+ Points:} Risk of unconsciousness (character must roll 2d20 against a target of 15).
+\end{itemize}
+
+To recover, the player must find shelter (a warm camp, dry cave, or safe house). GMs can use these rest moments to introduce story hooks, like meeting NPCs or making discoveries. Shelter also restores 1 Fatigue Point per hour of uninterrupted rest.
+
+\section{Scavenging and Resource Management}
+
+In Eidos, scavenging is an exploratory mechanic driven by narrative. Instead of predefined loot tables, the GM describes environments and players declare their intentions (e.g., “I search the abandoned warehouse for water containers”). Each scavenging action requires a 2d20 roll:
+
+\begin{itemize}
+    \item \textbf{Success:} The player finds useful supplies (food, water, first aid).
+    \item \textbf{Partial success:} The item is damaged or in limited supply.
+    \item \textbf{Failure:} The player finds nothing or risks a complication (like setting off an alarm or encountering a hostile creature).
+\end{itemize}
+
+Resources like food, water, or bandages aren’t counted individually but treated as narrative elements. For example, finding a first aid kit doesn’t guarantee endless healing—it provides one meaningful use within the story.
+
+\section{Status Effects and Debuffs}
+
+Injuries and conditions introduce status effects that evolve with the story. These effects aren’t just penalties—they shape how characters interact with the world. Below are a few common status effects:
+
+\begin{itemize}
+    \item \textbf{Fatigued:} -1 to all rolls (can accumulate with hunger/thirst).
+    \item \textbf{Infected Wound:} Must succeed in a 2d20 Survival roll every day (Difficulty 15) or the condition worsens.
+    \item \textbf{Disoriented:} -2 to mental rolls (due to concussion or exhaustion).
+\end{itemize}
+
+\subsection{Resolving Status Effects}
+
+These effects persist until addressed in the story. For example, to remove \textbf{Disorientation}, the character might need to sleep or drink water.
 
 \end{document}
-
-
 
 % \begin{figure}[h]
 %     \centering
@@ -2278,17 +2616,11 @@ Types of injury include several categories based on the nature of the harm infli
 %     % \caption{Inline Example Image}
 % \end{figure}
 
-
-
 % Changes to make:
-% 1. make religion06 with bigger (v)
-% 2. make personality06 inverted colors
-% 3. make religion03 with bigger (v)
-% 4. make religion02 with bigger (v)
-% 5. make religion07 with bigger (v)
-% 6. make religion08 with bigger (v)
-% 7. make religion05 with bigger (v)
-% 8. Add Images to Phisical Description Chapter
+% 2. substitute personality06
 % 9. Add skills to each list
-
-
+% Add more images to Combat Chapter
+% Add images to Survival Chapter
+% 8. Add Images to Phisical Description Chapter
+% Config Vizual Better
+% Add cover
