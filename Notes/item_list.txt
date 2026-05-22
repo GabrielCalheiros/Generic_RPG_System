@@ -1,0 +1,936 @@
+>From: elder@bullet.ecf (ELDER  J David)
+Subject: Item lists
+Originator: elder@bullet.ecf.toronto.edu
+
+This list was posted to a mailing list that I used to follow. It covers
+costs and weights for a variety of common items. Although the 
+terminology is reminiscent of AD&D I feel it could be used in any 
+fantasy environment with only a small amount of conversion.
+I have found it useful for stocking stores and generally for 
+the concept of product availability. Recently, I saw a number of posts 
+asking for such a list and as I did not keep their email addresses 
+I decided to post the item list. Please refer follow up questions
+and comments to the original author - his name and email address
+are at the bottom of the item list - Enjoy.
+
+David 
+
+(aka Forrst Ranger/Cleric/Part-time Mage)
+
+
+-------------------------------------------------------------------
+
+
+Well this is it use what you can.
+
+The Monetary System
+
+The basic unit of exchange is the electrum piece. There are coins of lesser
+and greater value,and these are shown on the table below.
+
+
+10 brass pieces  (b.p.)    =1 c.p.
+10 copper pieces  (c.p.)   =1 s.p.
+10 silver pieces  (s.p.)   =1 e.p.
+10 electrum pieces  (e.p.) =1 g.p.
+10 gold pieces  (g.p.)     =1 p.p.
+10 platinum  piece (p.p.)  =1 rich person
+
+
+Thus: 1 p.p.= 10 g.p.= 100 e.p.= 1000 s.p.= 10,000 c.p.=100,000 b.p.
+
+
+It is assumed that the size and weight of each coin is relatively equal to
+each other coin regardless of type. Ten coins are equal to one pound.
+
+
+Player Character Starting Money
+
+Cleric        30-180 e.p. (3d6)
+Fighter       50-200 e.p. (5d4)
+Magic-User    10-100 e.p. (1d10)
+Thief         20-120 e.p. (2d6)
+Monk            5-20 e.p. (5d4)
+
+
+
+COST AND WEIGHT OF BASIC EQUIPMENT
+
+
+Armor                             Cost           Weight          Notes
+
+Banded ....................... 90 e.p.         350 cn.             4
+Bronze Plate ................ 100 e.p.         450 cn.             4
+Chain ........................ 75 e.p.         300 cn.             5
+Gauntlets,leather ............. 2 e.p.          20 cn.             -
+Gauntlets,chain mail .......... 5 e.p.          25 cn.             -
+Gauntlets,plate mail .......... 7 e.p.          35 cn.             -
+Gauntlets,plate,full ......... 15 e.p.          25 cn.             -
+Helmet,great ................. 15 e.p.         100 cn.             1*
+Helmet,small ................. 10 e.p.          45 cn.             3*
+Leather ....................... 5 e.p.         150 cn.             8
+Padded ........................ 4 e.p.         100 cn.             7
+Plate,mail .................. 400 e.p.         450 cn.             3
+Plate,field ................. 300 g.p.         550 cn.             2
+Plate,full .................. 500 g.p.         650 cn.             1
+Ring ......................... 30 e.p.         250 cn.             7
+Scale ........................ 45 e.p.         400 cn.             6
+Shield,buckler ................ 5 e.p.          30 cn.            +1
+Shield,large ................. 15 e.p.         100 cn.            +1
+Shield,small ................. 10 e.p.          50 cn.            +1
+Shield,small wooden ........... 1 e.p.          30 cn.            +1
+Splinted ..................... 80 e.p.         400 cn.             4
+Studded ...................... 15 e.p.         200 cn.             7
+
+Arms
+
+Aklys ......................... 2 e.p.          35 cn.          1-6/1-3
+Arrow,barbed,single ........... 1 s.p.           2 cn.          1-6/1-6
+Arrow,broad-head,single ....... 1 s.p.           2 cn.          2-7/1-6
+Arrow,blunt-head,single ....... 1 c.p.           2 cn.          1-3/1-3
+Arrow,corded,single
+   (120'cord) ................. 6 e.p.          25 cn.          1-3/1-2
+Arrow,flaming,single .......... 5 e.p.           4 cn.          2-7/2-8
+Arrow,frog crotch ............. 1 s.p.           2 cn.          1-6/1-3
+Arrow,grappling,single
+   (120'cord) ................ 10 e.p.          30 cn.          1-4/1-3
+Arrow,humming bulb ............ 2 s.p.           2 cn.          1-2/1-2
+Arrow,normal,single ........... 1 c.p.           2 cn.          1-6/1-6
+Arrow,normal,dozen ............ 1 s.p.          24 cn.
+Arrow,silver,single ........... 1 e.p.           2 cn.          1-6/1-6
+Arrow,spiral,single ........... 1 e.p.           2 cn.          2-7/2-7
+Arrow,wooden,single ........... 5 b.p.           2 cn.          1-5/1-3
+Atlatl ........................ 1 e.p.          10 cn.
+Axe,battle .................... 5 e.p.          75 cn.          1-8/1-8
+Axe,hand ...................... 1 e.p.          50 cn.          1-6/1-4
+Axe,throwing .................. 1 e.p.          50 cn.          1-6/1-4
+Bardiche ...................... 7 e.p.         125 cn.          2-8/3-12
+Bec de corbin ................. 6 e.p.         100 cn.          1-8/1-6
+Bill-Guisarme ................. 6 e.p.         150 cn.          2-8/1-10
+Blackjack ..................... 2 s.p.          50 cn.          1-4/1-2
+Blowgun ...................... 20 e.p.          20 cn.
+Blowgun Needle,barbed ......... 2 c.p.          .1 cn.          1-2/1-2
+Blowgun Needle,normal ......... 1 c.p.          .1 cn.            1/1
+Boku-toh (wooden sword) ....... 1 e.p.          30 cn.          1-4/1-2
+Bow,composite,long .......... 100 e.p.          80 cn.
+Bow,composite,short .......... 75 e.p.          50 cn.
+Bow,long ..................... 60 e.p.         100 cn.
+Bow,short .................... 15 e.p.          50 cn.
+Caltrop ....................... 2 s.p.           4 cn.            1/1-2
+Crossbow,hand ............... 300 e.p.          20 cn.
+Crossbow,heavy ............... 20 e.p.          80 cn.
+Crossbow,light ............... 12 e.p.          50 cn.
+Crossbow,light,
+   repeating 10 bolts ........ 40 e.p.          75 cn.
+Dagger & scabbard ............. 2 e.p.          15 cn.          1-4/1-3
+Dart,throwing ................. 5 c.p.           5 cn.          1-3/1-2
+Fang .......................... 1 e.p.          30 cn.          1-6/1-4
+Fauchard ...................... 3 e.p.          60 cn.          1-6/1-8
+Fauchard-Fork ................. 8 e.p.          80 cn.          1-8/1-10
+Flail,footman's ............... 3 e.p.         150 cn.          2-7/2-8
+Flail,horseman's .............. 8 e.p.          35 cn.          2-5/2-5
+Fork,Military ................. 4 e.p.          75 cn.          1-8/2-8
+Garrot ........................ 1 s.p.           1 cn.          1-4/1-6
+Glaive ........................ 6 e.p.          75 cn.          1-6/1-10
+Glaive-Guisarme .............. 10 e.p.         100 cn.          2-8/2-12
+Guisarme ...................... 5 e.p.          80 cn.          2-8/1-8
+Guisarme-Voulge ............... 7 e.p.         150 cn.          2-8/2-8
+Halberd ....................... 9 e.p.         175 cn.         1-10/2-12
+Hammer,Lucern ................. 7 e.p.         150 cn.          2-8/1-6
+Hammer ........................ 1 e.p.          50 cn.          2-5/1-4
+Harpoon ....................... 5 e.p.       50-60 cn.          2-8/2-12
+Hook Fauchard ................. 6 e.p.          80 cn.          1-4/1-4
+Javelin ....................... 1 s.p.          20 cn.          1-6/1-6
+Jo Stick ...................... 1 e.p.          40 cn.          1-6/1-4
+Katana & scabbard ............ 50 e.p.          70 cn.         1-10/1-12
+Knife & scabbard .............. 1 e.p.          10 cn.          1-3/1-2
+Lance,jousting ............... 15 e.p.         200 cn.          0-2/0-1
+Lance,heavy .................. 10 e.p.         150 cn.          3-9/3-18
+Lance,light ................... 6 e.p.          50 cn.          1-6/1-8
+Lance,medium .................. 8 e.p.         100 cn.          2-7/2-12
+Lasso ......................... 5 c.p.          20 cn.
+Mace,footman's ................ 8 e.p.         100 cn.          2-7/1-6
+Mace,horseman's ............... 4 e.p.          50 cn.          1-6/1-4
+Man Catcher .................. 25 e.p.          80 cn.          1-2/1-2
+Morning Star .................. 5 e.p.         125 cn.          2-8/2-7
+Ninja-to & scabbard ........... 5 e.p.          55 cn.          1-8/1-6
+Nunchaku ...................... 1 e.p.          30 cn.          1-6/1-6
+Partisan ..................... 10 e.p.          80 cn.          1-6/2-7
+Pick,Military,footman's ....... 8 e.p.          60 cn.          2-7/2-8
+Pick,Military,horseman's ...... 5 e.p.          40 cn.          2-5/1-4
+Pike,awl ...................... 3 e.p.          80 cn.          1-6/1-12
+Quarrel (or Bolt),
+   hand,single ............... 10 e.p.           1 cn.          1-3/1-2
+Quarrel (or Bolt),
+   heavy,score ................ 2 e.p.          60 cn.          2-5/2-7
+Quarrel (or Bolt),
+   light,score ................ 1 e.p.          40 cn.          1-4/1-4
+Quarterstaff .................. 1 b.p.          50 cn.          1-6/1-6
+Ranseur ....................... 4 e.p.          50 cn.          2-8/2-8
+Rapier & scabbard ............ 10 e.p.          35 cn.          2-7/1-4
+Sai ........................... 8 s.p.          20 cn.          1-4/1-2
+Sap ........................... 1 e.p.          10 cn.          1-2/1-2
+Scimitar & scabbard .......... 15 e.p.          50 cn.          1-8/1-8
+Shuriken,spike,large .......... 5 s.p.           2 cn.          1-4/1-3
+Shuriken,spike,small .......... 3 s.p.           1 cn.          1-3/1-3
+Shuriken,star,large ........... 8 s.p.           3 cn.          1-6/1-4
+Shuriken,star,small ........... 5 s.p.           2 cn.          1-4/1-4
+Sickle ........................ 1 e.p.          20 cn.          1-6/1-4
+Sling & Bullets,dozen ........ 15 c.p.          40 cn.
+Sling Bullets,score ........... 1 s.p.          40 cn.          2-5/2-7
+Spear ......................... 1 e.p.          60 cn.          1-6/1-8
+Spetum ........................ 3 e.p.          50 cn.          2-7/2-12
+Spiked Buckler ............... 10 e.p.          35 cn.          1-4/1-3
+Staff Sling ................... 2 e.p.          50 cn.          2-8/3-9
+Sword,bastard & scabbard ..... 25 e.p.         115 cn.          2-8/2-16
+Sword,broad & scabbard ....... 10 e.p.          85 cn.          2-8/2-7
+Sword,long & scabbard ........ 15 e.p.          70 cn.          1-8/1-12
+Sword,short & scabbard .......  8 e.p.          40 cn.          1-6/1-8
+Sword,2-handed & scabbard .... 30 e.p.         270 cn.         1-10/3-18
+Three-piece rod ............... 2 e.p.          50 cn.          1-6/1-4
+Trident ....................... 4 e.p.          50 cn.          2-7/3-12
+Tui-fa ........................ 5 s.p.          15 cn.          1-6/1-4
+Voulge ........................ 2 e.p.         125 cn.          2-8/2-8
+Whip,metal .................... 8 e.p.          75 cn.          2-5/1-4
+Whip,rawhide .................. 3 e.p.          35 cn.          1-2/1
+
+Clothing
+
+Apron ......................... 1 c.p.          10 cn.
+Belt .......................... 3 c.p.           3 cn.
+Boots,high,hard ............... 2 e.p.          70 cn.
+Boots,high,soft ............... 1 e.p.          50 cn.
+Boots,low,hard ................ 1 e.p.          50 cn.
+Boots,low,soft ................ 8 s.p.          30 cn.
+Cap ........................... 1 c.p.          10 cn.
+Cape,cloth .................... 3 c.p.          10 cn.
+Cape,fur .................... 100 e.p.+         20 cn.
+Cloak,cloth ................... 5 c.p.          20 cn.
+Cloak,fur ................... 200 e.p.+         30 cn.
+Cloth,canvas .................. 1 e.p./s.y.     20 cn./s.y.
+Cloth,cotton .................. 1 c.p./s.y.     10 cn./s.y.
+Cloth,linen ................... 5 b.p./s.y.     10 cn./s.y.
+Cloth,satin ................... 4 e.p./s.y.     10 cn./s.y.
+Cloth,silk .................... 1 g.p./s.y.      5 cn./s.y.
+Cloth,velvet .................. 4 e.p./s.y.     10 cn./s.y.
+Cloth,wool .................... 8 b.p./s.y.     20 cn./s.y.
+Dress ......................... 9 c.p.+         40 cn.
+Fur trimming ................. 10 e.p.+
+Girdle,broad .................. 2 e.p.          10 cn.
+Girdle,normal ................. 1 e.p.           5 cn.
+Gloves,cloth ................ 1-2 c.p.           5 cn.
+Gloves,leather ............. 5-10 e.p.          10 cn.
+Gown,common .................. 12 c.p.          20 cn.
+Hat,cloth .................... 10 c.p.          10 cn.
+Hat,fur ...................... 40 e.p.+         10 cn.
+Hat,straw ..................... 7 b.p.           5 cn.
+Jerkin ........................ 1 e.p.          75 cn.
+Loincloth ..................... 1 c.p.           5 cn.
+Needle,sewing ............... 1-2 s.p.          .1 cn.
+Robe .......................... 6 c.p.          50 cn.
+Sandals ....................... 4 c.p.          10 cn.
+Scissors ...................... 5 c.p.          10 cn.
+Shirt/blouse .................. 4 c.p.+         10 cn.
+Thread,1 spool ............. 5-10 b.p.           5 cn.
+Trouser/skirt ................. 3 c.p.+         10 cn.
+Vest,cloth .................... 1 e.p.          10 cn.
+Vest,fur .................... 100 e.p.+         15 cn.
+
+Construction
+
+Arrow slit .................... 3 e.p.
+Arrow slit,crossletted ........ 5 e.p.
+Barbican ................... 4000 e.p.                        150 d.p.
+Bartizan,10'd.,20'h. ........ 500 e.p.                         25 d.p.
+Batter,plinth or splay ...... 100 e.p.                         20 d.p.
+Battlement,14'l. ............. 50 e.p.                         12 d.p.
+Building,stone .............. 750 e.p.                         10 d.p.
+Building,wood ............... 250 e.p.                       8-16 d.p.
+Buttress,stone,
+   3'w.,5'd.,10'h. .......... 150 e.p.                         20 d.p.
+Catwalk,wooden,10'l. ......... 20 e.p.                          2 d.p.
+Ditch,100'l.,10'd.,20'w. .... 150 e.p.
+Door,iron,4'w.,7'h. ......... 100 e.p.                         10 d.p.
+Door,secret,2'w.,4'h. ........ 75 e.p.                          1 d.p.
+Door,trap,2'w.,3'l. .......... 50 e.p.                          1 d.p.
+Door,wooden,4'w.,7'h. ........ 25 e.p.                          1 d.p.
+Door,wooden,reinforced,
+   4'w.,7'h. ................. 75 e.p.                          3 d.p.
+Drawbridge,10'w.,15'l. ...... 500 e.p.                      10-15 d.p.
+Embrasure shutters ............ 5 e.p.                          4 d.p.
+Gate ........................ 250 e.p.                       8-12 d.p.
+Gatehouse,stone ............ 2000 e.p.                        120 d.p.
+Hoardings,wooden,10'l. ....... 25 e.p.                          2 d.p.
+Machicolation,stone,10'l. ... 250 e.p.
+Merlon,4'w.,3'd.,5'h. ........  10 e.p.                        10 d.p.
+Merlon,with arrow slit,
+   4'w.,3'd.,5'h. ............ 15 e.p.                         10 d.p.
+Moat,100'l.,10'd.,20'w. ..... 350 e.p.
+Murder hole .................. 15 e.p.
+Palisade,wooden,
+   100'l.,10'h. ............. 150 e.p.                       6-12 d.p.
+Parapet,stone,10'l. .......... 25 e.p.                         20 d.p.
+Pilaster,5'w.,3'd.,10'h. ..... 50 e.p.                         15 d.p.
+Pit,5'cube ................... 10 e.p.
+Portcullis,10'w.,15'h. ...... 500 e.p.                         12 d.p.
+Rampart,earth,100'l.,10'h. .. 150 e.p.                         20 d.p.
+Stairs,stone,10'rise,3'w. ...  50 e.p.                          5 d.p.
+Stairs,wooden,10'rise,3'w. ... 10 e.p.                        1-3 d.p.
+Tower,round,20'd.,30'h. .... 1000 e.p.                         40 d.p.
+Tower,round,30'd.,30'h. .... 2000 e.p.                         60 d.p.
+Tower,round,40'd.,30'h. .... 3000 e.p.                         80 d.p.
+Tower,square,10'sq.,30'h. ... 750 e.p.                         30 d.p.
+Tower.square,20'sq.,30'h. .. 1500 e.p.                         40 d.p.
+Tower.square,30'sq.,30'h. .. 2500 e.p.                         50 d.p.
+Tunnel,underground,
+   5'w.,8'h.,10'l. .......... 150 e.p.                          5 d.p.
+Wall,bastion,
+   5'w.,20'h.,40'l. ......... 750 e.p.                         40 d.p.
+Wall,curtain,
+   10'w.,20'h.,100'l. ...... 1500 e.p.                         20 d.p.
+Window,shuttered,2'w.,4'h. .... 5 e.p.                          4 d.p.
+Window,shuttered &
+   barred,2'w.,4'h. .......... 10 e.p.                         12 d.p.
+
+Furs and Pelts
+
+Aurumvorax .................... 5 e.p.          10 cn.
+Bear .......................... 5 e.p.          20 cn.
+Beaver ........................ 2 e.p.           5 cn.
+Bobcat ........................ 2 e.p.          10 cn.
+Bunyip ........................ 5 e.p.          10 cn.
+Caterwaul ..................... 7 e.p.          15 cn.
+Chinchilla .................... 3 e.p.          10 cn.
+Devil dog ..................... 5 e.p.          10 cn.
+Fox,hoar ...................... 5 e.p.           5 cn.
+Fox,red ....................... 3 e.p.           5 cn.
+Fox,silver .................... 4 e.p.           5 cn.
+Lynx .......................... 2 e.p.          10 cn.
+Mink .......................... 3 e.p.           5 cn.
+Musk-ox ....................... 5 e.p.           5 cn.
+Muskrat ....................... 4 e.p.           5 cn.
+Nonafel ....................... 7 e.p.          10 cn.
+Otter ......................... 2 e.p.           5 cn.
+Otter,sea ..................... 3 e.p.           5 cn.
+Owlbear ....................... 5 e.p.          20 cn.
+Panther ....................... 7 e.p.          15 cn.
+Sable ......................... 5 e.p.          10 cn.
+Seal .......................... 5 e.p.          10 cn.
+Snow leopard .................. 8 e.p.          15 cn.
+Tiger ......................... 5 e.p.          20 cn.
+Winter wolf ................... 5 e.p.          15 cn.
+Wolverine ..................... 3 e.p.          10 cn.
+Yeti .......................... 5 e.p.          30 cn.
+Zebra ......................... 5 e.p.          20 cn.
+
+Furnishings
+
+Armchair,padded ............... 3 e.p.         400 cn.
+Armchair,wooden ............... 1 e.p.         300 cn.
+Bed,double .................... 8 e.p.        1500 cn.
+Bed,single .................... 5 e.p.         900 cn.
+Bench,padded .................. 4 e.p.         200 cn.
+Bench,wooden .................. 2 e.p.         150 cn.
+Bookcase,metal,4'x 1'x 5' .... 15 e.p.        2500 cn.        l x w x h
+Bookcase,wooden,4'x 1'x 5' .... 5 e.p.        1000 cn.        l x w x h
+Bowl,pewter ................... 2 s.p.          15 cn.
+Bowl,pottery .................. 5 c.p.          15 cn.
+Bowl,silver ................... 9 e.p.          15 cn.
+Buffet ........................ 7 e.p.          50 cn.
+Cabinet ..................... 3-8 e.p.         800 cn.
+Carpet ..................... 1-10 c.p./s.y.     20 cn./s.y.
+Chair,padded .................. 2 e.p.         250 cn.
+Chair,wooden .................. 1 e.p.         180 cn.
+Chandelier ................... 20 e.p.+        300 cn.
+Chest of drawers ............ 5-7 e.p.         700 cn.
+Cup,pewter .................... 2 s.p.           5 cn.
+Cup,pottery ................... 4 c.p.           4 cn.
+Cup,silver .................... 2 e.p.           5 cn.
+Curtains/drapes ............. 1-4 s.p./s.y.     10 cn./s.y.
+Cushion ....................... 1 s.p.          10 cn.
+Cutlery,copper ................ 1 s.p./piece     5 cn./piece
+Cutlery,pewter ................ 2 s.p./piece     5 cn./piece
+Cutlery,silver ................ 5 e.p./piece     5 cn./piece
+Decanter,crystal .............. 1 g.p.          60 cn.
+Decanter,pottery .............. 3 c.p.          55 cn.
+Decanter,silver ............... 5 e.p.          60 cn.
+Desk ......................... 15 e.p.         350 cn.
+Goblet,crystal ................ 4 e.p.          10 cn.
+Goblet,pewter ................. 4 s.p.          10 cn.
+Goblet,silver ................. 2 e.p.          10 cn.
+Hamper ..................... 7-15 c.p.          40 cn.
+Kettle,iron,various sizes .. 2-12 e.p.       10-60 cn.
+Loom ........................ 3-7 e.p.        2000 cn.
+Mat .......................... 15 c.p.          50 cn.
+Mattress,feather,double ....... 4 e.p.         300 cn.
+Mattress,feather,single ....... 2 e.p.         200 cn.
+Mattress,straw,double ......... 3 e.p.         250 cn.
+Mattress,straw,single ......... 1 e.p.         150 cn.
+Mirror .................... 10-15 e.p./s.f.     20 cn./s.f.
+Pillow,feather .............. 1-2 s.p.          15 cn.
+Plate,pewter .................. 8 s.p.           7 cn.
+Plate,pottery ................. 8 c.p.           6 cn.
+Plate,silver .................. 2 e.p.           7 cn.
+Rug,small ..................... 1 s.p.+         50 cn.
+Rug,large ..................... 3 s.p.+        500 cn.
+Sconce,wall ................... 5 c.p.          50 cn.
+Sofa/couch ................... 30 e.p.         750 cn.
+Stool ......................... 3 e.p.          80 cn.
+Table ......................... 2 s.p./s.f.     50 cn./s.f.
+Tub ......................... 2-5 e.p.         100 cn.
+Wardrobe,plain ............... 15 e.p.         500 cn.
+Wardrobe,with mirror(s) ...... 25 e.p.+        850 cn.
+
+Herbs
+
+Belladona,sprig ............... 4 c.p.           5 cn.
+Garlic,bud .................... 5 b.p.           1 cn.
+Wolvesbane,sprig .............. 1 s.p.           5 cn.
+
+Hirelings, daily cost of
+
+Alchemist .................... 10 e.p.
+Animal Trainer ................ 3 e.p.
+Armorer ....................... 5 e.p.
+Bearer/Porter ................. 1 c.p.
+Blacksmith .................... 3 e.p.
+Boatwright .................... 1 s.p.
+Bowyer/Fletcher ............... 1 e.p.
+Carpenter ..................... 3 c.p.
+Engineer-Architect ............ 5 e.p.
+Engineer-Artillerist .......... 7 e.p.
+Engineer-Sapper/Miner ......... 7 e.p.
+Jeweler-Gemcutter ............. 5 e.p.
+Leather Worker ................ 2 c.p.
+Limner ........................ 1 e.p.
+Linkboy ....................... 1 c.p.
+Mason ......................... 4 c.p.
+
+Mercenary Soldier:
+
+   Archer (longbow) ........... 1 s.p.
+   Archer (shortbow) .......... 5 c.p.
+   Artillerist ............... 12 c.p.
+   Captain ................... 15 e.p.+
+   Crossbowman ................ 5 c.p.
+   Footman,heavy .............. 5 c.p.
+   Footman,light .............. 3 c.p.
+   Footman,pikeman ............ 8 c.p.
+   Habilar,heavy .............. 8 c.p.
+   Habilar,light .............. 5 c.p.
+   Horseman,archer ........... 15 c.p.
+   Horseman,crossbowman ....... 1 s.p.
+   Horseman,heavy ............ 15 c.p.
+   Horseman,light ............. 8 c.p.
+   Horseman,medium ............ 1 s.p.
+   Lieutenant ................. 8 e.p.+
+   Sapper/Miner ............... 1 s.p.
+   Serjeant .................. special
+   Slinger .................... 8 c.p.
+
+Pack Handler .................. 2 c.p.
+Sage ......................... special
+Scribe ........................ 5 s.p.
+
+Ship crew:
+
+   Marines .................... 8 c.p.
+   Mates ...................... 1 e.p.
+   Oarsmen ................... 12 c.p.
+   Sailors .................... 5 c.p.
+
+Ship Master .................. 15 e.p.+
+Spy .......................... special
+Steward/Castellan ............ 30 e.p.+
+Tailor ........................ 2 c.p.
+Teamster ...................... 5 c.p.
+Valet/Lackey .................. 3 c.p.
+Weapon Maker .................. 5 e.p.
+Weaver ........................ 2 c.p.
+
+Livestock
+
+Ape ......................... 150 e.p.       3,500 cn.
+Boar ......................... 10 e.p.       1,000 cn.
+Bull ......................... 20 e.p.      10,000 cn.
+Calf .......................... 5 e.p.         500 cn.
+Camel ..................... 10-15 e.p.       9,000 cn.
+Cat ........................... 5 s.p.         100 cn.
+Chicken ....................... 3 b.p.         100 cn.
+Cow .......................... 10 e.p.       7,500 cn.
+Dog,guard ................ 20-100 e.p.         800 cn.
+Dog,hunting ............... 20-50 e.p.         650 cn.
+Dog,lap .................... 5-20 e.p.         500 cn.
+Dog,sled .................. 10-40 e.p.         800 cn.
+Dog,war .................. 30-120 e.p.         950 cn.
+Donkey ........................ 8 e.p.       8,000 cn.
+Dove .......................... 3 s.p.          20 cn.
+Elephant,labor .......... 201-300 e.p.     100,000 cn.
+Elephant,war ........... 300-1200 e.p.     120,000 cn.
+Falcon,trained .......... 100-600 e.p.          80 cn.
+Goat .......................... 1 e.p.         600 cn.
+Hawk,large .............. 130-180 e.p.         400 cn.
+Hawk,small ................ 15-40 e.p.          70 cn.
+Horse,draft ............... 21-30 e.p.       8,000 cn.
+Horse,heavy war ......... 250-500 e.p.      13,000 cn.
+Horse,light war ......... 120-240 e.p.       7,000 cn.
+Horse,medium war ........ 180-360 e.p.       9,000 cn.
+Horse,riding .............. 20-50 e.p.       6,000 cn.
+Hunting cat .............. 10,000 e.p.       1,750 cn.
+Lama ......................... 30 e.p.       6,500 cn.
+Mule ......................... 20 e.p.       7,000 cn.
+Ox ........................... 15 e.p.      10,000 cn.
+Pigeon ........................ 2 b.p.          15 cn.
+Piglet ........................ 1 e.p.         100 cn.
+Pig ........................... 3 e.p.       3,000 cn.
+Pony,riding ............... 12-15 e.p.       4,000 cn.
+Pony,war .................. 21-30 e.p.       4,500 cn.
+Sheep ......................... 2 e.p.         500 cn.
+Songbird ...................... 4 c.p.          10 cn.
+Yak ........................... 9 e.p.       4,800 cn.
+
+Livestock,special
+
+Dragonnel ................ 45,000 e.p.     100,000 cn.
+Eel,giant ................. 4,500 e.p.      80,000 cn.
+Giant strider ............. 7,500 e.p.      11,000 cn.
+Griffon .................. 35,000 e.p.      80,000 cn.
+Hippocampus .............. 20,000 e.p.      40,000 cn.
+Hippogriff ............... 32,000 e.p.      20,000 cn.
+Pegasus .................. 40,000 e.p.      10,000 cn.
+Roc ...................... 30,000 e.p.     250,000 cn.
+Sea horse ................ 15,000 e.p.      15,000 cn.
+Unicorn ................. 500,000 e.p.       8,000 cn.
+Wyvern ................... 25,000 e.p.      60,000 cn.
+
+Miscellaneous  Equipment & Items
+
+Air bladder .................. 15 e.p.          20 cn.
+Backpack,leather .............. 2 e.p.          20 cn.
+Bag,leather ................... 8 c.p.           5 cn.
+Barrel,wooden 50 gal. ......... 1 e.p. 200 or 2400 cn.     50 gal. or 150 lb.
+Barrel,metal 50 gal. .......... 3 e.p. 500 or 2700 cn.     50 gal. or 150 1b.
+Bedroll ...................... 10 s.p.          80 cn.
+Bell ........................ 1-4 e.p.+     10-100 cn.
+Bird cage ................... 2-5 e.p.      50-100 cn.
+Blanket ..................... 5-8 c.p.          30 cn.
+Book,blank,100 pages,
+   papyrus .................. 160 e.p.         200 cn.
+Book,(as above),parchment ... 220 e.p.         200 cn.
+Book,(as above),vellum ...... 400 e.p.         200 cn.
+Bottle or flask ............... 3 s.p.          20 cn.
+Box,iron,large ............... 15 e.p.         750 cn.
+Box,iron,small ................ 8 e.p.         350 cn.
+Bracers,leather ............... 8 s.p.          15 cn.
+Bracers,metal ................. 1 e.p.          30 cn.
+Bucket ........................ 3 s.p.          40 cn.
+Candle,tallow ................. 1 b.p.           5 cn.
+Candle,wax .................... 1 c.p.           5 cn.
+Candle snuffer ................ 6 c.p.          15 cn.
+Cane,walking ................ 2-5 e.p.          60 cn.
+Case,bone,map or scroll ....... 5 e.p.          50 cn.
+Case,leather,
+   map or scroll ............. 15 s.p.          25 cn.
+Cask .......................... 5 c.p.   10 or 100 cn.
+Chain,iron,1',fine,small ...... 2 e.p.           5 cn.
+Chain,iron,1',heavy ........... 1 e.p.         100 cn.
+Chain,iron,1',light ........... 5 s.p.          50 cn.
+Chain,iron,1',medium .......... 8 s.p.          80 cn.
+Chalk,powder .................. 1 b.p./oz.       2 cn./oz.
+Chalk,stick of ................ 1 b.p.           2 cn./stick
+Charcoal,10 lb. bag of ........ 2 e.p.         100 cn.
+Chest,wooden,large ........... 16 s.p.         500 cn.
+Chest,wooden,small ............ 8 s.p.         250 cn.
+Chisel ........................ 1 e.p.          30 cn.
+Coal, 10 lb. bag of .......... 10 e.p.         100 cn.
+Cologne/perfume,1 oz .......... 1 e.p.+         10 cn.
+Comb .......................... 1 s.p.           5 cn.
+Cord,10' ...................... 1 s.p.           2 cn.
+Crampons ..................... 40 e.p.          30 cn.
+Crowbar ....................... 6 s.p.          60 cn.
+Dice/knucklebones,
+   1 pair of .................. 2 s.p.           5 cn.
+Dice/knucklebones,
+   1 pair of,loaded ......... 2-8 e.p.           5 cn.
+Drill,iron .................... 5 e.p.          50 cn.
+Earspoon ...................... 2 c.p.          10 cn.
+Fire-starting bow ............. 8 s.p.           5 cn.
+Fishhook ...................... 1 b.p.          .1 cn.
+Fishing net ................... 2 e.p./s.f.     10 cn./s.f.
+Flint and steel ............... 1 e.p.           3 cn.
+Glass ......................... 5 e.p./s.f.     20 cn./s.f.
+Glass bottle ................. 10 e.p.          30 cn.
+Glue,2 oz. pot of ............. 5 c.p.          10 cn.
+Grapnel ....................... 7 e.p.          75 cn.
+Grindstone .................... 5 c.p.       10-40 cn.
+Hacksaw ....................... 2 e.p.          20 cn.
+Hairbrush ..................... 7 c.p.           5 cn.
+Hammock ....................... 2 e.p.          20 cn.
+Hourglass .................... 25 e.p.+       5-30 cn.
+Ink,2 oz. pot of .............. 1 e.p.          10 cn.
+Jar,glass ..................... 5 e.p.          40 cn.
+Jug,clay ..................... 15 b.p.          50 cn.
+Keg,wooden 5 gal. ............ 15 c.p.   30 or 250 cn.      5 gal. or 15 lb.
+Ladder,12' .................... 5 c.p.         200 cn.
+Lamp,oil ...................... 2 e.p.          10 cn.           8 hours
+Lantern,beacon ............... 40 e.p.         500 cn.           2 hours
+Lantern,bullseye ............. 12 e.p.          30 cn.           6 hours
+Lantern,hooded ................ 7 e.p.          20 cn.           6 hours
+Lantern,waterproof ........... 50 e.p.          30 cn.           6 hours
+Lard,pint of .................. 5 b.p.          20 cn.
+Magnifying glass ............ 100 e.p.+       5-20 cn.
+Manacles,pair of,& key ........ 5 e.p.      20-100 cn.
+Map of the known world ........ 1 g.p.+         10 cn.
+Merchant's scale .............. 2 e.p.+     10-120 cn.
+Metal file .................... 2 e.p.          10 cn.
+Mirror,large,metal ........... 10 e.p.         100 cn.
+Mirror,small,silver .......... 20 e.p.          20 cn.
+Nails,iron,100 ................ 1 s.p.          10 cn.
+Oar ........................... 5 s.p.          50 cn.
+Oil,flask of .................. 1 e.p.          25 cn.
+Paddle ........................ 3 s.p.          35 cn.
+Padlock & key ................. 5 e.p.       20-80 cn.
+Padlock with poison
+   reservoir & key ........... 12 e.p.       20-80 cn.
+Pail .......................... 7 c.p.          10 cn.
+Paint,1 gallon of ............. 2 e.p.+        100 cn.
+Paint brush,fine .............. 1 e.p.          10 cn.
+Paint brush,large ............. 7 s.p.          40 cn.
+Paint brush,medium ............ 5 s.p.          20 cn.
+Papyrus,1 sheet ............... 2 e.p.           1 cn.
+Parchment,1 sheet ............. 4 e.p.           1 cn.
+Pen,fine,wooden ............... 5 c.p.           3 cn.
+Pen,quill ..................... 8 b.p.           2 cn.
+Pick axe,mining ............... 6 e.p.          50 cn.
+Pick,tooth,5 score of ......... 1 c.p.           1 cn.
+Pen,fine,metal ................ 1 s.p.           5 cn.
+Pipe,smoking .................. 1 c.p.+          5 cn.
+Pipeweed/tobacco,
+   8 oz.pouch of .............. 1 e.p.+          5 cn.
+Pliers ........................ 1 e.p.          25 cn.
+Pole,10' ...................... 3 b.p.         100 cn.
+Pot,iron cooking .............. 3 c.p.          50 cn.
+Pouch,belt,large .............. 1 e.p.          10 cn.
+Pouch,belt,small .............. 8 s.p.           5 cn.
+Pulley ....................... 25 e.p.           5 cn.
+Purse ......................... 1 c.p.           2 cn.
+Quilt ......................... 2 s.p.         100 cn.
+Quiver,1 dozen arrows cap ..... 8 c.p.          30 cn.
+Quiver,1 score arrows cap .... 12 c.p.          40 cn.
+Quiver,1 score bolts cap ...... 1 s.p.          35 cn.
+Quiver,2 score bolts cap ...... 2 s.p.          60 cn.
+Razor ......................... 1 e.p.           5 cn.
+Rocket,signal ................ 25 e.p.          30 cn.
+Rope,50' hemp ................. 5 c.p.          75 cn.
+Rope,50' superior ............ 10 c.p.         100 cn.
+Rope,50' silk ................ 25 e.p.          50 cn.
+Sack,large .................... 8 b.p.          20 cn.
+Sack,small .................... 5 b.p.           5 cn.
+Saw,one man ................... 2 e.p.          30 cn.
+Saw,two man .................. 12 e.p.         200 cn.
+Scabbard,sword,bastard ........ 3 e.p.          15 cn.
+Scabbard,sword,broad .......... 2 e.p.          10 cn.
+Scabbard,sword,katana ......... 3 e.p.          15 cn.
+Scabbard,sword,long ........... 2 e.p.          10 cn.
+Scabbard,sword,ninja-to ....... 1 e.p.+          5 cn.
+Scabbard,sword,rapier ......... 2 e.p.          10 cn.
+Scabbard,sword,scimitar ....... 2 e.p.          10 cn.
+Scabbard,sword,short .......... 1 e.p.           5 cn.
+Scabbard,sword,2-handed ....... 4 e.p.          20 cn.
+Sheath,dagger or knife ........ 6 s.p.           5 cn.
+Skin,water/wine .............. 15 c.p.     5 or 50 cn.
+Soap,8 oz. bar of ............. 2 c.p.           5 cn.
+Spade/shovel .................. 4 e.p.          60 cn.
+Spike,iron,large .............. 1 b.p.          10 cn.
+Spyglass .................... 100 g.p.          20 cn.
+String,50' .................... 1 c.p.          10 cn.
+Sundial ....................... 8 e.p.         500 cn.
+Tent,adequate:large .......... 75 e.p.         750 cn.          80 l.s.p.
+              medium ......... 50 e.p.         600 cn.          80 l.s.p.
+              small .......... 30 e.p.         500 cn.          80 l.s.p.
+Tent,good:large ............. 200 e.p.        1000 cn.         120 l.s.p.
+          medium ............ 120 e.p.         800 cn.         120 l.s.p.
+          small .............. 75 e.p.         600 cn.         120 l.s.p.
+Tent,poor:large .............. 30 e.p.         600 cn.          40 l.s.p.
+          medium ............. 20 e.p.         450 cn.          40 l.s.p.
+          small .............. 10 e.p.         350 cn.          40 l.s.p.
+Tent,superior:large ......... 400 e.p.        1500 cn.         180 l.s.p.
+              medium ........ 300 e.p.        1000 cn.         180 l.s.p.
+              small ......... 200 e.p.         750 cn.         180 l.s.p.
+Thieves' picks & tools ....... 30 e.p.          50 cn.
+Tinder Box with flint &
+   steel ...................... 2 e.p.          15 cn.
+Torch,normal .................. 3 b.p.          25 cn.           6 turns
+Torch,small ................... 1 b.p.          10 cn.           1 turns
+Vellum,1 sheet ................ 8 e.p.           1 cn.
+Vial,ceramic .................. 1 e.p.          25 cn.
+Vial,crystal .................. 3 e.p.          30 cn.
+Vial,metal .................... 5 e.p.          40 cn.
+Wallet ........................ 1 e.p.           5 cn.
+Waterclock .................... 5 g.p.         100 cn.
+Wax,candle,lb ................. 1 e.p.          10 cn.
+Wax,sealing,lb ................ 2 e.p.          10 cn.
+Whetstone ..................... 1 e.p.        5-20 cn.
+Whistle ....................... 1 e.p.           5 cn.
+Wig ........................... 2 e.p.           5 cn.
+
+Musical Instruments
+
+Bandore ...................... 15 e.p.         100 cn.
+Chime ......................... 2 e.p.+     10-200 cn.
+Drum .......................... 4 e.p.         200 cn.
+Fife .......................... 5 e.p.         100 cn.
+Flute ........................ 16 e.p.          50 cn.
+Gong .......................... 5 e.p.       5-100 cn.
+Harp ......................... 50 e.p.+        250 cn.
+Horn .......................... 6 e.p.          75 cn.
+Lute ......................... 25 e.p.         150 cn.
+Lyre ......................... 27 e.p.         100 cn.
+Mandolin ..................... 28 e.p.         150 cn.
+Pipes ......................... 2 e.p.          50 cn.
+Rebec & bow .................. 30 e.p.         150 cn.
+
+Provisions
+
+Ale,pint of ................... 1 c.p.
+Ale,dark,pint of .............. 3 c.p.
+Beer,heavy,pint of ............ 1 s.p.
+Beer,light,pint of ............ 4 c.p.
+Brandy,pint of ................ 1 s.p.+
+Bread,loaf of ................. 7 b.p.          25 cn.
+Cider,pint of ................. 8 c.p.
+Flour,10 lb. bag of ........... 6 s.p.         100 cn.
+Food,merchant's meal .......... 1 s.p.
+Food,rich meal ................ 1 e.p.
+Grain,horse meal,1 day ........ 1 c.p.          50 cn.
+Grog,pint of .................. 3 c.p.
+Juice,apple,pint of ........... 8 b.p.
+Juice,grape,pint of ........... 8 b.p.
+Juice,orange,pint of .......... 9 b.p.
+Juice,tomato,pint of .......... 7 b.p.
+Mead,pint of .................. 5 c.p.
+Milk,cow,pint of .............. 2 c.p.
+Milk,goat,pint of ............. 1 c.p.
+Rations,iron,1 week ........... 5 e.p.          75 cn.
+Rations,standard,1 week ....... 3 e.p.         200 cn.
+Rum,pint of ................... 5 c.p.+
+Tea,pint of ................... 7 b.p.
+Water,spring,pint of .......... 5 b.p.
+Wine,good,pint of ............. 1 s.p.+
+Wine,watered,pint of .......... 6 c.p.
+
+Religious Items
+
+Beads,Prayer .................. 1 e.p.           5 cn.
+Incense,stick ................. 1 e.p.+          1 cn.
+Symbol,Holy,iron .............. 2 e.p.          30 cn.
+Symbol,Holy,silver ........... 50 e.p.          20 cn.
+Symbol,Holy,wooden ............ 7 c.p.          10 cn.
+Water,Holy,vial .............. 25 e.p.          35 cn.
+Wheel,prayer .................. 3 e.p.         100 cn.
+
+Room and Board
+
+Night,common room ............. 1 s.p.
+Night,double room ............. 2 e.p.
+Night,private room ............ 1 e.p.
+Week,common room .............. 4 s.p.
+Week,double room .............. 9 e.p.
+Week,private room ............. 4 e.p.
+Month,common room ............. 3 e.p.
+Month,double room ............ 58 e.p.
+Month,private room ........... 29 e.p.
+
+Services,daily cost of inn
+
+Armor repair ................. 12 e.p.
+Guide,city .................... 5 s.p.
+Horse grooming ................ 3 s.p.
+Laundry ....................... 1 c.p.
+Messenger ..................... 2 e.p.
+Night guard .................. 15 e.p.
+Stable ........................ 2 e.p.
+Storage closet ................ 1 e.p.
+Weapon repair ................. 9 e.p.
+
+Siege Engines and Devices of War
+
+Ballista ..................... 75 e.p.         300 c.n.           2 d.p.
+Catapult,heavy .............. 200 e.p.        1000 c.n.           6 d.p.
+Catapult,light .............. 150 e.p.         500 c.n.           4 d.p.
+Cauldron,suspended ........... 50 e.p.         500 c.n.           2 d.p.
+Gallery,covered ............. 350 e.p.        5000 c.n.          10 d.p.
+Hoist ....................... 150 e.p.        2500 c.n.           4 d.p.
+Mangonel ..................... 75 e.p.         300 c.n.           2 d.p.
+Mantlet,movable .............. 25 e.p.         500 c.n.           3 d.p.
+Ram ......................... 500 e.p.         750 c.n.+         12 d.p.
+Ram catcher .................. 20 e.p.         250 c.n.           1 d.p.
+Scorpion ..................... 75 e.p.         300 c.n.           2 d.p.
+Siege tower ................. 800 e.p.       10000 c.n.          16 d.p.
+Sow ......................... 500 e.p.         500 c.n.+         12 d.p.
+Tortoise .................... 350 e.p.        5000 c.n.          10 d.p.
+Trebuchet ................... 500 e.p.        2500 c.n.           8 d.p.
+
+Spells
+
+Alarm ....................... 150 e.p./l.o.c
+Armor ....................... 100 e.p./l.o.c
+Astral Spell .............. 5,000 e.p./person
+Atonement ................... 500 e.p./l.o.t
+Augury ...................... 300 e.p.
+Bless ......................... 5 e.p./l.o.c.
+Commune ................... 5,000 e.p.
+Continual Light ............. 500 e.p.
+Control Weather .......... 10,000 e.p.
+Cure Blindness ............ 1,000 e.p.
+Cure Disease .............. 1,000 e.p.
+Cure Light Wounds ........... 100 e.p.
+Cure Serious Wounds ......... 350 e.p.
+Cure Critical Wounds ........ 600 e.p.
+Detect Evil/Good ............ 100 e.p.
+Detect Magic ................ 150 e.p.
+Dispel Evil/Good .......... 1,000 e.p.
+Dispel Magic ................ 100 e.p./l.o.c.
+Divination ................ 1,000 e.p.
+Earthquake .............. 100,000 e.p.
+Exorcise .................. 1,000 e.p./hour
+Find the Path ............... 500 e.p./l.o.c.
+Gate .................... 500,000 e.p.
+Glyph of Warding ............ 100 e.p./l.o.c.
+Heal ........................ 200 e.p./hit point
+Identify .................... 250 e.p.
+Invisibility ................ 300 e.p.
+Knock ..................... 1,000 e.p.
+Know Alignment ............ 1,000 e.p./l.o.c.
+Leomund's Trap .............. 500 e.p.
+Locate Object ............... 500 e.p.
+Magic Mouth ................. 800 e.p./word
+Mending ...................... 50 e.p.
+Neutralize Poison ......... 1,000 e.p.
+Part Water ................ 1,000 e.p./l.o.c.
+Plane Shift .............. 40,000 e.p.
+Prayer ....................... 50 e.p./l.o.c.
+Preserve .................... 100 e.p.
+Protection From evil ......... 50 e.p./l.o.c.
+Purify Food & Drink ......... 100 e.p.
+Raise Dead .................. 750 e.p./l.o.c.
+Raise Dead Fully .......... 7,500 e.p./l.o.c.
+Regenerate ............... 15,000 e.p.
+Remove Curse ................ 500 e.p./l.o.c.
+Resist Cold .................. 50 e.p./l.o.c.
+Resist Fire ................. 100 e.p./l.o.c.
+Restoration .............. 20,000 e.p.
+Silence ..................... 100 e.p./l.o.c.
+Slow Poison ................. 200 e.p./l.o.c.
+Speak With Dead ............. 100 e.p./l.o.c.
+Strength .................. 1,000 e.p./l.o.c.
+Tongues ..................... 500 e.p./l.o.c.
+Ture Seeing ................. 400 e.p./l.o.c.
+Wizard Lock ................. 100 e.p./l.o.c.
+Write ....................... 300 e.p.
+
+Tack & Harness
+
+Barding,chain ............... 300 e.p.       3,000 cn.
+Barding,leather ............. 100 e.p.       1,000 cn.
+Barding,plate ............... 500 e.p.       5,000 cn.
+Barding,scale ............... 200 e.p.       2,000 cn.
+Barding,splint .............. 400 e.p.       4,000 cn.
+Bit & Bridle ................. 15 c.p.          20 cn.
+Harness ...................... 12 c.p.         100 cn.
+Saddle ....................... 10 e.p.         350 cn.
+Saddle Bags,large ............. 4 e.p.         150 cn.
+Saddle Bags,small ............. 3 e.p.         100 cn.
+Saddle Blanket ................ 3 c.p.          40 cn.
+
+Torture device
+
+Branding iron ................. 2 e.p.          30 cn.
+Cage ......................... 20 e.p.       5,000 cn.
+Chair with straps ............. 7 e.p.         800 cn.
+Clamp ......................... 3 e.p.          50 cn.
+Iron boots .................... 5 e.p.         500 cn.
+Iron maiden .................. 70 e.p.       7,500 cn.
+Stocks ........................ 5 e.p.       3,000 cn.
+Thumb screw ................... 1 e.p.          10 cn.
+U-rack ....................... 25 e.p.       5,000 cn.
+Vice .......................... 9 e.p.         100 cn.
+
+Transport
+
+Barge (or Raft),small ......... 1 e.p./s.y.    100 cn./s.y.
+Boat,collapsible ............ 500 e.p.         600 cn.
+Boat,small ................... 75 e.p.         900 cn.
+Boat,long ................... 150 e.p.     250,000 cn.
+Canoe,small .................. 80 e.p.         800 cn.
+Canoe,large ................. 100 e.p.       1,600 cn.
+Cart ......................... 50 e.p.         800 cn.
+Chariot,riding ............... 90 e.p.       4,000 cn.
+Chariot,war ................. 110 e.p.       5,000 cn.
+Coach,royal ................. 200 e.p.+     18,000 cn.
+Dog-sled ..................... 30 e.p.         700 cn.
+Galley,large ............. 25,000 e.p.   2,750,000 cn.
+Galley,small ............. 10,000 e.p.   2,250,000 cn.
+Galley,war ............... 40,000 e.p.   2,500,000 cn.
+Kayak ....................... 250 e.p.         500 cn.
+Ship,merchant,large ...... 15,000 e.p.   2,500,000 cn.
+Ship,merchant,small ......  5,000 e.p.   2,000,000 cn.
+Ship,war ................. 20,000 e.p.   3,000,000 cn.
+Wagon,closed ................ 250 e.p.      20,000 cn.
+Wagon,open .................. 150 e.p.      15,000 cn.
+
+
+Notes:   cn. = coins               l.o.c. = level of caster
+        s.y. = square yard         l.o.t. = level of target
+        s.f. = square foot         l.s.p. = life span points
+       1 lb. = 10 coins              d.p. = defensive points
+        c.f. = cubic foot            gal. = gallon
+
+
+And now a few words about this list, were I got it and terms used in it.
+
+How did I get it?  Well years of collecting Dragon magazine and the flood
+of new AD&D books (1st ed.) that came out a few years ago (1986 I think).
+A list of all the 1st ed. books used:
+           Players Handbook                 (PH)
+           Unearthed Arcana                 (UA)
+           Oriental Adventures              (OA)
+           Wilderness Survival Guide        (WSG)
+           Dungeoneer's Survival Guide      (DSG)
+           Dungeon Master's Guide           (DMG)
+
+I have also pulled things in from the 2nd ed. Players Handbook and ICE's
+game Role Master as well as 3 or 4 Dragon magazine article in the range of
+Dragon 107 to 167 (the range of my collection).
+
+The terms.
+         Ok for those of you who play 2nd ed. and have never seen 1st ed.
+the weight (encumbrance in 1st ed.) is given in coins (cn), 10 cn = 1 lb.
+         The term life span points, given for tents, is used to show
+wear and tear on the tent in question.  Use subtract 1 pt for each 3 times
+it is put up, 1 pt if exposed to high wind, 2 to 4 pts if exposed to rain
+fall.  Things like hailstorms can take off whatever you like.  They can be
+repaired in towns by a tailor or the like.  For more see page 62 WSG.
+         The defensive points are just hit points for all consturctions
+For more on the defensive point see page 109 DMG 1st ed.
+
+A word on the notes section of the chart.  This section was used as a
+catch all section.
+           In the Armor section the note is for base armor class,
+              the * means AC for haed and neck only, and the +1
+              is just the shield bonus to base armor class.
+           In the Weapons section the note is damage vs small and
+              medium/large (SM/L)
+
+All prices and other information given here is based on rules in one of the
+works listed above, some has been changed to suit my needs.  Please fill
+free to change any and all information given here to suit your needs.
+
+Well I think that is every thing but I am wrong, nothing is ever done.
+If anybody has questions or a word on things I missed please tell me.
+Just sent me e-mail at CSGIBSON@ECUVM1.  Thanks,
+
+                                                Vortac
+
+PS  If anybody could tell me what an earspoon is, see list above, I would
+    like to know.  Later.
